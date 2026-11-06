@@ -1,0 +1,102 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Fabulaurora — Jeah Aurora Kim, biomedical communicator</title>
+  <meta name="description" content="Medical and scientific illustration, 3D models and XR training tools by Jeah Aurora Kim, MScBMC. For researchers, clinicians and educators in Korea and North America.">
+  <meta property="og:type" content="website">
+  <meta property="og:title" content="Fabulaurora — Jeah Aurora Kim, biomedical communicator">
+  <meta property="og:description" content="Making Science Fabulous Through Visual Storytelling: Journal figures, surgical and anatomical illustration, 3D models and XR training tools.">
+  <meta property="og:image" content="assets/img/brand/og-cover.jpg">
+  <meta name="twitter:card" content="summary_large_image">
+  <link rel="icon" href="assets/img/brand/favicon.png">
+  <link rel="apple-touch-icon" href="assets/img/brand/apple-touch-icon.png">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Bagel+Fat+One&family=IBM+Plex+Sans:ital,wght@0,400;0,500;0,600;1,400&family=IBM+Plex+Sans+KR:wght@400;500;600&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="assets/css/site.css">
+  <link rel="modulepreload" href="https://cdn.jsdelivr.net/npm/three@0.170.0/build/three.module.min.js">
+  <link rel="preload" as="fetch" href="assets/models/diorama.glb" crossorigin>
+  <script type="importmap">
+  { "imports": {
+      "three": "https://cdn.jsdelivr.net/npm/three@0.170.0/build/three.module.min.js",
+      "three/addons/": "https://cdn.jsdelivr.net/npm/three@0.170.0/examples/jsm/"
+  } }
+  </script>
+</head>
+<body data-header="dark">
+  <main>
+    <!-- The landing page is this one scene. Four labels on the right point at the floors; a label, its ring
+         on the model, or the floor itself opens that floor's card with three selected pieces. -->
+    <section class="hero" id="hero" data-model="assets/models/diorama.glb">
+      <div class="hero__stage" id="hero-stage">
+        <div class="hero__poster" role="img" data-i18n-attr="aria-label:hero.alt" aria-label="A four-tier cake of Jeah’s workplaces floating on a cloud: an art studio on top, a biology lab behind glass, a medical floor with holograms, and an XR beach at the bottom."></div>
+      </div>
+
+      <div class="callouts" id="callouts">
+        <svg aria-hidden="true"></svg>
+        <!-- rings, pinned to the model by hero.js -->
+        <button class="marker" type="button" data-floor="anatomy" data-d="anatomy" aria-pressed="false"><span class="sr-only" data-i18n="callout.anatomy.name">Anatomy</span></button>
+        <button class="marker" type="button" data-floor="biology" data-d="biology" aria-pressed="false"><span class="sr-only" data-i18n="callout.biology.name">Biology</span></button>
+        <button class="marker" type="button" data-floor="medical" data-d="medical" aria-pressed="false"><span class="sr-only" data-i18n="callout.medical.name">Medical science</span></button>
+        <button class="marker" type="button" data-floor="xr" data-d="xr" aria-pressed="false"><span class="sr-only" data-i18n="callout.xr.name">XR &amp; interactive</span></button>
+        <!-- labels, placed beside the floors by hero.js -->
+        <button class="callout" type="button" data-floor="anatomy" data-d="anatomy" aria-pressed="false">
+          <span class="callout__k" aria-hidden="true">a</span>
+          <span class="callout__name" data-i18n="callout.anatomy.name">Anatomy</span>
+          <span class="callout__sub" data-i18n="callout.anatomy.sub">Carbon dust, specimen drawing</span>
+        </button>
+        <button class="callout" type="button" data-floor="biology" data-d="biology" aria-pressed="false">
+          <span class="callout__k" aria-hidden="true">b</span>
+          <span class="callout__name" data-i18n="callout.biology.name">Biology</span>
+          <span class="callout__sub" data-i18n="callout.biology.sub">Cells, molecules, journal covers</span>
+        </button>
+        <button class="callout" type="button" data-floor="medical" data-d="medical" aria-pressed="false">
+          <span class="callout__k" aria-hidden="true">c</span>
+          <span class="callout__name" data-i18n="callout.medical.name">Medical science</span>
+          <span class="callout__sub" data-i18n="callout.medical.sub">Surgical illustration, CT to 3D</span>
+        </button>
+        <button class="callout" type="button" data-floor="xr" data-d="xr" aria-pressed="false">
+          <span class="callout__k" aria-hidden="true">d</span>
+          <span class="callout__name" data-i18n="callout.xr.name">XR &amp; interactive</span>
+          <span class="callout__sub" data-i18n="callout.xr.sub">VR, Vision Pro, training apps</span>
+        </button>
+      </div>
+
+      <!-- the open floor's card: filled by home.js -->
+      <aside class="floorcard" id="floorcard" aria-live="polite" hidden></aside>
+
+      <div class="wrap hero__inner">
+        <!-- the floors as chips: on phones, and whenever the 3D scene cannot run -->
+        <nav class="hero__chips" id="hero-chips" aria-label="Floors">
+          <button class="chip" type="button" data-floor="anatomy" data-d="anatomy" aria-pressed="false"><i class="dot"></i><span data-i18n="callout.anatomy.name">Anatomy</span></button>
+          <button class="chip" type="button" data-floor="biology" data-d="biology" aria-pressed="false"><i class="dot"></i><span data-i18n="callout.biology.name">Biology</span></button>
+          <button class="chip" type="button" data-floor="medical" data-d="medical" aria-pressed="false"><i class="dot"></i><span data-i18n="callout.medical.name">Medical science</span></button>
+          <button class="chip" type="button" data-floor="xr" data-d="xr" aria-pressed="false"><i class="dot"></i><span data-i18n="callout.xr.name">XR &amp; interactive</span></button>
+        </nav>
+        <div class="hero__copy" id="hero-copy">
+          <h1 class="display" data-i18n="hero.h1">Making Science Fabulous Through Visual Storytelling</h1>
+          <p class="lede" data-i18n="hero.lede">We bring together scientific precision, creative visualization, and technology to deliver science more accessible, meaningful, and inspiring.</p>
+          <div class="row">
+            <a class="btn btn--butter" href="gallery.html" data-i18n="hero.cta1">See the gallery</a>
+            <a class="btn btn--ghost-light" href="contact.html" data-i18n="hero.cta2">Start a project</a>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- collaborators: a slow band of logos -->
+    <section class="logos" id="logos" aria-labelledby="logos-h">
+      <div class="wrap logos__head">
+        <h2 class="fig-n" id="logos-h" data-i18n="home.proof.h">Made alongside clinicians and scientists at</h2>
+        <button class="logos__toggle" id="logos-toggle" type="button" aria-pressed="false" data-i18n-attr="aria-label:logos.pause" aria-label="Pause the moving logos"></button>
+      </div>
+      <div class="logos__viewport" id="logos-viewport"></div>
+    </section>
+  </main>
+
+  <noscript><p style="padding:2rem">This site needs JavaScript for the gallery and the blog. You can reach Jeah at fabulaurora@gmail.com.</p></noscript>
+  <script type="module" src="assets/js/home.js"></script>
+</body>
+</html>

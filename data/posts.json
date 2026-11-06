@@ -1,0 +1,393 @@
+{
+  "posts": [
+    {
+      "id": "p009",
+      "slug": "toolkit-mdacc",
+      "title": {
+        "en": "Educational Toolkit Launch: Workshop Day at the Ahearn Educator Program",
+        "ko": "교육자료 공개일: Ahearn Educator Program 워크숍"
+      },
+      "category": "biomedical",
+      "tags": [
+        "worklog",
+        "toolkit",
+        "education",
+        "microbiology",
+        "outreach",
+        "MD Anderson"
+      ],
+      "sort": "2026-06-17",
+      "date": "Jun 17, 2026",
+      "location": {
+        "en": "Houston, Texas",
+        "ko": "텍사스 휴스턴"
+      },
+      "author": "Jeah Kim",
+      "authorRole": {
+        "en": "Biomedical communicator.",
+        "ko": "바이오메디컬 커뮤니케이터."
+      },
+      "image": {
+        "src": "assets/img/blog/toolkit-mdacc/material-workshopday-001-sm.webp",
+        "srcset": {
+          "800": "assets/img/blog/toolkit-mdacc/material-workshopday-001-sm.webp",
+          "1920": "assets/img/blog/toolkit-mdacc/material-workshopday-001.webp"
+        },
+        "w": 1920,
+        "h": 1440
+      },
+      "imageAlt": {
+        "en": "Stacks of spiral-bound Medical Lab Science Detective Notes workbooks in front of piles of teacher guides on a table.",
+        "ko": "탁자 위에 쌓인 임상병리 탐정 노트 워크북과 교사용 지침서 더미."
+      },
+      "excerpt": {
+        "en": "Texas educators tried our lab detective toolkit at MD Anderson, and they had plenty to say about it.",
+        "ko": "텍사스 교사들이 MD 앤더슨에서 실험실 탐정 툴킷을 직접 살펴보고 많은 의견을 들려주었습니다."
+      },
+      "lead": {
+        "en": "On June 17, 2026, educators from around Greater Houston came to UT MD Anderson to try our classroom toolkits in person. Here is how the day went, and what they told us.",
+        "ko": "2026년 6월 17일, 휴스턴 일대의 교사들이 UT MD 앤더슨을 찾아 교실용 툴킷을 직접 살펴보았습니다. 그날의 풍경과 선생님들이 들려준 이야기를 전합니다."
+      },
+      "content": [
+        {
+          "en": "A classroom toolkit isn’t really finished until a teacher has had it in their hands. So I was glad to spend a day with the people who will actually use ours, at the <a href=\"https://www.mdanderson.org/education-training/clinical-training/certificate-programs-review-courses/ahearn-educator-program.html\" target=\"_blank\" rel=\"noopener\">Ahearn Educator Program</a>. Hosted by the School of Health Professions at UT MD Anderson Cancer Center, this one-day program introduces Texas STEM educators to the school and sends them home with resources for their classrooms.",
+          "ko": "강의자료 디자인은 실제 선생님들의 평가를 받아봐야만 비로소 잘 만들어진 것인지 확인이 가능합니다. 그래서 이 강의자료를 실제 수업에 적용할 중고등학교 선생님들을 <a href=\"https://www.mdanderson.org/education-training/clinical-training/certificate-programs-review-courses/ahearn-educator-program.html\" target=\"_blank\" rel=\"noopener\">Ahearn Educator Program</a>에 초대해 피드백을 받는 뜻깊은 하루를 보냈습니다. UT MD Anderson 암센터 보건전문대학이 주최한 워크샵은 텍사스의 STEM 교사들에게 본교 학/석사 프로그램을 소개 및 홍보하고, 수업에 바로 적용할 수 있는 강의계획서를 손에 들려 보내기 위해 기획되었습니다."
+        },
+        {
+          "en": "I developed the interactive web app and worksheets for two of the toolkits, Medical Laboratory Science and Diagnostic Imaging (CT), and led the workshop on bringing them into the classroom.",
+          "ko": "저는 임상병리 과학과 영상의학(CT), 두 가지 주제의 인터랙티브 웹 앱과 인쇄 가능한 활동지를 개발했고, 이를 수업에 적용하는 방법을 다룬 워크숍을 이끌었습니다."
+        },
+        {
+          "en": "## A Warm Welcome",
+          "ko": "## 환영합니다"
+        },
+        {
+          "en": "About 50 teachers and 30 counselors and advisors signed up for the workshop, so we prepared 80 copies of the workbook. Since a World Cup match (Portugal vs. Congo) was taking place at NRG Stadium that day, the preparation started early.",
+          "ko": "중고등학교 교사 약 50명과 상담 교사·진로 지도 담당자 약 30명이 워크숍에 신청해 주셔서 배포 자료 80부를 미리 준비했습니다. 그날 NRG 스타디움에서 월드컵 경기(포르투갈 대 콩고)가 열려 행사 준비는 굉장히 일찍부터 시작됐습니다."
+        },
+        {
+          "en": "Breakfast and coffee were waiting in a bright, welcoming room, giving attendees time to settle in and greet one another before the program began. A photo booth and souvenir shop were also ready to welcome our guests.",
+          "ko": "밝고 따뜻한 공간에는 아침 식사와 커피가 기다리고 있어, 참가자들은 프로그램이 시작되기 전에 자리를 잡고 서로 인사를 나눌 수 있었습니다. 포토 부스와 기념품 가게도 손님을 맞을 준비를 마쳤습니다."
+        },
+        {
+          "gallery": [
+            {
+              "src": "assets/img/blog/toolkit-mdacc/food-workshopday-001-sm.webp",
+              "srcset": {
+                "800": "assets/img/blog/toolkit-mdacc/food-workshopday-001-sm.webp",
+                "1920": "assets/img/blog/toolkit-mdacc/food-workshopday-001.webp"
+              },
+              "w": 1920,
+              "h": 1440,
+              "alt": {
+                "en": "A long table set with bagels, muffins, scones, cut fruit and lemon water.",
+                "ko": "베이글, 머핀, 스콘, 과일, 레몬 물이 차려진 긴 테이블."
+              },
+              "cap": {
+                "en": "Ready for the first arrivals",
+                "ko": "선생님들을 맞을 준비를 마친 테이블"
+              }
+            },
+            {
+              "src": "assets/img/blog/toolkit-mdacc/food-workshopday-002-sm.webp",
+              "srcset": {
+                "800": "assets/img/blog/toolkit-mdacc/food-workshopday-002-sm.webp",
+                "1920": "assets/img/blog/toolkit-mdacc/food-workshopday-002.webp"
+              },
+              "w": 1920,
+              "h": 1440,
+              "alt": {
+                "en": "A plate with a muffin, cantaloupe and strawberries, next to a strawberry yogurt and a cup of coffee.",
+                "ko": "머핀과 멜론, 딸기를 담은 접시 옆에 놓인 딸기 요거트와 커피 한 잔."
+              },
+              "cap": {
+                "en": "A quiet moment before the first session",
+                "ko": "첫 세션을 앞둔 잠깐의 여유"
+              }
+            },
+            {
+              "src": "assets/img/blog/toolkit-mdacc/photobooth-workshop-sm.webp",
+              "srcset": {
+                "800": "assets/img/blog/toolkit-mdacc/photobooth-workshop-sm.webp",
+                "1920": "assets/img/blog/toolkit-mdacc/photobooth-workshop.webp"
+              },
+              "w": 1920,
+              "h": 1440,
+              "alt": {
+                "en": "A smiling person with long brown hair takes a selfie in front of a School of Health Professions backdrop printed with the MD Anderson logo.",
+                "ko": "긴 갈색 머리의 사람이 미소 지으며 MD 앤더슨 로고와 보건전문대학 이름이 인쇄된 배경 앞에서 셀카를 찍는 모습."
+              },
+              "cap": {
+                "en": "A quick selfie at the photo booth",
+                "ko": "포토존에서 찍은 셀카 찰칵!"
+              }
+            }
+          ]
+        },
+        {
+          "en": "Following the introduction to the SHP department and the tour, lunch was served in the same room, with boxed meals neatly lined up for everyone to enjoy and recharge before the afternoon sessions.",
+          "ko": "보건전문대학(SHP) 소개와 투어를 마친 뒤, 같은 공간에 점심이 차려졌습니다. 가지런히 놓인 도시락을 즐기며 모두가 오후 세션을 앞두고 재충전할 수 있었습니다."
+        },
+        {
+          "gallery": [
+            {
+              "src": "assets/img/blog/toolkit-mdacc/food-workshopday-003-sm.webp",
+              "srcset": {
+                "800": "assets/img/blog/toolkit-mdacc/food-workshopday-003-sm.webp",
+                "1920": "assets/img/blog/toolkit-mdacc/food-workshopday-003.webp"
+              },
+              "w": 1920,
+              "h": 1440,
+              "alt": {
+                "en": "Boxed lunches stacked behind signs for nine sandwiches and wraps.",
+                "ko": "아홉 가지 샌드위치와 랩 안내판 뒤에 쌓인 점심 도시락."
+              },
+              "cap": {
+                "en": "All set for the lunch break",
+                "ko": "드디어 점심!"
+              }
+            },
+            {
+              "src": "assets/img/blog/toolkit-mdacc/food-workshopday-004-sm.webp",
+              "srcset": {
+                "800": "assets/img/blog/toolkit-mdacc/food-workshopday-004-sm.webp",
+                "1920": "assets/img/blog/toolkit-mdacc/food-workshopday-004.webp"
+              },
+              "w": 1920,
+              "h": 1440,
+              "alt": {
+                "en": "A lunch box printed with the MD Anderson logo and marked chicken salad, beside a bottle of water.",
+                "ko": "MD 앤더슨 로고가 찍히고 치킨 샐러드라고 표시된 도시락 상자와 생수 한 병"
+              },
+              "cap": {
+                "en": "Signature lunch box with logo",
+                "ko": "MD Anderson의 특별한 도시락"
+              }
+            }
+          ]
+        },
+        {
+          "en": "## Toolkits Ready",
+          "ko": "## 툴킷 준비 완료"
+        },
+        {
+          "en": "After lunch, the hands-on toolkit sessions kicked off, covering four fields: Molecular Genetic Technology, Medical Laboratory Science (MLS), Diagnostic Imaging (CT), and Histotechnology.",
+          "ko": "점심 후에는 직접 해 보는 툴킷 세션이 시작되었습니다. 분자유전 기술, 임상병리 과학(MLS), 영상의학(CT), 조직 기술의 네 분야를 다루었습니다."
+        },
+        {
+          "en": "I led the live demonstrations of the MLS toolkit alongside <b>Karen Clatt, M.Ed., MLS(ASCP)CM</b>, and the Diagnostic Imaging (CT) toolkit alongside <b>Alyssa Mora, R.T.(R)(CT)(ARRT)</b>, who both served as content advisors throughout the project.",
+          "ko": "저는 <b>Karen Clatt, M.Ed., MLS(ASCP)CM</b> 교수님과 함께 MLS 툴킷을, <b>Alyssa Mora, R.T.(R)(CT)(ARRT)</b> 강사님과 함께 영상의학(CT) 툴킷을 현장에서 시연했습니다. 두 분 모두 프로젝트 내내 콘텐츠 자문을 맡아 주셨습니다."
+        },
+        {
+          "gallery": [
+            {
+              "src": "assets/img/blog/toolkit-mdacc/material-workshopday-002-sm.webp",
+              "srcset": {
+                "800": "assets/img/blog/toolkit-mdacc/material-workshopday-002-sm.webp",
+                "1920": "assets/img/blog/toolkit-mdacc/material-workshopday-002.webp"
+              },
+              "w": 1920,
+              "h": 1440,
+              "alt": {
+                "en": "A table laid out with School of Health Professions brochures, teacher guides and Detective Notes workbooks.",
+                "ko": "보건전문대학 안내서, 교사용 지침서, Detective Notes 워크북이 놓인 테이블."
+              },
+              "cap": {
+                "en": "Set out for the Medical Laboratory Science session: School of Health Professions brochures, teacher guides, a glossary and Detective Notes workbooks.",
+                "ko": "임상병리 과학 세션을 위해 준비한 자료: 보건전문대학 안내서, 교사용 지침서, 용어집, Detective Notes 워크북."
+              }
+            },
+            {
+              "src": "assets/img/blog/toolkit-mdacc/demo-workshopday-001-sm.webp",
+              "srcset": {
+                "800": "assets/img/blog/toolkit-mdacc/demo-workshopday-001-sm.webp",
+                "1920": "assets/img/blog/toolkit-mdacc/demo-workshopday-001.webp"
+              },
+              "w": 1920,
+              "h": 1440,
+              "alt": {
+                "en": "A room of educators at tables looking through printed materials, while two presenters speak beside a slide about the toolkit.",
+                "ko": "테이블에 앉아 인쇄 자료를 살펴보는 교사들과, 툴킷 슬라이드 옆에서 발표하는 두 사람."
+              },
+              "cap": {
+                "en": "Educators paging through the printed materials during the session.",
+                "ko": "세션 중 인쇄 자료를 살펴보는 교사들."
+              }
+            }
+          ]
+        },
+        {
+          "en": "## Successful Launch",
+          "ko": "## 성공적인 공개"
+        },
+        {
+          "en": "The <b>Medical Laboratory Science toolkit</b> transforms students into lab detectives, challenging them to solve eight patient cases, each featuring a different bacterial infection. Their mission is to <b>find the bacterial suspect</b> responsible for each patient’s signs and symptoms.",
+          "ko": "<b>임상병리 과학 툴킷</b>은 학생들을 실험실 탐정으로 변신시켜, 저마다 다른 세균 감염을 다룬 여덟 건의 환자 사례를 풀어 보게 합니다. 환자마다 나타난 징후와 증상의 원인인 <b>세균 용의자를 찾는 것</b>이 학생들의 탐정으로서의 임무입니다."
+        },
+        {
+          "en": "Students begin by selecting a patient card from the Investigation Board. They then gather clues from bacterial culture, Gram staining, and biochemical test results, following the same diagnostic principles used by medical laboratory scientists in real-world practice. Along the way, interactive mini-quizzes help them interpret the evidence and narrow down the suspects.",
+          "ko": "학생들은 먼저 수사 보드에서 환자 카드를 고릅니다. 그런 다음 임상병리사가 실제 현장에서 따르는 것과 같은 진단 원리에 따라 세균 배양, 그람 염색, 생화학 검사 결과에서 단서를 모읍니다. 그 과정에서 미니 퀴즈가 증거를 해석하고 용의자를 좁혀 가도록 돕습니다."
+        },
+        {
+          "en": "Once they’ve gathered their clues, students return to the Investigation Board to recall what they’ve learned, connect the evidence, and trace the path from patient to pathogen. Each solved case earns a sticker, allowing students to personalize their boards and share their progress with classmates and educators.",
+          "ko": "단서를 모은 학생들은 수사 보드로 돌아와 배운 내용을 떠올리고, 증거를 연결하며, 환자에서 병원체까지 이어지는 길을 되짚습니다. 사건을 하나 풀 때마다 스티커를 얻어 자신의 보드를 꾸미고, 진행 상황을 친구들과 선생님께 보여 줄 수 있습니다."
+        },
+        {
+          "figure": {
+            "src": "assets/img/blog/toolkit-mdacc/demo-workshopday-002-sm.webp",
+            "srcset": {
+              "800": "assets/img/blog/toolkit-mdacc/demo-workshopday-002-sm.webp",
+              "1920": "assets/img/blog/toolkit-mdacc/demo-workshopday-002.webp"
+            },
+            "w": 1920,
+            "h": 1440,
+            "alt": {
+              "en": "Two presenters at a desk beside a large screen showing the Investigation Board and the mission to find the bacterial suspect, with educators watching from the tables.",
+              "ko": "수사 보드와 ‘세균 용의자를 찾아라’ 임무가 띄워진 큰 화면 옆 책상에 앉은 두 발표자와, 테이블에서 지켜보는 교사들."
+            },
+            "cap": {
+              "en": "The Investigation Board on the big screen during the Medical Laboratory Science session.",
+              "ko": "임상병리 과학 세션에서 큰 화면에 띄운 수사 보드."
+            }
+          }
+        },
+        {
+          "en": "<b>The same mysteries work on paper, too.</b>",
+          "ko": "<b>같은 활동을 오프라인에서도 해결할 수 있습니다.</b>"
+        },
+        {
+          "en": "One of my key design priorities was to make the toolkit accessible and practical for real classrooms, including schools with limited or no internet access.",
+          "ko": "제가 디자인에서 가장 중요하게 여긴 점 중 하나는 인터넷 환경이 제한적이거나 아예 없는 학교를 포함해, 실제 교실에서 쉽고 실용적으로 쓸 수 있는 강의자료를 만드는 것이었습니다."
+        },
+        {
+          "en": "To support this, I created black-and-white printable student worksheets, provided to teachers as PDFs along with implementation instructions. The interactive web experience was reimagined as a black and white coloring workbook, where students could work through the same cases, answer quizzes, and fill in illustrations while following the teacher’s PowerPoint presentation or printed materials.",
+          "ko": "이를 위해 쉽게 인쇄 가능한 흑백 활동지를 만들어, 강의 안내책자와 함께 PDF로 선생님들께 제공했습니다. 웹사이트 속 경험은 참여형 색칠공부 유형의 활동지로 새롭게 구성했습니다. 학생들은 선생님의 파워포인트 발표나 인쇄 자료를 따라가며 같은 사례를 풀고, 퀴즈에 답하고, 그림을 채워 나갈 수 있습니다."
+        },
+        {
+          "en": "This approach preserved the toolkit’s core elements of discovery and personalization without relying on digital devices.",
+          "ko": "이 방식으로 웹사이트에 의존하지 않고도 같은 학습 경험을 구현하고 맞춤형 디자인 및 학생들이 느낄 여러 재미 요소를 담아낼 수 있었습니다."
+        },
+        {
+          "en": "I also included a <b>blank investigation template</b> for students eager to explore further. They could conduct their own microbiology research, invent patient scenarios, and build original investigation cases, extending the learning experience beyond the prepared activities.",
+          "ko": "열정이 많은(?) 학생들을 위해 <b>빈 템플릿</b>도 제공했습니다. 학생들은 직접 관심있는 미생물을 조사하고, 환자의 감염경로 시나리오를 만들고, 그에 따른 진단 시험 과정을 나열하면서 짜여진 활동 너머로 개인 학습 역량을 넓혀 갈 수 있습니다."
+        },
+        {
+          "video": {
+            "src": "assets/img/blog/toolkit-mdacc/material-workshop-web.mp4",
+            "poster": "assets/img/blog/toolkit-mdacc/material-workshop-poster.webp",
+            "w": 960,
+            "h": 672
+          },
+          "caption": {
+            "en": "A flip through Case #4, “Mona’s Hidden in the Pool,” in the Detective Notes workbook.",
+            "ko": "Detective Notes 워크북의 사례 4 「Mona’s Hidden in the Pool」을 넘겨 보는 영상."
+          }
+        },
+        {
+          "en": "## What Teachers Told Us",
+          "ko": "## 선생님들의 후기"
+        },
+        {
+          "en": "After the workshop, educators filled in a short survey. Nine completed it for the Medical Laboratory Science toolkit, so this is a small group rather than a formal study, but the answers were encouraging:",
+          "ko": "워크숍이 끝난 뒤 선생님들이 짧은 설문에 답해 주셨습니다. 임상병리 과학 툴킷은 아홉 분이 응답을 마쳤습니다. 정식 설문조사 결과라기보다는 작은 규모의 의견 수렴이지만, 결과는 굉장히 긍정적이었습니다."
+        },
+        {
+          "en": "- 8 of 9 said it aligns with their curriculum and TEKS standards",
+          "ko": "- 9명 중 8명: 교육과정 및 TEKS 기준에 부합한다"
+        },
+        {
+          "en": "- 8 of 9 said the challenge level is right for grades 7–8",
+          "ko": "- 9명 중 8명: 난이도가 7–8학년에 적절하다"
+        },
+        {
+          "en": "- 7 of 9 said the content is appropriate for grades 7–8",
+          "ko": "- 9명 중 7명: 내용이 7–8학년에 적절하다"
+        },
+        {
+          "en": "- 7 of 9 said it sparks student interest in healthcare careers",
+          "ko": "- 9명 중 7명: 학생들의 보건의료 진로 관심을 높인다"
+        },
+        {
+          "quote": {
+            "en": "“Honestly, high school students would love this!”",
+            "ko": "“솔직히 고등학생들이 정말 좋아할 것 같아요!”"
+          },
+          "by": {
+            "en": "Classroom teacher",
+            "ko": "교과 교사"
+          }
+        },
+        {
+          "quote": {
+            "en": "“The scenarios are totally relatable for students!”",
+            "ko": "“시나리오가 학생들에게 정말 와닿아요!”"
+          },
+          "by": {
+            "en": "Health science teacher",
+            "ko": "보건과학 교사"
+          }
+        },
+        {
+          "quote": {
+            "en": "“The toolkit is so cool! Would love to see more case studies. Thanks for creating this.”",
+            "ko": "“툴킷이 정말 멋져요! 사례 연구가 더 있으면 좋겠어요. 만들어 주셔서 감사합니다.”"
+          },
+          "by": {
+            "en": "Classroom teacher",
+            "ko": "교과 교사"
+          }
+        },
+        {
+          "en": "## Pointing to Higher Grades",
+          "ko": "## 더 높은 학년을 향해"
+        },
+        {
+          "en": "One of my initial design concerns was whether the toolkit might feel too childish for its intended audience. However, feedback from teachers suggested that both the content and presentation could appeal to students in higher grades.",
+          "ko": "디자인 초기에 제가 걱정한 점 중 하나는 툴킷이 대상 학생들에게 너무 유치하게 느껴지지 않을까 하는 것이었습니다. 하지만 선생님들의 의견을 들어 보니, 내용과 표현 방식 모두 더 높은 학년의 학생들에게도 적합해 보였습니다."
+        },
+        {
+          "quote": {
+            "en": "“I think it can be adapted with open ended questions to higher grades.”",
+            "ko": "“개방형 질문을 더하면 더 높은 학년에도 맞게 조정할 수 있을 것 같아요.”"
+          },
+          "by": {
+            "en": "Classroom teacher",
+            "ko": "교과 교사"
+          }
+        },
+        {
+          "en": "Their feedback reinforced one of our core design principles: <b>creating flexible, expandable learning experiences that can grow with students.</b>",
+          "ko": "선생님들의 후기는 저희의 핵심 디자인 원칙 중 하나를 다시금 확인해 주었습니다. 바로 <b>학생과 함께 자랄 수 있는 유연하고 확장 가능한 학습 경험을 만드는 것</b>입니다."
+        },
+        {
+          "en": "For the MLS toolkit, students could move beyond the prepared cases to develop their own investigations using the blank template. For the Diagnostic Imaging (CT) toolkit, introductory analogies could gradually be replaced with more complex, real-world clinical examples for older students.",
+          "ko": "MLS 툴킷에서는 학생들이 준비된 사례를 넘어 빈 템플릿으로 자신만의 수사를 만들어 볼 수 있습니다. 영상의학(CT) 툴킷에서는 고학년 학생들을 위해 입문용 비유를 더 복잡한 실제 임상 사례로 차츰 바꿔 갈 수 있습니다."
+        },
+        {
+          "en": "These possibilities demonstrated how both toolkits could be adapted to different levels of difficulty, teaching styles, and classroom settings, extending their value beyond the originally intended grade levels.",
+          "ko": "이런 가능성은 두 툴킷을 다양한 난이도와 수업 방식, 교실 환경에 맞게 조정해, 처음 의도한 학년을 넘어서까지 활용할 수 있음을 보여 주었습니다."
+        },
+        {
+          "en": "## Wrap-Up",
+          "ko": "## 마무리"
+        },
+        {
+          "en": "It was a wonderful opportunity to lead the <b>end-to-end design process</b>, develop educational toolkits from concept to completion, and present them directly to the educators who could bring them into their classrooms.",
+          "ko": "디자인 과정 전체를 이끌고, 교육용 툴킷을 <b>구상부터 완성까지 개발</b>하고, 이를 교실로 가져갈 선생님들께 직접 선보일 수 있어 정말 값진 기회였습니다."
+        },
+        {
+          "en": "Seeing teachers explore the activities, engage with the materials, and imagine new ways to use them was especially rewarding.",
+          "ko": "선생님들이 활동을 살펴보고, 자료를 직접 다뤄 보고, 새로운 활용 방법을 떠올리는 모습을 지켜본 것이 특히 보람 있었습니다."
+        },
+        {
+          "en": "Thank you to the educators who spent a summer day with us and to the School of Health Professions for hosting this experience.",
+          "ko": "무더운 여름 중 어떤 하루를 통째로 함께해 주신 선생님들과, 이 자리를 마련해 준 보건전문대학에 감사드립니다."
+        },
+        {
+          "en": "If you’re curious how the toolkits came together, from the first sketches and design decisions to the final printed workbooks, <b><a href=\"work.html?id=mls-toolkit\">explore the full design journey in the gallery.</a></b>",
+          "ko": "첫 스케치와 디자인 결정부터 완성된 인쇄 워크북까지 툴킷이 만들어진 과정이 궁금하시다면, <b><a href=\"work.html?id=mls-toolkit\">갤러리에서 전체 디자인 과정을 살펴봐주세요.</a></b>"
+        }
+      ]
+    }
+  ]
+}

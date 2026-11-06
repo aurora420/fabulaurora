@@ -1,0 +1,48 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Contact — Fabulaurora</title>
+  <meta name="description" content="Start a project with Jeah Aurora Kim: journal figures, surgical and anatomical illustration, 3D models, XR prototypes and educational toolkits.">
+  <link rel="icon" href="assets/img/brand/favicon.png">
+  <link rel="apple-touch-icon" href="assets/img/brand/apple-touch-icon.png">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Bagel+Fat+One&family=IBM+Plex+Sans:ital,wght@0,400;0,500;0,600;1,400&family=IBM+Plex+Sans+KR:wght@400;500;600&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="assets/css/site.css">
+</head>
+<body>
+  <main>
+    <section class="page-head">
+      <div class="wrap">
+        <h1 class="display" data-i18n="contact.h1">Start a project</h1>
+        <p class="lede" data-i18n="contact.lede">Tell me what the visual needs to explain. I’ll reply with next steps.</p>
+      </div>
+    </section>
+    <section class="section section--tight" style="padding-top:0">
+      <div class="wrap contact-grid">
+        <form class="form" id="form" novalidate>
+          <div class="form__two">
+            <div class="field"><label for="f-name" data-i18n="contact.name">Your name</label><input class="input" id="f-name" name="name" autocomplete="name" required><p class="error" hidden></p></div>
+            <div class="field"><label for="f-email" data-i18n="contact.email">Email</label><input class="input" id="f-email" name="email" type="email" autocomplete="email" required><p class="error" hidden></p></div>
+          </div>
+          <div class="field"><label for="f-org"><span data-i18n="contact.org">Organisation</span> <span class="hint">(<span data-i18n="contact.optional">optional</span>)</span></label><input class="input" id="f-org" name="organisation" autocomplete="organization"></div>
+          <fieldset class="field" style="border:0;padding:0;margin:0">
+            <legend data-i18n="contact.need" style="margin-bottom:.5rem">What do you need?</legend>
+            <div class="picker" id="needs"></div>
+          </fieldset>
+          <div class="field"><label for="f-deadline"><span data-i18n="contact.deadline">Deadline</span> <span class="hint">(<span data-i18n="contact.optional">optional</span>)</span></label><input class="input" id="f-deadline" name="deadline"><p class="hint" data-i18n="contact.deadline.hint">A date, or “flexible”</p></div>
+          <div class="field"><label for="f-message" data-i18n="contact.message">What should it explain, and for whom?</label><textarea class="textarea" id="f-message" name="message" required></textarea><p class="hint" data-i18n="contact.message.hint">Please feel free to include any relevant details</p><p class="error" hidden></p></div>
+          <input type="text" name="_gotcha" tabindex="-1" autocomplete="off" style="position:absolute;left:-9999px" aria-hidden="true">
+          <div class="row"><button class="btn btn--primary" type="submit" id="send">Send message</button></div>
+          <p class="notice" id="status" role="status" hidden></p>
+        </form>
+
+        <aside class="reach" id="reach"></aside>
+      </div>
+    </section>
+  </main>
+  <script type="module" src="assets/js/contact.js"></script>
+</body>
+</html>

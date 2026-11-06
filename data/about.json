@@ -1,0 +1,280 @@
+{
+  "name": "Jeah Aurora Kim",
+  "credentials": "MScBMC, BEng",
+  "intro": {
+    "en": "Bring together scientific precision, creative visualization and technology to make science more accessible, meaningful and inspiring.",
+    "ko": "당신의 연구가 단순한 정보 전달을 넘어, 새로운 이해와 발견, 영감으로 이어지도록 만듭니다."
+  },
+  "directions": [
+    {
+      "room": "medical",
+      "title": {
+        "en": "Working alongside professionals to enhance communication",
+        "ko": "전문가와 나란히 일하며 소통을 돕기"
+      },
+      "text": {
+        "en": "Collaborating with medical experts to transform complex ideas into practical solutions. From surgical 3D models to interactive learning experiences, from concept to execution.",
+        "ko": "다양한 분야의 전문가들과 협력해 수술용 3D 모델부터 인터랙티브 교육 콘텐츠까지, 아이디어를 실제 솔루션으로 구현합니다."
+      }
+    },
+    {
+      "room": "xr",
+      "title": {
+        "en": "Pushing the boundaries of storytelling through AR and VR",
+        "ko": "AR·VR을 활용한 스토리텔링과 시각화"
+      },
+      "text": {
+        "en": "Developing immersive AR/VR solutions for medical simulation, clinical education, and cancer rehabilitation.",
+        "ko": "의료 시뮬레이션부터 임상 교육, 재활 프로그램까지, 몰입형 AR/VR 솔루션을 개발합니다."
+      }
+    }
+  ],
+  "experience": [
+    {
+      "role": {
+        "en": "Research Assistant",
+        "ko": "연구원"
+      },
+      "where": {
+        "en": "MD Anderson Cancer Center",
+        "ko": "MD 앤더슨 암센터"
+      },
+      "when": {
+        "en": "Jun 2025 – Jul 2026",
+        "ko": "2025.06 – 2026.07"
+      },
+      "points": [
+        {
+          "en": "Built a prototype VR environment for the 6-Minute Walk Test for cancer survivors using Unity and a PICO headset, developed the accompanying research protocol, and presented the project at the 2026 Annual Virtual Reality and Healthcare Global Symposium in Tampa, Florida.",
+          "ko": "Unity 및 PICO VR 헤드셋을 활용하여 암 생존자를 위한 가상현실 기반 보행 재활 프로그램 프로토타입 개발 및 연구 프로토콜 설계. International Virtual Reality and Healthcare Global Symposium 2026에서 연구 성과 발표 (미국 탬파)"
+        },
+        {
+          "en": "Developed an interactive web app and downloadable worksheets for diagnostic imaging and medical laboratory science toolkits, and led a one-day workshop for Texas high-school teachers on classroom implementation and healthcare career exploration.",
+          "ko": "MD Anderson School of Health Professions 교육진과 협력하여 진단영상 및 임상병리 교육용 인터랙티브 웹 애플리케이션과 학습 자료 개발. 텍사스주 중/고등학교 교사 대상 워크숍을 주도하여 교육 콘텐츠의 실제 수업 적용 및 보건의료 분야 진로 탐색 지원 (미국 휴스턴)"
+        }
+      ]
+    },
+    {
+      "role": {
+        "en": "Medical Illustrator",
+        "ko": "메디컬 일러스트레이터"
+      },
+      "where": {
+        "en": "Samsung Medical Center",
+        "ko": "삼성서울병원"
+      },
+      "when": {
+        "en": "Jun 2022 – Aug 2023",
+        "ko": "2022.06 – 2023.08"
+      },
+      "points": [
+        {
+          "en": "Performed medical image segmentation and patient-specific 3D reconstruction for hepatocellular carcinoma and living donor liver transplantation cases using Materialise Mimics, and developed 3D-printed surgical guides for planning, simulation and patient education.",
+          "ko": "간암·간이식 수술 계획·시뮬레이션·환자 교육을 위한 맞춤형 3D 모델링 수행 및 3D 프린팅 수술 가이드 개발 (Materialise Mimics, Blender 활용)"
+        },
+        {
+          "en": "Designed graphical abstracts for medical research publications.",
+          "ko": "연구/학술용 일러스테이션 제작"
+        }
+      ]
+    },
+    {
+      "role": {
+        "en": "Research Assistant",
+        "ko": "연구원"
+      },
+      "where": {
+        "en": "Biomedical Communications Lab, Incheon Catholic University",
+        "ko": "인천가톨릭대학교 바이오메디컬 커뮤니케이션 연구실"
+      },
+      "when": {
+        "en": "Mar – Aug 2022",
+        "ko": "2022.03 – 2022.08"
+      },
+      "points": [
+        {
+          "en": "Created vector-based icons and graphic templates for biomedical content.",
+          "ko": "바이오메디컬 콘텐츠 벡터 아이콘과 그래픽 템플릿 제작"
+        }
+      ]
+    },
+    {
+      "role": {
+        "en": "Medical Operations Trainee",
+        "ko": "메디컬 오퍼레이션 인턴"
+      },
+      "where": {
+        "en": "Sanofi-Aventis Korea",
+        "ko": "사노피-아벤티스 코리아"
+      },
+      "when": {
+        "en": "Jul 2020 – Jan 2021",
+        "ko": "2020.07 – 2021.01"
+      },
+      "points": [
+        {
+          "en": "Assisted in operating clinical studies and executing medical programs.",
+          "ko": "임상 연구 운영과 메디컬 프로그램 실행 지원"
+        }
+      ]
+    }
+  ],
+  "education": [
+    {
+      "role": {
+        "en": "MSc in Biomedical Communications",
+        "ko": "바이오메디컬 커뮤니케이션 석사"
+      },
+      "where": {
+        "en": "University of Toronto",
+        "ko": "토론토 대학교"
+      }
+    },
+    {
+      "role": {
+        "en": "BEng in Biological Engineering",
+        "ko": "생물공학 학사"
+      },
+      "where": {
+        "en": "Konkuk University, GPA 4.47 / 4.5",
+        "ko": "건국대학교(서울), 평점 4.47 / 4.5"
+      }
+    }
+  ],
+  "projects": [
+    {
+      "work": "icurwave",
+      "role": {
+        "en": "ICUrWave",
+        "ko": "ICUrWave"
+      },
+      "where": {
+        "en": "Master’s research project: a mobile, interactive NMES therapy training app",
+        "ko": "석사 연구 프로젝트: 모바일 인터랙티브 신경근 전기자극 치료 교육 앱"
+      },
+      "points": [
+        {
+          "en": "Led end-to-end design and development: user research, content-expert collaboration, project planning, UX/UI, 3D asset creation, Unity development and TestFlight deployment.",
+          "ko": "사용자 연구/분석, 전문가 협업, 프로젝트 기획, UX/UI, 3D 에셋 제작, Unity 개발, TestFlight 배포까지 전 과정을 이끌었습니다."
+        }
+      ]
+    },
+    {
+      "work": "angiopilot",
+      "role": {
+        "en": "AngioPilot",
+        "ko": "AngioPilot"
+      },
+      "where": {
+        "en": "Immersive interventional radiology training, with medVR and Massachusetts General Hospital",
+        "ko": "몰입형 중재영상의학 교육 · medVR, 매사추세츠 종합병원 협업"
+      },
+      "when": {
+        "en": "Mar 2025 – now",
+        "ko": "2025.03 – 현재"
+      },
+      "points": [
+        {
+          "en": "Designed a self-directed, gamified Apple Vision Pro simulation for splenic trauma embolization training, translating clinical workflows into UX/UI interactions and anatomically accurate visual assets with clinicians and developers.",
+          "ko": "임상의·개발자와 함께 비장 외상 색전술 과정을 학습할 수 있는 자기주도형 애플 비전 프로 시뮬레이션을 개발하고,  사용자 중심의 UX/UI 인터랙션과 해부학적으로 정확한 비주얼 에셋을 디자인했습니다."
+        }
+      ]
+    },
+    {
+      "work": "anatomee",
+      "role": {
+        "en": "AnatoMEE",
+        "ko": "AnatoMEE"
+      },
+      "where": {
+        "en": "Anatomical Online Mapping–Exploration–Extrapolation, with the Division of Anatomy, University of Toronto",
+        "ko": "토론토 대학교 해부학교실 협업"
+      },
+      "when": {
+        "en": "Sep 2023 – Aug 2025",
+        "ko": "2023.09 – 2025.08"
+      },
+      "points": [
+        {
+          "en": "Contributed 3D bone models, interactive web elements and 2D animations to a gamified anatomy web app.",
+          "ko": "게임형 해부학 웹 앱에 3D 뼈 모델, 인터랙티브 웹 요소, 2D 애니메이션을 제작했습니다."
+        },
+        {
+          "en": "Led focus-group usability testing with undergraduates: recruitment, survey design, prototype preparation and iterative refinement from feedback.",
+          "ko": "학부생 포커스 그룹 사용성 테스트를 이끌었습니다: 참가자 모집, 설문 설계, 프로토타입 준비, 피드백 기반 반복 개선."
+        }
+      ]
+    }
+  ],
+  "recognition": [
+    {
+      "role": {
+        "en": "RSNA 2025 scientific abstract presentation",
+        "ko": "RSNA 2025 과학 초록 발표"
+      },
+      "where": {
+        "en": "AngioPilot, 111th Scientific Assembly and Annual Meeting, Chicago",
+        "ko": "AngioPilot · 제111차 학술대회, 시카고"
+      },
+      "work": "angiopilot"
+    },
+    {
+      "role": {
+        "en": "IVRHA 2026 oral presentation",
+        "ko": "IVRHA 2026 구연 발표"
+      },
+      "where": {
+        "en": "The six-minute walk test in VR for AYA cancer survivors",
+        "ko": "AYA 암 생존자를 위한 VR 6분 보행 검사"
+      },
+      "work": "m6ve-aya"
+    },
+    {
+      "role": {
+        "en": "First Prize, Mixed and Virtual Reality",
+        "ko": "혼합·가상현실 부문 1위"
+      },
+      "where": {
+        "en": "SensAI Hackathon Barcelona, with LatteArtXR",
+        "ko": "SensAI Hackathon Barcelona · LatteArtXR"
+      },
+      "work": "latte-art-xr"
+    },
+    {
+      "role": {
+        "en": "Top 12 finalist, Art Neureau 2025",
+        "ko": "Art Neureau 2025 최종 12인"
+      },
+      "where": {
+        "en": "“Sensing the Unseen” exhibition, with The Loop of Emotion",
+        "ko": "「Sensing the Unseen」 전시 · 감정의 고리"
+      },
+      "work": "loop-of-emotion"
+    },
+    {
+      "role": {
+        "en": "First place, IMS Healthcare Challenge 2025",
+        "ko": "IMS Healthcare Challenge 2025 1위"
+      },
+      "where": {
+        "en": "An AI overlay for the EMR inbox; brand story, name and logo",
+        "ko": "EMR 인박스를 위한 AI 오버레이 · 브랜드 스토리, 이름, 로고"
+      },
+      "post": "ims-healthcare-challenge-2025"
+    }
+  ],
+  "tools": [
+    "Unity",
+    "Xcode and SwiftUI (visionOS)",
+    "Autodesk Maya",
+    "ZBrush",
+    "Blender",
+    "3D Slicer",
+    "Materialise Mimics",
+    "ChimeraX",
+    "Adobe Illustrator",
+    "Adobe Photoshop",
+    "Adobe After Effects",
+    "Procreate"
+  ]
+}

@@ -1,0 +1,5400 @@
+{
+ "works": [
+  {
+   "id": "quorum-sensing",
+   "room": "biology",
+   "year": "2024",
+   "featured": true,
+   "title": {
+    "en": "Quorum Sensing",
+    "ko": "쿼럼 센싱"
+   },
+   "kind": {
+    "en": "Journal cover design",
+    "ko": "저널 표지 디자인"
+   },
+   "tools": "Autodesk Maya, Adobe Photoshop",
+   "statement": {
+    "en": "Bacteria vote. A journal cover that shows quorum sensing as an election deciding what the colony does next.",
+    "ko": "박테리아도 투표를 합니다. 쿼럼 센싱을 군집의 다음 행동을 정하는 선거로 풀어낸 저널 표지."
+   },
+   "brief": {
+    "problem": {
+     "en": "Quorum sensing is invisible chemistry: cells release autoinducers, sense how crowded they are, and switch genes on together.",
+     "ko": "쿼럼 센싱은 눈에 보이지 않는 화학입니다. 세포들은 자가유도물질을 내보내 밀도를 감지하고, 함께 유전자를 켭니다."
+    },
+    "approach": {
+     "en": "A voting metaphor. Autoinducers become ID cards, and the tally opens a path to one of three islands: motility, bioluminescence or biofilm.",
+     "ko": "투표라는 은유를 썼습니다. 자가유도물질은 신분증이 되고, 개표 결과에 따라 운동성·생물발광·바이오필름 세 섬 중 하나로 가는 길이 열립니다."
+    }
+   },
+   "hero": {
+    "src": "assets/img/work/quorum-sensing/hero-sm.webp",
+    "srcset": {
+     "800": "assets/img/work/quorum-sensing/hero-sm.webp",
+     "1910": "assets/img/work/quorum-sensing/hero.webp"
+    },
+    "w": 1910,
+    "h": 2500
+   },
+   "trail": [
+    {
+     "stage": {
+      "en": "Thumbnails",
+      "ko": "섬네일"
+     },
+     "note": {
+      "en": "Version 1: the first composition.",
+      "ko": "버전 1: 첫 구도."
+     },
+     "images": [
+      {
+       "src": "assets/img/work/quorum-sensing/step1-1-sm.webp",
+       "srcset": {
+        "800": "assets/img/work/quorum-sensing/step1-1-sm.webp",
+        "1920": "assets/img/work/quorum-sensing/step1-1.webp"
+       },
+       "w": 1920,
+       "h": 2517,
+       "cap": {
+        "en": "Thumbnail image ver 001"
+       }
+      }
+     ]
+    },
+    {
+     "stage": {
+      "en": "Drafts",
+      "ko": "초안"
+     },
+     "note": {
+      "en": "Versions 2 and 3 refine the scene.",
+      "ko": "버전 2와 3에서 장면을 다듬었습니다."
+     },
+     "images": [
+      {
+       "src": "assets/img/work/quorum-sensing/step2-1-sm.webp",
+       "srcset": {
+        "800": "assets/img/work/quorum-sensing/step2-1-sm.webp",
+        "1920": "assets/img/work/quorum-sensing/step2-1.webp"
+       },
+       "w": 1920,
+       "h": 2561,
+       "cap": {
+        "en": "Draft ver 002"
+       }
+      },
+      {
+       "src": "assets/img/work/quorum-sensing/step2-2-sm.webp",
+       "srcset": {
+        "800": "assets/img/work/quorum-sensing/step2-2-sm.webp",
+        "1920": "assets/img/work/quorum-sensing/step2-2.webp"
+       },
+       "w": 1920,
+       "h": 2517,
+       "cap": {
+        "en": "Draft ver 003"
+       }
+      }
+     ]
+    },
+    {
+     "stage": {
+      "en": "The voters",
+      "ko": "유권자들"
+     },
+     "note": {
+      "en": "Bacillus, Vibrio and Coccus line up to vote. Autoinducers act as their ID cards.",
+      "ko": "간균, 비브리오, 구균이 투표하러 줄을 섭니다. 자가유도물질이 신분증 역할을 합니다."
+     },
+     "images": [
+      {
+       "src": "assets/img/work/quorum-sensing/step3-1-sm.webp",
+       "srcset": {
+        "800": "assets/img/work/quorum-sensing/step3-1-sm.webp",
+        "1804": "assets/img/work/quorum-sensing/step3-1.webp"
+       },
+       "w": 1804,
+       "h": 1910,
+       "cap": {
+        "en": "Bacillus, Vibrio, Coccus voting"
+       }
+      },
+      {
+       "src": "assets/img/work/quorum-sensing/step3-2-sm.webp",
+       "srcset": {
+        "800": "assets/img/work/quorum-sensing/step3-2-sm.webp",
+        "1920": "assets/img/work/quorum-sensing/step3-2.webp"
+       },
+       "w": 1920,
+       "h": 2517,
+       "cap": {
+        "en": "Autoinducers act as their ID cards, allowing bacteria to recognize one another."
+       }
+      }
+     ]
+    },
+    {
+     "stage": {
+      "en": "The path",
+      "ko": "길"
+     },
+     "note": {
+      "en": "Votes build the path to each island.",
+      "ko": "표가 모여 각 섬으로 가는 길이 됩니다."
+     },
+     "images": [
+      {
+       "src": "assets/img/work/quorum-sensing/step4-1-sm.webp",
+       "srcset": {
+        "800": "assets/img/work/quorum-sensing/step4-1-sm.webp",
+        "1920": "assets/img/work/quorum-sensing/step4-1.webp"
+       },
+       "w": 1920,
+       "h": 2517,
+       "cap": {
+        "en": "Bacteria votes make the path to each island"
+       }
+      }
+     ]
+    },
+    {
+     "stage": {
+      "en": "Three islands",
+      "ko": "세 개의 섬"
+     },
+     "note": {
+      "en": "Motility borrows from real test-tube assays; bioluminescence shows a gene switching on; biofilm shows resistance.",
+      "ko": "운동성 섬은 실제 시험관 검사에서, 생물발광 섬은 유전자가 켜지는 순간에서, 바이오필름 섬은 항생제 저항에서 가져왔습니다."
+     },
+     "images": [
+      {
+       "src": "assets/img/work/quorum-sensing/step5-1-sm.webp",
+       "srcset": {
+        "800": "assets/img/work/quorum-sensing/step5-1-sm.webp",
+        "1920": "assets/img/work/quorum-sensing/step5-1.webp"
+       },
+       "w": 1920,
+       "h": 2517,
+       "cap": {
+        "en": "[Motility Island] Inspired by actual motility test using test tubes and petri dishes"
+       }
+      },
+      {
+       "src": "assets/img/work/quorum-sensing/step5-2-sm.webp",
+       "srcset": {
+        "800": "assets/img/work/quorum-sensing/step5-2-sm.webp",
+        "1920": "assets/img/work/quorum-sensing/step5-2.webp"
+       },
+       "w": 1920,
+       "h": 2517,
+       "cap": {
+        "en": "[Bioluminescence Island] To visualize the bioluminescence gene has switched on"
+       }
+      },
+      {
+       "src": "assets/img/work/quorum-sensing/step5-3-sm.webp",
+       "srcset": {
+        "800": "assets/img/work/quorum-sensing/step5-3-sm.webp",
+        "1920": "assets/img/work/quorum-sensing/step5-3.webp"
+       },
+       "w": 1920,
+       "h": 2517,
+       "cap": {
+        "en": "[Biofilm Island] Bacteria forming biofilms to resist antibiotics and cause inflammation."
+       }
+      }
+     ]
+    }
+   ],
+   "cover": {
+    "src": "assets/img/work/quorum-sensing/hero-sm.webp",
+    "srcset": {
+     "800": "assets/img/work/quorum-sensing/hero-sm.webp",
+     "1910": "assets/img/work/quorum-sensing/hero.webp"
+    },
+    "w": 1910,
+    "h": 2500
+   }
+  },
+  {
+   "id": "cellular-aging",
+   "room": "biology",
+   "year": "2024",
+   "featured": true,
+   "title": {
+    "en": "Cellular Aging in Morphological Aspect",
+    "ko": "세포 모양으로 나타나는 노화"
+   },
+   "kind": {
+    "en": "Editorial illustration",
+    "ko": "에디토리얼 일러스트"
+   },
+   "tools": "ZBrush, Cinema 4D, Adobe Illustrator",
+   "statement": {
+    "en": "Young and aged cells drawn as two planets, so four morphological signs of ageing read at a glance.",
+    "ko": "젊은 세포와 노화된 세포를 서로 다른 시간의 흐름 속에 놓인 두 행성에 빗대어, 노화에 따른 네 가지 형태적 변화를 직관적으로 보여주었습니다."
+   },
+   "brief": {
+    "problem": {
+     "en": "Can you tell a cell’s biological age just by looking at it?",
+     "ko": "세포의 생물학적 나이를 눈으로 알아볼 수 있을까요?"
+    },
+    "approach": {
+     "en": "Borrowed gravitational time dilation: a blue planet for the young cell, a sunset-coloured one for the aged cell, with the differences carried by membrane and organelles.",
+     "ko": "중력에 의한 시간 지연 개념을 빌렸습니다. 젊은 세포는 푸른 행성, 노화 세포는 노을빛 행성으로 그리고, 세포막과 소기관의 차이로 시간을 보여 줍니다."
+    }
+   },
+   "hero": {
+    "src": "assets/img/work/cellular-aging/hero-sm.webp",
+    "srcset": {
+     "800": "assets/img/work/cellular-aging/hero-sm.webp",
+     "1920": "assets/img/work/cellular-aging/hero.webp"
+    },
+    "w": 1920,
+    "h": 1280
+   },
+   "details": [
+    {
+     "src": "assets/img/work/cellular-aging/detail-01-sm.webp",
+     "srcset": {
+      "800": "assets/img/work/cellular-aging/detail-01-sm.webp",
+      "1800": "assets/img/work/cellular-aging/detail-01.webp"
+     },
+     "w": 1800,
+     "h": 1200,
+     "cap": {
+      "en": "Younger cell"
+     }
+    },
+    {
+     "src": "assets/img/work/cellular-aging/detail-02-sm.webp",
+     "srcset": {
+      "800": "assets/img/work/cellular-aging/detail-02-sm.webp",
+      "1800": "assets/img/work/cellular-aging/detail-02.webp"
+     },
+     "w": 1800,
+     "h": 1200,
+     "cap": {
+      "en": "Nucleus"
+     }
+    },
+    {
+     "src": "assets/img/work/cellular-aging/detail-03-sm.webp",
+     "srcset": {
+      "800": "assets/img/work/cellular-aging/detail-03-sm.webp",
+      "1800": "assets/img/work/cellular-aging/detail-03.webp"
+     },
+     "w": 1800,
+     "h": 1200,
+     "cap": {
+      "en": "Side view of nucleus"
+     }
+    },
+    {
+     "src": "assets/img/work/cellular-aging/detail-04-sm.webp",
+     "srcset": {
+      "800": "assets/img/work/cellular-aging/detail-04-sm.webp",
+      "1800": "assets/img/work/cellular-aging/detail-04.webp"
+     },
+     "w": 1800,
+     "h": 1200,
+     "cap": {
+      "en": "Simple version"
+     }
+    }
+   ],
+   "cover": {
+    "src": "assets/img/work/cellular-aging/hero-sm.webp",
+    "srcset": {
+     "800": "assets/img/work/cellular-aging/hero-sm.webp",
+     "1920": "assets/img/work/cellular-aging/hero.webp"
+    },
+    "w": 1920,
+    "h": 1280
+   }
+  },
+  {
+   "id": "weight-loss-drugs",
+   "room": "biology",
+   "year": "2024",
+   "title": {
+    "en": "Innovation of Weight Loss Drug",
+    "ko": "체중 감량 약물의 혁신"
+   },
+   "kind": {
+    "en": "Molecular illustration",
+    "ko": "분자 시각화"
+   },
+   "tools": "RCSB PDB, Autodesk Maya, Adobe Illustrator",
+   "statement": {
+    "en": "FDA-approved weight-loss therapeutics and the molecular strategies that keep them working longer.",
+    "ko": "FDA 승인 체중 감량 치료제와, 약효를 오래 유지하게 하는 분자 전략을 한 장에 담았습니다."
+   },
+   "hero": {
+    "src": "assets/img/work/weight-loss-drugs/hero-sm.webp",
+    "srcset": {
+     "800": "assets/img/work/weight-loss-drugs/hero-sm.webp",
+     "1920": "assets/img/work/weight-loss-drugs/hero.webp"
+    },
+    "w": 1920,
+    "h": 1242
+   },
+   "trail": [
+    {
+     "stage": {
+      "en": "Drafts",
+      "ko": "초안"
+     },
+     "note": {
+      "en": "Two layout drafts before modelling.",
+      "ko": "모델링 전에 그린 두 번의 레이아웃 초안."
+     },
+     "images": [
+      {
+       "src": "assets/img/work/weight-loss-drugs/step1-1-sm.webp",
+       "srcset": {
+        "800": "assets/img/work/weight-loss-drugs/step1-1-sm.webp",
+        "1920": "assets/img/work/weight-loss-drugs/step1-1.webp"
+       },
+       "w": 1920,
+       "h": 1440,
+       "cap": {
+        "en": "Draft ver 001"
+       }
+      },
+      {
+       "src": "assets/img/work/weight-loss-drugs/step1-2-sm.webp",
+       "srcset": {
+        "800": "assets/img/work/weight-loss-drugs/step1-2-sm.webp",
+        "1920": "assets/img/work/weight-loss-drugs/step1-2.webp"
+       },
+       "w": 1920,
+       "h": 1240,
+       "cap": {
+        "en": "Draft ver 002"
+       }
+      }
+     ]
+    },
+    {
+     "stage": {
+      "en": "Render tests",
+      "ko": "렌더 테스트"
+     },
+     "note": {
+      "en": "One render style tried on three molecules: exenatide, semaglutide, tirzepatide.",
+      "ko": "하나의 렌더 스타일을 엑세나타이드, 세마글루타이드, 티르제파타이드에 시험했습니다."
+     },
+     "images": [
+      {
+       "src": "assets/img/work/weight-loss-drugs/step2-1-sm.webp",
+       "srcset": {
+        "800": "assets/img/work/weight-loss-drugs/step2-1-sm.webp",
+        "1920": "assets/img/work/weight-loss-drugs/step2-1.webp"
+       },
+       "w": 1920,
+       "h": 1920,
+       "cap": {
+        "en": "Render style test - Exenatide"
+       }
+      },
+      {
+       "src": "assets/img/work/weight-loss-drugs/step2-2-sm.webp",
+       "srcset": {
+        "800": "assets/img/work/weight-loss-drugs/step2-2-sm.webp",
+        "1920": "assets/img/work/weight-loss-drugs/step2-2.webp"
+       },
+       "w": 1920,
+       "h": 1920,
+       "cap": {
+        "en": "Render style test - Semaglutide"
+       }
+      },
+      {
+       "src": "assets/img/work/weight-loss-drugs/step2-3-sm.webp",
+       "srcset": {
+        "800": "assets/img/work/weight-loss-drugs/step2-3-sm.webp",
+        "1920": "assets/img/work/weight-loss-drugs/step2-3.webp"
+       },
+       "w": 1920,
+       "h": 1920,
+       "cap": {
+        "en": "Render style test - Tirzepatide"
+       }
+      }
+     ]
+    }
+   ],
+   "cover": {
+    "src": "assets/img/work/weight-loss-drugs/hero-sm.webp",
+    "srcset": {
+     "800": "assets/img/work/weight-loss-drugs/hero-sm.webp",
+     "1920": "assets/img/work/weight-loss-drugs/hero.webp"
+    },
+    "w": 1920,
+    "h": 1242
+   }
+  },
+  {
+   "id": "bone-loss-spaceflight",
+   "room": "biology",
+   "year": "2024",
+   "title": {
+    "en": "To Infinity and Bones",
+    "ko": "우주 비행 후 골손실"
+   },
+   "kind": {
+    "en": "Data visualization",
+    "ko": "데이터 시각화"
+   },
+   "tools": "Adobe Illustrator, RAWGraphs, Tableau",
+   "statement": {
+    "en": "Why astronauts lose bone on long missions, and how osteocytes sense mechanical force. Made for bone researchers.",
+    "ko": "장기 우주 비행에서 뼈가 소실되는 이유와 기계적 힘을 감지하는 골세포의 역할. 골 연구자를 위해 만들었습니다."
+   },
+   "hero": {
+    "src": "assets/img/work/bone-loss-spaceflight/hero-sm.webp",
+    "srcset": {
+     "800": "assets/img/work/bone-loss-spaceflight/hero-sm.webp",
+     "1920": "assets/img/work/bone-loss-spaceflight/hero.webp"
+    },
+    "w": 1920,
+    "h": 1252
+   },
+   "cover": {
+    "src": "assets/img/work/bone-loss-spaceflight/hero-sm.webp",
+    "srcset": {
+     "800": "assets/img/work/bone-loss-spaceflight/hero-sm.webp",
+     "1920": "assets/img/work/bone-loss-spaceflight/hero.webp"
+    },
+    "w": 1920,
+    "h": 1252
+   }
+  },
+  {
+   "id": "transient-reprogramming",
+   "room": "biology",
+   "year": "2022",
+   "title": {
+    "en": "Maturation Phase Transient Reprogramming",
+    "ko": "성숙기 일시적 리프로그래밍"
+   },
+   "kind": {
+    "en": "Visual abstract",
+    "ko": "그래픽 초록"
+   },
+   "tools": "Adobe Illustrator",
+   "statement": {
+    "en": "A visual abstract of the method that turns back the age of skin cells, read counter-clockwise like a clock running backwards.",
+    "ko": "피부 세포의 나이를 되돌리는 기술을 정리한 비주얼 초록. 거꾸로 가는 시계처럼 반시계 방향으로 읽힙니다."
+   },
+   "brief": {
+    "approach": {
+     "en": "The epigenome clock is drawn as an analogue clock, the transcriptome clock as a digital timer of genes switching on and off.",
+     "ko": "후성유전체 시계는 아날로그 시계로, 전사체 시계는 유전자가 켜지고 꺼지는 디지털 타이머로 그렸습니다."
+    }
+   },
+   "hero": {
+    "src": "assets/img/work/transient-reprogramming/hero-sm.webp",
+    "srcset": {
+     "800": "assets/img/work/transient-reprogramming/hero-sm.webp",
+     "1920": "assets/img/work/transient-reprogramming/hero.webp"
+    },
+    "w": 1920,
+    "h": 1920
+   },
+   "cover": {
+    "src": "assets/img/work/transient-reprogramming/hero-sm.webp",
+    "srcset": {
+     "800": "assets/img/work/transient-reprogramming/hero-sm.webp",
+     "1920": "assets/img/work/transient-reprogramming/hero.webp"
+    },
+    "w": 1920,
+    "h": 1920
+   }
+  },
+  {
+   "id": "yeast-fermentor",
+   "room": "biology",
+   "year": "2023",
+   "title": {
+    "en": "Yeast Fermentor Design in Lab",
+    "ko": "실험실 효모 배양기 설계"
+   },
+   "kind": {
+    "en": "3D model",
+    "ko": "3D 모델"
+   },
+   "tools": "Autodesk Maya",
+   "statement": {
+    "en": "A 3D recreation of the yeast fermentor I designed for an undergraduate experiment.",
+    "ko": "학부 실험에서 직접 설계한 효모 배양기를 3D로 다시 만들었습니다."
+   },
+   "hero": {
+    "src": "assets/img/work/yeast-fermentor/hero-sm.webp",
+    "srcset": {
+     "800": "assets/img/work/yeast-fermentor/hero-sm.webp",
+     "1920": "assets/img/work/yeast-fermentor/hero.webp"
+    },
+    "w": 1920,
+    "h": 1080
+   },
+   "cover": {
+    "src": "assets/img/work/yeast-fermentor/hero-sm.webp",
+    "srcset": {
+     "800": "assets/img/work/yeast-fermentor/hero-sm.webp",
+     "1920": "assets/img/work/yeast-fermentor/hero.webp"
+    },
+    "w": 1920,
+    "h": 1080
+   }
+  },
+  {
+   "id": "mls-toolkit",
+   "room": "medical",
+   "year": "2026",
+   "featured": true,
+   "title": {
+    "en": "Medical Laboratory Science Toolkit",
+    "ko": "임상병리 과학 툴킷"
+   },
+   "kind": {
+    "en": "Educational toolkit",
+    "ko": "교육용 툴킷"
+   },
+   "medium": {
+    "en": "Interactive website, printable worksheets, teacher slides",
+    "ko": "인터랙티브 웹사이트, 인쇄용 워크시트, 교사용 슬라이드"
+   },
+   "partner": {
+    "en": "UT MD Anderson Cancer Center, School of Health Professions",
+    "ko": "UT MD 앤더슨 암센터 보건전문대학"
+   },
+   "statement": {
+    "en": "Students become lab detectives: eight patient cases that teach microbiology to grades 7 and 8, online and on paper.",
+    "ko": "학생이 실험실 탐정이 됩니다. 7–8학년에게 미생물학을 가르치는 여덟 개의 환자 사례를 온라인과 종이로 만들었습니다."
+   },
+   "brief": {
+    "audience": {
+     "en": "Grade 7–8 learners, and the teachers and TAs who need curriculum-aligned tools.",
+     "ko": "7–8학년 학생과, 교육과정에 맞는 자료가 필요한 교사·조교."
+    },
+    "problem": {
+     "en": "Turn complex knowledge into something a grade 7–8 student relates to, in 15 to 20 minutes per activity.",
+     "ko": "복잡한 미생물학 내용을 중학생이 공감할 수 있게, 활동 하나당 15–20분 안에 전달해야 했습니다."
+    },
+    "approach": {
+     "en": "Story-based patient scenarios on an investigation board, with printable Detective Notes and slides for the classroom.",
+     "ko": "수사 보드 위에서 풀어 가는 환자 이야기, 그리고 교실용 인쇄물 「Detective Notes」와 슬라이드."
+    }
+   },
+   "hero": {
+    "src": "assets/img/work/mls-toolkit/board-sm.webp",
+    "srcset": {
+     "800": "assets/img/work/mls-toolkit/board-sm.webp",
+     "2000": "assets/img/work/mls-toolkit/board.webp"
+    },
+    "w": 2000,
+    "h": 1714,
+    "cap": {
+     "en": "Investigation Board: every case solved",
+     "ko": "수사 보드: 모든 사건 해결"
+    }
+   },
+   "trail": [
+    {
+     "stage": {
+      "en": "Pre-production",
+      "ko": "프리프로덕션"
+     },
+     "note": {
+      "en": "Planning the modules and what each scenario teaches.",
+      "ko": "모듈 구성과 시나리오별 학습 목표를 계획했습니다."
+     },
+     "images": [
+      {
+       "src": "assets/img/work/mls-toolkit/step1-1-sm.webp",
+       "srcset": {
+        "800": "assets/img/work/mls-toolkit/step1-1-sm.webp",
+        "1920": "assets/img/work/mls-toolkit/step1-1.webp"
+       },
+       "w": 1920,
+       "h": 1920,
+       "cap": {
+        "en": "Pre-production"
+       }
+      }
+     ]
+    },
+    {
+     "stage": {
+      "en": "Curriculum fit",
+      "ko": "교육과정 정합"
+     },
+     "note": {
+      "en": "Curriculum-aligned and classroom-ready by design.",
+      "ko": "처음부터 교육과정과 교실 환경에 맞춰 설계했습니다."
+     },
+     "images": [
+      {
+       "src": "assets/img/work/mls-toolkit/step2-1-sm.webp",
+       "srcset": {
+        "800": "assets/img/work/mls-toolkit/step2-1-sm.webp",
+        "1920": "assets/img/work/mls-toolkit/step2-1.webp"
+       },
+       "w": 1920,
+       "h": 983,
+       "cap": {
+        "en": "Curriculum Aligned, Classroom-Ready Design"
+       }
+      }
+     ]
+    },
+    {
+     "stage": {
+      "en": "Build Identity",
+      "ko": "아이덴티티 만들기"
+     },
+     "note": {
+      "en": "A detective logo and patient characters set the tone.",
+      "ko": "탐정 로고와 환자 캐릭터로 분위기를 잡았습니다."
+     },
+     "images": [
+      {
+       "src": "assets/img/work/mls-toolkit/step4-1-sm.webp",
+       "srcset": {
+        "800": "assets/img/work/mls-toolkit/step4-1-sm.webp",
+        "1668": "assets/img/work/mls-toolkit/step4-1.webp"
+       },
+       "w": 1668,
+       "h": 2038,
+       "cap": {
+        "en": "Landing Page - MLS module"
+       }
+      },
+      {
+       "src": "assets/img/work/mls-toolkit/step3-1-sm.webp",
+       "srcset": {
+        "800": "assets/img/work/mls-toolkit/step3-1-sm.webp",
+        "1920": "assets/img/work/mls-toolkit/step3-1.webp"
+       },
+       "w": 1920,
+       "h": 1920,
+       "cap": {
+        "en": "Logo Design"
+       }
+      }
+     ]
+    },
+    {
+     "stage": {
+      "en": "Patient Scenario",
+      "ko": "환자 시나리오"
+     },
+     "note": {
+      "en": "8 relatable scenarios that can spark conversations at home.",
+      "ko": "공감할 수 있는 내용의 8가지 환자 시나리오."
+     },
+     "images": [
+      {
+       "src": "assets/img/work/mls-toolkit/step3-2-sm.webp",
+       "srcset": {
+        "800": "assets/img/work/mls-toolkit/step3-2-sm.webp",
+        "1920": "assets/img/work/mls-toolkit/step3-2.webp"
+       },
+       "w": 1920,
+       "h": 1920,
+       "cap": {
+        "en": "Patient Character Design"
+       }
+      },
+      {
+       "src": "assets/img/work/mls-toolkit/step4-4-sm.webp",
+       "srcset": {
+        "800": "assets/img/work/mls-toolkit/step4-4-sm.webp",
+        "1534": "assets/img/work/mls-toolkit/step4-4.webp"
+       },
+       "w": 1534,
+       "h": 1500,
+       "cap": {
+        "en": "Patient Scenario"
+       }
+      }
+     ]
+    },
+    {
+     "stage": {
+      "en": "User Flow Design",
+      "ko": "사용자 흐름 설계"
+     },
+     "note": {
+      "en": "Landing page, onboarding, the investigation board and lab notes for collecting clues.",
+      "ko": "랜딩 페이지, 온보딩, 수사 보드, 단서를 모으는 실험 노트."
+     },
+     "images": [
+      {
+       "src": "assets/img/work/mls-toolkit/step4-2-sm.webp",
+       "srcset": {
+        "800": "assets/img/work/mls-toolkit/step4-2-sm.webp",
+        "1920": "assets/img/work/mls-toolkit/step4-2.webp"
+       },
+       "w": 1920,
+       "h": 1204,
+       "cap": {
+        "en": "Onboarding Tutorial"
+       }
+      },
+      {
+       "src": "assets/img/work/mls-toolkit/step4-5-sm.webp",
+       "srcset": {
+        "800": "assets/img/work/mls-toolkit/step4-5-sm.webp",
+        "1766": "assets/img/work/mls-toolkit/step4-5.webp"
+       },
+       "w": 1766,
+       "h": 1304,
+       "cap": {
+        "en": "Collecting Clues - Lab Notes"
+       }
+      },
+      {
+       "src": "assets/img/work/mls-toolkit/step4-6-sm.webp",
+       "srcset": {
+        "800": "assets/img/work/mls-toolkit/step4-6-sm.webp",
+        "1780": "assets/img/work/mls-toolkit/step4-6.webp"
+       },
+       "w": 1780,
+       "h": 1206,
+       "cap": {
+        "en": "Collecting Clues - Lab Notes"
+       }
+      },
+      {
+       "src": "assets/img/work/mls-toolkit/step4-7-sm.webp",
+       "srcset": {
+        "800": "assets/img/work/mls-toolkit/step4-7-sm.webp",
+        "1726": "assets/img/work/mls-toolkit/step4-7.webp"
+       },
+       "w": 1726,
+       "h": 1174,
+       "cap": {
+        "en": "Summary - Lab Notes"
+       }
+      }
+     ]
+    },
+    {
+     "stage": {
+      "en": "Adding Fun Factors",
+      "ko": "재미 요소 더하기"
+     },
+     "note": {
+      "en": "A review stage, board customisation and sharing with friends.",
+      "ko": "복습 단계, 보드 꾸미기, 친구와 공유하기."
+     },
+     "images": [
+      {
+       "src": "assets/img/work/mls-toolkit/step5-3-sm.webp",
+       "srcset": {
+        "800": "assets/img/work/mls-toolkit/step5-3-sm.webp",
+        "1920": "assets/img/work/mls-toolkit/step5-3.webp"
+       },
+       "w": 1920,
+       "h": 1646,
+       "cap": {
+        "en": "Share with Friends"
+       }
+      },
+      {
+       "src": "assets/img/work/mls-toolkit/step5-1-sm.webp",
+       "srcset": {
+        "800": "assets/img/work/mls-toolkit/step5-1-sm.webp",
+        "1920": "assets/img/work/mls-toolkit/step5-1.webp"
+       },
+       "w": 1920,
+       "h": 1204,
+       "cap": {
+        "en": "Review Stage"
+       }
+      },
+      {
+       "src": "assets/img/work/mls-toolkit/step5-2-sm.webp",
+       "srcset": {
+        "800": "assets/img/work/mls-toolkit/step5-2-sm.webp",
+        "1920": "assets/img/work/mls-toolkit/step5-2.webp"
+       },
+       "w": 1920,
+       "h": 1204,
+       "cap": {
+        "en": "Board Customization"
+       }
+      }
+     ]
+    },
+    {
+     "stage": {
+      "en": "Classroom kit",
+      "ko": "교실용 키트"
+     },
+     "note": {
+      "en": "Print-ready Detective Notes for students and slides for teachers.",
+      "ko": "학생용 인쇄물 「Detective Notes」와 교사용 슬라이드."
+     },
+     "images": [
+      {
+       "src": "assets/img/work/mls-toolkit/step6-1-sm.webp",
+       "srcset": {
+        "800": "assets/img/work/mls-toolkit/step6-1-sm.webp",
+        "1920": "assets/img/work/mls-toolkit/step6-1.webp"
+       },
+       "w": 1920,
+       "h": 1920,
+       "cap": {
+        "en": "Printout Materials"
+       }
+      },
+      {
+       "src": "assets/img/work/mls-toolkit/step6-2-sm.webp",
+       "srcset": {
+        "800": "assets/img/work/mls-toolkit/step6-2-sm.webp",
+        "1920": "assets/img/work/mls-toolkit/step6-2.webp"
+       },
+       "w": 1920,
+       "h": 1920,
+       "cap": {
+        "en": "Worksheet for students"
+       }
+      },
+      {
+       "src": "assets/img/work/mls-toolkit/step6-3-sm.webp",
+       "srcset": {
+        "800": "assets/img/work/mls-toolkit/step6-3-sm.webp",
+        "1920": "assets/img/work/mls-toolkit/step6-3.webp"
+       },
+       "w": 1920,
+       "h": 1204,
+       "cap": {
+        "en": "PPT slide design for teachers"
+       }
+      },
+      {
+       "src": "assets/img/work/mls-toolkit/step6-4-sm.webp",
+       "srcset": {
+        "800": "assets/img/work/mls-toolkit/step6-4-sm.webp",
+        "1920": "assets/img/work/mls-toolkit/step6-4.webp"
+       },
+       "w": 1920,
+       "h": 1204,
+       "cap": {
+        "en": "PPT slide design for teachers"
+       }
+      }
+     ]
+    }
+   ],
+   "outcomes": [
+    {
+     "text": {
+      "en": "Used at the Ahearn Educator Program at UT MD Anderson, a one-day workshop for Texas high-school teachers on classroom implementation and healthcare career exploration.",
+      "ko": "UT MD Anderson의 Ahearn Educator Program에서 텍사스 중/고등학교 교사를 대상으로 한 워크숍 자료로 사용되었습니다."
+     },
+     "href": "post.html?slug=toolkit-mdacc",
+     "label": {
+      "en": "Read about the workshop day",
+      "ko": "워크숍 날 블로그 읽기"
+     }
+    },
+    {
+     "text": {
+      "en": " Post-workshop feedback showed unanimous agreement on curriculum and TEKS alignment, with nearly all educators highlighting its potential to spark students’ interest in healthcare careers.",
+      "ko": "워크숍 후 설문에서 모든 교육자가 교육과정 및 TEKS 기준과의 부합성을 인정했으며, 대다수는 학생들의 보건의료 분야 진로에 대한 관심을 높일 가능성을 긍정적으로 평가했습니다."
+     }
+    },
+    {
+     "quote": {
+      "en": "“Honestly, high school students would love this!”",
+      "ko": "“솔직히 고등학생들이 정말 좋아할 것 같아요!”"
+     },
+     "by": {
+      "en": "Classroom teacher",
+      "ko": "교과 교사"
+     }
+    },
+    {
+     "quote": {
+      "en": "“The scenarios are totally relatable for students!”",
+      "ko": "“시나리오가 학생들에게 정말 와닿아요!”"
+     },
+     "by": {
+      "en": "Health science teacher",
+      "ko": "보건과학 교사"
+     }
+    },
+    {
+     "quote": {
+      "en": "“The toolkit is so cool! Would love to see more case studies. Thanks for creating this.”",
+      "ko": "“툴킷이 정말 멋져요! 사례 연구가 더 있으면 좋겠어요. 만들어 주셔서 감사합니다.”"
+     },
+     "by": {
+      "en": "Classroom teacher",
+      "ko": "교과 교사"
+     }
+    }
+   ],
+   "cover": {
+    "src": "assets/img/work/mls-toolkit/board-sm.webp",
+    "srcset": {
+     "800": "assets/img/work/mls-toolkit/board-sm.webp",
+     "2000": "assets/img/work/mls-toolkit/board.webp"
+    },
+    "w": 2000,
+    "h": 1714,
+    "cap": {
+     "en": "Investigation Board: every case solved",
+     "ko": "수사 보드: 모든 사건 해결"
+    }
+   },
+   "detailsTitle": {
+    "en": "Visual Asset Creation",
+    "ko": "비주얼 에셋 제작"
+   },
+   "detailsNote": {
+    "en": "Eight teen patients, the eight bacteria behind their cases, and the collectible stickers students earn as they solve each step.",
+    "ko": "여덟 명의 십대 환자, 그 사건 뒤의 세균 여덟 종, 그리고 단계를 풀 때마다 모으는 귀여운 스티커."
+   },
+   "details": [
+    {
+     "src": "assets/img/work/mls-toolkit/patients-sm.webp",
+     "srcset": {
+      "800": "assets/img/work/mls-toolkit/patients-sm.webp",
+      "1904": "assets/img/work/mls-toolkit/patients.webp"
+     },
+     "w": 1904,
+     "h": 960,
+     "cap": {
+      "en": "8 inclusive teen characters with short animations about their bacterial infection",
+      "ko": "여덟 명의 다양한 모습의 십대 캐릭터 디자인과 감염 경로와 증상을 설명하는 짧은 애니메이션"
+     }
+    },
+    {
+     "src": "assets/img/work/mls-toolkit/suspects-sm.webp",
+     "srcset": {
+      "800": "assets/img/work/mls-toolkit/suspects-sm.webp",
+      "1904": "assets/img/work/mls-toolkit/suspects.webp"
+     },
+     "w": 1904,
+     "h": 960,
+     "cap": {
+      "en": "The bacterial suspect: character designs to represent their morphology and symptoms",
+      "ko": "세균 용의자: 생리적 특성과 증상을 표현하는 캐릭터 디자인"
+     }
+    },
+    {
+     "src": "assets/img/work/mls-toolkit/stickers-sm.webp",
+     "srcset": {
+      "800": "assets/img/work/mls-toolkit/stickers-sm.webp",
+      "1920": "assets/img/work/mls-toolkit/stickers.webp"
+     },
+     "w": 1920,
+     "h": 832,
+     "cap": {
+      "en": "Biochemical tests in stickers: Gram stain, catalase, oxidase, indole, latex kits and culture plates",
+      "ko": "스티커로 보는 생화학적 검사: 그람 염색, 카탈라아제, 옥시다아제, 인돌, 라텍스 키트, 배양 접시"
+     }
+    }
+   ],
+   "finalStep": false,
+   "videos": [
+    {
+     "src": "https://www.youtube-nocookie.com/embed/7S8UH3k8hMw?rel=0",
+     "title": "Medical Laboratory Science Toolkit demo"
+    }
+   ],
+   "videosTitle": {
+    "en": "Demo video",
+    "ko": "데모 영상"
+   },
+   "videosNote": {
+    "en": "A walkthrough of the finished toolkit, from the investigation board to the workbook and slides.",
+    "ko": "수사 보드부터 워크북과 슬라이드까지, 완성된 툴킷 둘러보기."
+   }
+  },
+  {
+   "id": "latarjet",
+   "room": "medical",
+   "year": "2024",
+   "featured": true,
+   "title": {
+    "en": "Left Shoulder Open Latarjet Procedure",
+    "ko": "좌측 어깨 오픈 라타젯 수술"
+   },
+   "kind": {
+    "en": "Surgical illustration series",
+    "ko": "수술 일러스트 시리즈"
+   },
+   "tools": "Procreate, Adobe Illustrator",
+   "partner": {
+    "en": "Surgery by Dr. John Theodoropoulos, Women’s College Hospital",
+    "ko": "집도: Dr. John Theodoropoulos, Women’s College Hospital"
+   },
+   "statement": {
+    "en": "The early stages of an open Latarjet procedure, drawn from a surgical observation and checked against 3D maquettes.",
+    "ko": "수술 참관을 바탕으로, 3D 마케트로 확인해 가며 그린 오픈 라타젯 수술의 초기 단계."
+   },
+   "brief": {
+    "contribution": {
+     "en": "In this collaborative project I illustrated the early stages: positioning, tendon release and detaching the coracoid process.",
+     "ko": "공동 프로젝트에서 수술 초반부인 환자 자세, 건 유리, 오훼돌기 분리를 맡아 그렸습니다."
+    },
+    "approach": {
+     "en": "Anatomical accuracy first, then a clear visual sequence a learner can follow step by step.",
+     "ko": "해부학적 정확성을 먼저 잡고, 학습자가 단계별로 따라갈 수 있는 시각적 순서를 만들었습니다."
+    }
+   },
+   "hero": {
+    "src": "assets/img/work/latarjet/hero-sm.webp",
+    "srcset": {
+     "800": "assets/img/work/latarjet/hero-sm.webp",
+     "1920": "assets/img/work/latarjet/hero.webp"
+    },
+    "w": 1920,
+    "h": 2485,
+    "cap": {
+     "en": "Patient positioning and anatomical structure for orientation"
+    }
+   },
+   "trail": [
+    {
+     "stage": {
+      "en": "Observation",
+      "ko": "참관"
+     },
+     "note": {
+      "en": "Surgery observed on 14 February 2024.",
+      "ko": "2024년 2월 14일 수술을 참관했습니다."
+     },
+     "images": [
+      {
+       "src": "assets/img/work/latarjet/step1-1-sm.webp",
+       "srcset": {
+        "800": "assets/img/work/latarjet/step1-1-sm.webp",
+        "1920": "assets/img/work/latarjet/step1-1.webp"
+       },
+       "w": 1920,
+       "h": 2485,
+       "cap": {
+        "en": "Capturing the moment in Latarjet surgery"
+       }
+      }
+     ]
+    },
+    {
+     "stage": {
+      "en": "Thumbnails",
+      "ko": "섬네일"
+     },
+     "note": {
+      "en": "Five thumbnail sheets test viewpoint and sequence.",
+      "ko": "다섯 장의 섬네일로 시점과 순서를 시험했습니다."
+     },
+     "images": [
+      {
+       "src": "assets/img/work/latarjet/step2-1-sm.webp",
+       "srcset": {
+        "800": "assets/img/work/latarjet/step2-1-sm.webp",
+        "1920": "assets/img/work/latarjet/step2-1.webp"
+       },
+       "w": 1920,
+       "h": 1012,
+       "cap": {
+        "en": "Thumbnail sketches 001"
+       }
+      },
+      {
+       "src": "assets/img/work/latarjet/step2-2.webp",
+       "w": 626,
+       "h": 564,
+       "cap": {
+        "en": "Thumbnail sketches 002"
+       }
+      },
+      {
+       "src": "assets/img/work/latarjet/step2-3-sm.webp",
+       "srcset": {
+        "800": "assets/img/work/latarjet/step2-3-sm.webp",
+        "1920": "assets/img/work/latarjet/step2-3.webp"
+       },
+       "w": 1920,
+       "h": 1191,
+       "cap": {
+        "en": "Thumbnail sketches 003"
+       }
+      },
+      {
+       "src": "assets/img/work/latarjet/step2-4.webp",
+       "w": 718,
+       "h": 576,
+       "cap": {
+        "en": "Thumbnail sketches 004"
+       }
+      },
+      {
+       "src": "assets/img/work/latarjet/step2-5-sm.webp",
+       "srcset": {
+        "800": "assets/img/work/latarjet/step2-5-sm.webp",
+        "1640": "assets/img/work/latarjet/step2-5.webp"
+       },
+       "w": 1640,
+       "h": 1836,
+       "cap": {
+        "en": "Thumbnail sketches 005"
+       }
+      }
+     ]
+    },
+    {
+     "stage": {
+      "en": "3D maquettes",
+      "ko": "3D 마케트"
+     },
+     "note": {
+      "en": "Maquettes of the coracoid drill guide and the incision window settle the perspective.",
+      "ko": "오훼돌기 드릴 가이드와 절개창을 3D 마케트로 만들어 원근을 확정했습니다."
+     },
+     "images": [
+      {
+       "src": "assets/img/work/latarjet/step3-1-sm.webp",
+       "srcset": {
+        "800": "assets/img/work/latarjet/step3-1-sm.webp",
+        "1000": "assets/img/work/latarjet/step3-1.webp"
+       },
+       "w": 1000,
+       "h": 715,
+       "cap": {
+        "en": "3D maquette of coracoid drill guide 001"
+       }
+      },
+      {
+       "src": "assets/img/work/latarjet/step3-2-sm.webp",
+       "srcset": {
+        "800": "assets/img/work/latarjet/step3-2-sm.webp",
+        "1000": "assets/img/work/latarjet/step3-2.webp"
+       },
+       "w": 1000,
+       "h": 1000,
+       "cap": {
+        "en": "3D maquette of coracoid drill guide 002"
+       }
+      },
+      {
+       "src": "assets/img/work/latarjet/step3-3-sm.webp",
+       "srcset": {
+        "800": "assets/img/work/latarjet/step3-3-sm.webp",
+        "1445": "assets/img/work/latarjet/step3-3.webp"
+       },
+       "w": 1445,
+       "h": 1016,
+       "cap": {
+        "en": "3D maquette of coracoid drill guide 003"
+       }
+      },
+      {
+       "src": "assets/img/work/latarjet/step3-4-sm.webp",
+       "srcset": {
+        "800": "assets/img/work/latarjet/step3-4-sm.webp",
+        "1361": "assets/img/work/latarjet/step3-4.webp"
+       },
+       "w": 1361,
+       "h": 1074,
+       "cap": {
+        "en": "3D maquette of incision window"
+       }
+      }
+     ]
+    },
+    {
+     "stage": {
+      "en": "Final panels",
+      "ko": "완성 패널"
+     },
+     "note": {
+      "en": "Patient positioning, tendon release, coracoid process removal and drill holes.",
+      "ko": "환자 자세, 건 유리, 오훼돌기 절제, 드릴 구멍."
+     },
+     "images": [
+      {
+       "src": "assets/img/work/latarjet/hero-sm.webp",
+       "srcset": {
+        "800": "assets/img/work/latarjet/hero-sm.webp",
+        "1920": "assets/img/work/latarjet/hero.webp"
+       },
+       "w": 1920,
+       "h": 2485,
+       "cap": {
+        "en": "Patient positioning and anatomical structure for orientation"
+       }
+      },
+      {
+       "src": "assets/img/work/latarjet/step4-2-sm.webp",
+       "srcset": {
+        "800": "assets/img/work/latarjet/step4-2-sm.webp",
+        "1920": "assets/img/work/latarjet/step4-2.webp"
+       },
+       "w": 1920,
+       "h": 2485,
+       "cap": {
+        "en": "Tendon Releasement"
+       }
+      },
+      {
+       "src": "assets/img/work/latarjet/step4-3-sm.webp",
+       "srcset": {
+        "800": "assets/img/work/latarjet/step4-3-sm.webp",
+        "1920": "assets/img/work/latarjet/step4-3.webp"
+       },
+       "w": 1920,
+       "h": 2485,
+       "cap": {
+        "en": "Coracoid process removal"
+       }
+      },
+      {
+       "src": "assets/img/work/latarjet/step4-4-sm.webp",
+       "srcset": {
+        "800": "assets/img/work/latarjet/step4-4-sm.webp",
+        "1920": "assets/img/work/latarjet/step4-4.webp"
+       },
+       "w": 1920,
+       "h": 2485,
+       "cap": {
+        "en": "Coracoid drill holes"
+       }
+      }
+     ]
+    }
+   ],
+   "cover": {
+    "src": "assets/img/work/latarjet/hero-sm.webp",
+    "srcset": {
+     "800": "assets/img/work/latarjet/hero-sm.webp",
+     "1920": "assets/img/work/latarjet/hero.webp"
+    },
+    "w": 1920,
+    "h": 2485,
+    "cap": {
+     "en": "Patient positioning and anatomical structure for orientation"
+    }
+   }
+  },
+  {
+   "id": "breast-cancer-classification",
+   "room": "medical",
+   "year": "2025",
+   "title": {
+    "en": "Breast Cancer Classification",
+    "ko": "유방암 분류"
+   },
+   "kind": {
+    "en": "Editorial illustration",
+    "ko": "에디토리얼 일러스트"
+   },
+   "tools": "Procreate, Adobe Illustrator",
+   "statement": {
+    "en": "Histologic and molecular classification of breast cancer on one spread, for clinicians and students.",
+    "ko": "유방암의 조직학적 분류와 분자 아형을 하나의 스프레드에 담았습니다. 임상의와 학생을 위한 자료입니다."
+   },
+   "brief": {
+    "approach": {
+     "en": "Left: histologic classes by invasiveness and tissue origin. Right: molecular subtypes from luminal to basal-like. One reddish-pink hue tracks progression across both.",
+     "ko": "왼쪽은 침윤도와 조직 기원에 따른 조직학적 분류, 오른쪽은 루미날에서 기저양까지의 분자 아형. 하나의 붉은 분홍빛이 양쪽에서 진행 정도를 이어 줍니다."
+    }
+   },
+   "hero": {
+    "src": "assets/img/work/breast-cancer-classification/hero-sm.webp",
+    "srcset": {
+     "800": "assets/img/work/breast-cancer-classification/hero-sm.webp",
+     "1920": "assets/img/work/breast-cancer-classification/hero.webp"
+    },
+    "w": 1920,
+    "h": 1242
+   },
+   "details": [
+    {
+     "src": "assets/img/work/breast-cancer-classification/detail-01-sm.webp",
+     "srcset": {
+      "800": "assets/img/work/breast-cancer-classification/detail-01-sm.webp",
+      "964": "assets/img/work/breast-cancer-classification/detail-01.webp"
+     },
+     "w": 964,
+     "h": 715,
+     "cap": {
+      "en": "Landscape"
+     }
+    },
+    {
+     "src": "assets/img/work/breast-cancer-classification/detail-02-sm.webp",
+     "srcset": {
+      "800": "assets/img/work/breast-cancer-classification/detail-02-sm.webp",
+      "1920": "assets/img/work/breast-cancer-classification/detail-02.webp"
+     },
+     "w": 1920,
+     "h": 1440,
+     "cap": {
+      "en": "Cellular level"
+     }
+    },
+    {
+     "src": "assets/img/work/breast-cancer-classification/detail-03-sm.webp",
+     "srcset": {
+      "800": "assets/img/work/breast-cancer-classification/detail-03-sm.webp",
+      "1920": "assets/img/work/breast-cancer-classification/detail-03.webp"
+     },
+     "w": 1920,
+     "h": 1440,
+     "cap": {
+      "en": "Tissue Cube"
+     }
+    }
+   ],
+   "cover": {
+    "src": "assets/img/work/breast-cancer-classification/hero-sm.webp",
+    "srcset": {
+     "800": "assets/img/work/breast-cancer-classification/hero-sm.webp",
+     "1920": "assets/img/work/breast-cancer-classification/hero.webp"
+    },
+    "w": 1920,
+    "h": 1242
+   }
+  },
+  {
+   "id": "living-donor-hepatectomy",
+   "room": "medical",
+   "year": "2023",
+   "title": {
+    "en": "Laparoscopic Living Donor Hepatectomy",
+    "ko": "복강경 생체 공여자 간절제술"
+   },
+   "kind": {
+    "en": "Surgical illustration",
+    "ko": "수술 일러스트"
+   },
+   "tools": "Procreate, Adobe Illustrator",
+   "partner": {
+    "en": "Surgery by Dr. Jinsoo Rhu, Samsung Medical Center",
+    "ko": "집도: 유진수 교수, 삼성서울병원"
+   },
+   "statement": {
+    "en": "Right liver resection in four stages, drawn after observing a transplant operation.",
+    "ko": "간이식 수술을 참관한 뒤, 우측 간 절제 과정을 네 단계로 그렸습니다."
+   },
+   "brief": {
+    "approach": {
+     "en": "The stages follow the incision area and run clockwise. Contrasting backgrounds mark the views seen on the laparoscopic screen.",
+     "ko": "절개 부위에 따라 단계를 나누고 시계 방향으로 배치했습니다. 배경색을 달리해 복강경 화면으로 본 장면을 구분했습니다."
+    }
+   },
+   "hero": {
+    "src": "assets/img/work/living-donor-hepatectomy/hero-sm.webp",
+    "srcset": {
+     "800": "assets/img/work/living-donor-hepatectomy/hero-sm.webp",
+     "1920": "assets/img/work/living-donor-hepatectomy/hero.webp"
+    },
+    "w": 1920,
+    "h": 1363
+   },
+   "cover": {
+    "src": "assets/img/work/living-donor-hepatectomy/hero-sm.webp",
+    "srcset": {
+     "800": "assets/img/work/living-donor-hepatectomy/hero-sm.webp",
+     "1920": "assets/img/work/living-donor-hepatectomy/hero.webp"
+    },
+    "w": 1920,
+    "h": 1363
+   }
+  },
+  {
+   "id": "heart-blood-flow",
+   "room": "anatomy",
+   "year": "2023",
+   "title": {
+    "en": "Blood Flow through the Heart",
+    "ko": "심장의 혈류"
+   },
+   "kind": {
+    "en": "Anatomical diagram",
+    "ko": "해부 도해"
+   },
+   "tools": "Adobe Illustrator",
+   "statement": {
+    "en": "The path of blood through the chambers and great vessels of the heart.",
+    "ko": "심방과 심실, 대혈관을 지나는 혈액의 흐름."
+   },
+   "hero": {
+    "src": "assets/img/work/heart-blood-flow/hero-sm.webp",
+    "srcset": {
+     "800": "assets/img/work/heart-blood-flow/hero-sm.webp",
+     "1920": "assets/img/work/heart-blood-flow/hero.webp"
+    },
+    "w": 1920,
+    "h": 1824
+   },
+   "cover": {
+    "src": "assets/img/work/heart-blood-flow/hero-sm.webp",
+    "srcset": {
+     "800": "assets/img/work/heart-blood-flow/hero-sm.webp",
+     "1920": "assets/img/work/heart-blood-flow/hero.webp"
+    },
+    "w": 1920,
+    "h": 1824
+   }
+  },
+  {
+   "id": "aqua-therapy",
+   "room": "medical",
+   "year": "2022",
+   "title": {
+    "en": "Effect of Aqua Therapy on the Musculoskeletal System",
+    "ko": "수중 치료가 근골격계에 미치는 효과"
+   },
+   "kind": {
+    "en": "Patient education",
+    "ko": "환자 교육 자료"
+   },
+   "tools": "Procreate, Adobe Illustrator",
+   "statement": {
+    "en": "Key aquatic rehabilitation movements and the muscles each one works.",
+    "ko": "수중 재활 운동의 주요 동작과 각 동작이 자극하는 근육."
+   },
+   "hero": {
+    "src": "assets/img/work/aqua-therapy/hero-sm.webp",
+    "srcset": {
+     "800": "assets/img/work/aqua-therapy/hero-sm.webp",
+     "1920": "assets/img/work/aqua-therapy/hero.webp"
+    },
+    "w": 1920,
+    "h": 1358
+   },
+   "cover": {
+    "src": "assets/img/work/aqua-therapy/hero-sm.webp",
+    "srcset": {
+     "800": "assets/img/work/aqua-therapy/hero-sm.webp",
+     "1920": "assets/img/work/aqua-therapy/hero.webp"
+    },
+    "w": 1920,
+    "h": 1358
+   }
+  },
+  {
+   "id": "flow-of-urine",
+   "room": "anatomy",
+   "year": "2024",
+   "featured": true,
+   "title": {
+    "en": "The Flow of Urine",
+    "ko": "소변의 흐름"
+   },
+   "kind": {
+    "en": "Anatomical illustration",
+    "ko": "해부 일러스트"
+   },
+   "tools": "Adobe Photoshop",
+   "statement": {
+    "en": "Urine’s route from renal medulla to ureter, shown whole, in section and with a pyramid removed.",
+    "ko": "신장 수질에서 요관까지 소변이 지나는 길을 입체, 단면, 그리고 피라미드를 들어낸 모습으로 보여 줍니다."
+   },
+   "brief": {
+    "approach": {
+     "en": "Labels follow the order of flow. Three states of the medulla let readers build the 3D structure in their head and see how the renal vessels wrap each pyramid.",
+     "ko": "라벨은 흐름의 순서를 따릅니다. 수질의 세 가지 상태를 나란히 보여 주어 독자가 입체 구조와 피라미드를 감싸는 혈관을 머릿속에 그릴 수 있게 했습니다."
+    }
+   },
+   "hero": {
+    "src": "assets/img/work/flow-of-urine/hero-sm.webp",
+    "srcset": {
+     "800": "assets/img/work/flow-of-urine/hero-sm.webp",
+     "1920": "assets/img/work/flow-of-urine/hero.webp"
+    },
+    "w": 1920,
+    "h": 1261
+   },
+   "trail": [
+    {
+     "stage": {
+      "en": "Data sculpt",
+      "ko": "데이터 스컬프트"
+     },
+     "note": {
+      "en": "A 3D data sculpt of the kidney to study the form and choose the view.",
+      "ko": "신장을 3D 데이터 스컬프트로 만들어 형태를 살피고 시점을 골랐습니다."
+     },
+     "images": [
+      {
+       "src": "assets/img/work/flow-of-urine/step1-1-sm.webp",
+       "srcset": {
+        "800": "assets/img/work/flow-of-urine/step1-1-sm.webp",
+        "1321": "assets/img/work/flow-of-urine/step1-1.webp"
+       },
+       "w": 1321,
+       "h": 1121,
+       "cap": {
+        "en": "Data Sculpt 1"
+       }
+      },
+      {
+       "src": "assets/img/work/flow-of-urine/step1-2-sm.webp",
+       "srcset": {
+        "800": "assets/img/work/flow-of-urine/step1-2-sm.webp",
+        "934": "assets/img/work/flow-of-urine/step1-2.webp"
+       },
+       "w": 934,
+       "h": 1038,
+       "cap": {
+        "en": "Data Sculpt 2"
+       }
+      }
+     ]
+    },
+    {
+     "stage": {
+      "en": "Sketches",
+      "ko": "스케치"
+     },
+     "note": {
+      "en": "Three rounds of sketches settle the cut and the order of labels.",
+      "ko": "세 차례의 스케치로 절단면과 라벨 순서를 정했습니다."
+     },
+     "images": [
+      {
+       "src": "assets/img/work/flow-of-urine/step2-1-sm.webp",
+       "srcset": {
+        "800": "assets/img/work/flow-of-urine/step2-1-sm.webp",
+        "1920": "assets/img/work/flow-of-urine/step2-1.webp"
+       },
+       "w": 1920,
+       "h": 1484,
+       "cap": {
+        "en": "Sketch 1"
+       }
+      },
+      {
+       "src": "assets/img/work/flow-of-urine/step2-2-sm.webp",
+       "srcset": {
+        "800": "assets/img/work/flow-of-urine/step2-2-sm.webp",
+        "1920": "assets/img/work/flow-of-urine/step2-2.webp"
+       },
+       "w": 1920,
+       "h": 1357,
+       "cap": {
+        "en": "Sketch 2"
+       }
+      },
+      {
+       "src": "assets/img/work/flow-of-urine/step2-3-sm.webp",
+       "srcset": {
+        "800": "assets/img/work/flow-of-urine/step2-3-sm.webp",
+        "1920": "assets/img/work/flow-of-urine/step2-3.webp"
+       },
+       "w": 1920,
+       "h": 1357,
+       "cap": {
+        "en": "Sketch 3"
+       }
+      }
+     ]
+    },
+    {
+     "stage": {
+      "en": "Second view",
+      "ko": "또 하나의 시점"
+     },
+     "note": {
+      "en": "A companion plate from the same study.",
+      "ko": "같은 연구에서 나온 또 한 장의 그림."
+     },
+     "images": [
+      {
+       "src": "assets/img/work/flow-of-urine/step3-1-sm.webp",
+       "srcset": {
+        "800": "assets/img/work/flow-of-urine/step3-1-sm.webp",
+        "1920": "assets/img/work/flow-of-urine/step3-1.webp"
+       },
+       "w": 1920,
+       "h": 1357
+      }
+     ]
+    }
+   ],
+   "cover": {
+    "src": "assets/img/work/flow-of-urine/hero-sm.webp",
+    "srcset": {
+     "800": "assets/img/work/flow-of-urine/hero-sm.webp",
+     "1920": "assets/img/work/flow-of-urine/hero.webp"
+    },
+    "w": 1920,
+    "h": 1261
+   }
+  },
+  {
+   "id": "loop-of-emotion",
+   "room": "anatomy",
+   "year": "2024",
+   "featured": true,
+   "title": {
+    "en": "The Loop of Emotion",
+    "ko": "감정의 고리"
+   },
+   "kind": {
+    "en": "Editorial illustration",
+    "ko": "에디토리얼 일러스트"
+   },
+   "tools": "Procreate, Adobe Illustrator",
+   "statement": {
+    "en": "How a smile talks back to the brain: the facial feedback loop, from trigeminal nerve to prefrontal cortex.",
+    "ko": "미소가 뇌에 말을 겁니다. 삼차신경에서 전전두엽까지 이어지는 안면 피드백 회로."
+   },
+   "brief": {
+    "problem": {
+     "en": "Research on Botox suggests expressions do not only show emotion, they shape it. The circuit behind that is hidden.",
+     "ko": "보톡스 연구는 표정이 감정을 드러낼 뿐 아니라 감정을 만든다는 점을 보여 줍니다. 그 회로는 눈에 보이지 않습니다."
+    },
+    "approach": {
+     "en": "Trace the signal: facial muscles, trigeminal proprioception, amygdala and locus coeruleus, then the prefrontal cortex.",
+     "ko": "신호의 경로를 따라갔습니다. 안면 근육, 삼차신경의 고유감각, 편도체와 청반, 그리고 전전두엽."
+    }
+   },
+   "hero": {
+    "src": "assets/img/work/loop-of-emotion/hero-sm.webp",
+    "srcset": {
+     "800": "assets/img/work/loop-of-emotion/hero-sm.webp",
+     "1920": "assets/img/work/loop-of-emotion/hero.webp"
+    },
+    "w": 1920,
+    "h": 1243
+   },
+   "details": [
+    {
+     "src": "assets/img/work/loop-of-emotion/detail-01-sm.webp",
+     "srcset": {
+      "800": "assets/img/work/loop-of-emotion/detail-01-sm.webp",
+      "1920": "assets/img/work/loop-of-emotion/detail-01.webp"
+     },
+     "w": 1920,
+     "h": 409
+    }
+   ],
+   "outcomes": [
+    {
+     "text": {
+      "en": "Top 12 finalist in the inaugural Art Neureau 2025 exhibition, “Sensing the Unseen”.",
+      "ko": "제1회 Art Neureau 2025 전시 「Sensing the Unseen」 최종 12인 선정."
+     },
+     "href": "https://neurohumanism.com/art-neureau-neuroscience-humanities/the-loop-of-emotion/"
+    }
+   ],
+   "cover": {
+    "src": "assets/img/work/loop-of-emotion/hero-sm.webp",
+    "srcset": {
+     "800": "assets/img/work/loop-of-emotion/hero-sm.webp",
+     "1920": "assets/img/work/loop-of-emotion/hero.webp"
+    },
+    "w": 1920,
+    "h": 1243
+   }
+  },
+  {
+   "id": "anatomee",
+   "room": "anatomy",
+   "year": "2023–2025",
+   "title": {
+    "en": "AnatoMEE",
+    "ko": "AnatoMEE"
+   },
+   "kind": {
+    "en": "Gamified anatomy web app",
+    "ko": "게임형 해부학 웹 앱"
+   },
+   "tools": "Figma, Autodesk Maya, Adobe Illustrator, Adobe After Effects",
+   "partner": {
+    "en": "Division of Anatomy, University of Toronto",
+    "ko": "토론토 대학교 해부학교실"
+   },
+   "statement": {
+    "en": "A gamified toolkit that moves undergraduate anatomy from 2D pages to 3D exploration.",
+    "ko": "학부 해부학 수업을 2D 지면에서 3D 탐색으로 옮겨 주는 게임형 툴킷."
+   },
+   "brief": {
+    "contribution": {
+     "en": "I made 3D bone models, interface elements and 2D animations, and led focus-group usability testing with undergraduates.",
+     "ko": "3D 뼈 모델, 인터페이스 요소, 2D 애니메이션을 만들고 학부생 대상 포커스 그룹 사용성 테스트를 이끌었습니다."
+    }
+   },
+   "hero": {
+    "src": "assets/img/work/anatomee/hero-sm.webp",
+    "srcset": {
+     "800": "assets/img/work/anatomee/hero-sm.webp",
+     "1440": "assets/img/work/anatomee/hero.webp"
+    },
+    "w": 1440,
+    "h": 1052,
+    "cap": {
+     "en": "Scapular Articulations"
+    }
+   },
+   "trail": [
+    {
+     "stage": {
+      "en": "Interface",
+      "ko": "인터페이스"
+     },
+     "note": {
+      "en": "Login, error page, banner and module buttons.",
+      "ko": "로그인, 오류 페이지, 배너, 모듈 버튼."
+     },
+     "images": [
+      {
+       "src": "assets/img/work/anatomee/step1-1-sm.webp",
+       "srcset": {
+        "800": "assets/img/work/anatomee/step1-1-sm.webp",
+        "1440": "assets/img/work/anatomee/step1-1.webp"
+       },
+       "w": 1440,
+       "h": 985,
+       "cap": {
+        "en": "Login Page Design"
+       }
+      },
+      {
+       "src": "assets/img/work/anatomee/step1-2-sm.webp",
+       "srcset": {
+        "800": "assets/img/work/anatomee/step1-2-sm.webp",
+        "1440": "assets/img/work/anatomee/step1-2.webp"
+       },
+       "w": 1440,
+       "h": 985,
+       "cap": {
+        "en": "Error Page Design"
+       }
+      },
+      {
+       "src": "assets/img/work/anatomee/step1-3.webp",
+       "w": 800,
+       "h": 256,
+       "cap": {
+        "en": "Banner Design"
+       }
+      },
+      {
+       "src": "assets/img/work/anatomee/step1-4.webp",
+       "w": 376,
+       "h": 375,
+       "cap": {
+        "en": "Module Button Design"
+       }
+      },
+      {
+       "src": "assets/img/work/anatomee/step1-5.webp",
+       "w": 780,
+       "h": 805,
+       "cap": {
+        "en": "Module Button Design"
+       }
+      }
+     ]
+    },
+    {
+     "stage": {
+      "en": "3D assets",
+      "ko": "3D 에셋"
+     },
+     "note": {
+      "en": "Bones of the upper limb with articulations and landmarks, in realistic and geometric versions.",
+      "ko": "관절면과 랜드마크를 담은 상지 뼈를 사실적 버전과 기하학적 버전으로 만들었습니다."
+     },
+     "images": [
+      {
+       "src": "assets/img/work/anatomee/hero-sm.webp",
+       "srcset": {
+        "800": "assets/img/work/anatomee/hero-sm.webp",
+        "1440": "assets/img/work/anatomee/hero.webp"
+       },
+       "w": 1440,
+       "h": 1052,
+       "cap": {
+        "en": "Scapular Articulations"
+       }
+      },
+      {
+       "src": "assets/img/work/anatomee/step2-2-sm.webp",
+       "srcset": {
+        "800": "assets/img/work/anatomee/step2-2-sm.webp",
+        "1440": "assets/img/work/anatomee/step2-2.webp"
+       },
+       "w": 1440,
+       "h": 1242,
+       "cap": {
+        "en": "Scapula Landmarks"
+       }
+      },
+      {
+       "src": "assets/img/work/anatomee/step2-3-sm.webp",
+       "srcset": {
+        "800": "assets/img/work/anatomee/step2-3-sm.webp",
+        "1440": "assets/img/work/anatomee/step2-3.webp"
+       },
+       "w": 1440,
+       "h": 1132,
+       "cap": {
+        "en": "Ulnar Articulations"
+       }
+      },
+      {
+       "src": "assets/img/work/anatomee/step2-4-sm.webp",
+       "srcset": {
+        "800": "assets/img/work/anatomee/step2-4-sm.webp",
+        "1440": "assets/img/work/anatomee/step2-4.webp"
+       },
+       "w": 1440,
+       "h": 1170,
+       "cap": {
+        "en": "Ulna Landmarks"
+       }
+      },
+      {
+       "src": "assets/img/work/anatomee/step2-5-sm.webp",
+       "srcset": {
+        "800": "assets/img/work/anatomee/step2-5-sm.webp",
+        "1440": "assets/img/work/anatomee/step2-5.webp"
+       },
+       "w": 1440,
+       "h": 1156,
+       "cap": {
+        "en": "Radius Articulations"
+       }
+      },
+      {
+       "src": "assets/img/work/anatomee/step2-6-sm.webp",
+       "srcset": {
+        "800": "assets/img/work/anatomee/step2-6-sm.webp",
+        "1440": "assets/img/work/anatomee/step2-6.webp"
+       },
+       "w": 1440,
+       "h": 1170,
+       "cap": {
+        "en": "Radius Landmarks"
+       }
+      },
+      {
+       "src": "assets/img/work/anatomee/step2-7-sm.webp",
+       "srcset": {
+        "800": "assets/img/work/anatomee/step2-7-sm.webp",
+        "1440": "assets/img/work/anatomee/step2-7.webp"
+       },
+       "w": 1440,
+       "h": 1060,
+       "cap": {
+        "en": "Carpal Articulations"
+       }
+      },
+      {
+       "src": "assets/img/work/anatomee/step2-8-sm.webp",
+       "srcset": {
+        "800": "assets/img/work/anatomee/step2-8-sm.webp",
+        "1440": "assets/img/work/anatomee/step2-8.webp"
+       },
+       "w": 1440,
+       "h": 2352,
+       "cap": {
+        "en": "Metacarpal and Phalanges"
+       }
+      },
+      {
+       "src": "assets/img/work/anatomee/step2-9-sm.webp",
+       "srcset": {
+        "800": "assets/img/work/anatomee/step2-9-sm.webp",
+        "1920": "assets/img/work/anatomee/step2-9.webp"
+       },
+       "w": 1920,
+       "h": 1920,
+       "cap": {
+        "en": "Scapula"
+       }
+      },
+      {
+       "src": "assets/img/work/anatomee/step2-10-sm.webp",
+       "srcset": {
+        "800": "assets/img/work/anatomee/step2-10-sm.webp",
+        "1920": "assets/img/work/anatomee/step2-10.webp"
+       },
+       "w": 1920,
+       "h": 1920,
+       "cap": {
+        "en": "Humerus"
+       }
+      },
+      {
+       "src": "assets/img/work/anatomee/step2-11-sm.webp",
+       "srcset": {
+        "800": "assets/img/work/anatomee/step2-11-sm.webp",
+        "1920": "assets/img/work/anatomee/step2-11.webp"
+       },
+       "w": 1920,
+       "h": 1920,
+       "cap": {
+        "en": "Radius"
+       }
+      },
+      {
+       "src": "assets/img/work/anatomee/step2-12-sm.webp",
+       "srcset": {
+        "800": "assets/img/work/anatomee/step2-12-sm.webp",
+        "1920": "assets/img/work/anatomee/step2-12.webp"
+       },
+       "w": 1920,
+       "h": 1920,
+       "cap": {
+        "en": "Ulna"
+       }
+      }
+     ]
+    },
+    {
+     "stage": {
+      "en": "Animation",
+      "ko": "애니메이션"
+     },
+     "note": {
+      "en": "Short animations explain movement.",
+      "ko": "짧은 애니메이션으로 움직임을 설명합니다."
+     },
+     "images": [
+      {
+       "src": "assets/img/work/anatomee/step3-1-sm.webp",
+       "w": 800,
+       "h": 450,
+       "anim": "assets/img/work/anatomee/step3-1.webp"
+      },
+      {
+       "src": "assets/img/work/anatomee/step3-2-sm.webp",
+       "w": 800,
+       "h": 450,
+       "anim": "assets/img/work/anatomee/step3-2.webp"
+      }
+     ]
+    }
+   ],
+   "links": [
+    {
+     "label": {
+      "en": "Open AnatoMEE",
+      "ko": "AnatoMEE 열기"
+     },
+     "href": "https://anatomee.vercel.app/login"
+    }
+   ],
+   "cover": {
+    "src": "assets/img/work/anatomee/hero-sm.webp",
+    "srcset": {
+     "800": "assets/img/work/anatomee/hero-sm.webp",
+     "1440": "assets/img/work/anatomee/hero.webp"
+    },
+    "w": 1440,
+    "h": 1052,
+    "cap": {
+     "en": "Scapular Articulations"
+    }
+   }
+  },
+  {
+   "id": "male-pelvic-floor",
+   "room": "anatomy",
+   "year": "2023",
+   "title": {
+    "en": "Male Pelvic Floor",
+    "ko": "남성 골반저"
+   },
+   "kind": {
+    "en": "Specimen drawing",
+    "ko": "표본 드로잉"
+   },
+   "tools": "Adobe Photoshop",
+   "partner": {
+    "en": "Drawn at Grant’s Museum, Toronto",
+    "ko": "토론토 Grant’s Museum에서 드로잉"
+   },
+   "statement": {
+    "en": "Drawn from a museum specimen for students of pelvic anatomy, with a small graphic that explains its unusual cut.",
+    "ko": "골반 해부를 배우는 학생을 위해 박물관 표본을 보고 그렸습니다. 독특한 절단면을 이해하도록 방향 안내 그림을 더했습니다."
+   },
+   "hero": {
+    "src": "assets/img/work/male-pelvic-floor/hero-sm.webp",
+    "srcset": {
+     "800": "assets/img/work/male-pelvic-floor/hero-sm.webp",
+     "1920": "assets/img/work/male-pelvic-floor/hero.webp"
+    },
+    "w": 1920,
+    "h": 1484,
+    "cap": {
+     "en": "Colour"
+    }
+   },
+   "trail": [
+    {
+     "stage": {
+      "en": "Sketches",
+      "ko": "스케치"
+     },
+     "note": {
+      "en": "Three sketches from the specimen.",
+      "ko": "표본을 보고 그린 세 장의 스케치."
+     },
+     "images": [
+      {
+       "src": "assets/img/work/male-pelvic-floor/step1-1-sm.webp",
+       "srcset": {
+        "800": "assets/img/work/male-pelvic-floor/step1-1-sm.webp",
+        "1920": "assets/img/work/male-pelvic-floor/step1-1.webp"
+       },
+       "w": 1920,
+       "h": 1358,
+       "cap": {
+        "en": "Sketch 1"
+       }
+      },
+      {
+       "src": "assets/img/work/male-pelvic-floor/step1-2-sm.webp",
+       "srcset": {
+        "800": "assets/img/work/male-pelvic-floor/step1-2-sm.webp",
+        "1920": "assets/img/work/male-pelvic-floor/step1-2.webp"
+       },
+       "w": 1920,
+       "h": 1357,
+       "cap": {
+        "en": "Sketch 2"
+       }
+      },
+      {
+       "src": "assets/img/work/male-pelvic-floor/step1-3-sm.webp",
+       "srcset": {
+        "800": "assets/img/work/male-pelvic-floor/step1-3-sm.webp",
+        "1920": "assets/img/work/male-pelvic-floor/step1-3.webp"
+       },
+       "w": 1920,
+       "h": 1484,
+       "cap": {
+        "en": "Sketch 3"
+       }
+      }
+     ]
+    },
+    {
+     "stage": {
+      "en": "Greyscale",
+      "ko": "그레이스케일"
+     },
+     "note": {
+      "en": "Values resolved in grey before colour.",
+      "ko": "색을 올리기 전에 명암을 먼저 잡았습니다."
+     },
+     "images": [
+      {
+       "src": "assets/img/work/male-pelvic-floor/step2-1-sm.webp",
+       "srcset": {
+        "800": "assets/img/work/male-pelvic-floor/step2-1-sm.webp",
+        "1920": "assets/img/work/male-pelvic-floor/step2-1.webp"
+       },
+       "w": 1920,
+       "h": 1484,
+       "cap": {
+        "en": "Grey Scale"
+       }
+      }
+     ]
+    }
+   ],
+   "cover": {
+    "src": "assets/img/work/male-pelvic-floor/hero-sm.webp",
+    "srcset": {
+     "800": "assets/img/work/male-pelvic-floor/hero-sm.webp",
+     "1920": "assets/img/work/male-pelvic-floor/hero.webp"
+    },
+    "w": 1920,
+    "h": 1484,
+    "cap": {
+     "en": "Colour"
+    }
+   }
+  },
+  {
+   "id": "median-artery",
+   "room": "anatomy",
+   "year": "2022",
+   "title": {
+    "en": "Microevolution in Modern Human: the Median Artery",
+    "ko": "인류 소진화의 흔적: 정중동맥"
+   },
+   "kind": {
+    "en": "Editorial illustration",
+    "ko": "에디토리얼 일러스트"
+   },
+   "tools": "Procreate, Adobe Illustrator",
+   "statement": {
+    "en": "A vessel that used to disappear before birth now persists in about one in three people: anatomy as evidence that humans are still evolving.",
+    "ko": "태아기에 사라지던 혈관이 이제 약 세 명 중 한 명에게 남아 있습니다. 인류가 지금도 진화하고 있다는 해부학적 증거입니다."
+   },
+   "hero": {
+    "src": "assets/img/work/median-artery/hero-sm.webp",
+    "srcset": {
+     "800": "assets/img/work/median-artery/hero-sm.webp",
+     "1920": "assets/img/work/median-artery/hero.webp"
+    },
+    "w": 1920,
+    "h": 2842
+   },
+   "trail": [
+    {
+     "stage": {
+      "en": "Sketches",
+      "ko": "스케치"
+     },
+     "note": {
+      "en": "Five sketches work out the forearm and the course of the vessel.",
+      "ko": "다섯 장의 스케치로 아래팔과 혈관의 주행을 잡았습니다."
+     },
+     "images": [
+      {
+       "src": "assets/img/work/median-artery/step1-1-sm.webp",
+       "srcset": {
+        "800": "assets/img/work/median-artery/step1-1-sm.webp",
+        "1920": "assets/img/work/median-artery/step1-1.webp"
+       },
+       "w": 1920,
+       "h": 2559,
+       "cap": {
+        "en": "Sketch 1"
+       }
+      },
+      {
+       "src": "assets/img/work/median-artery/step1-2-sm.webp",
+       "srcset": {
+        "800": "assets/img/work/median-artery/step1-2-sm.webp",
+        "1920": "assets/img/work/median-artery/step1-2.webp"
+       },
+       "w": 1920,
+       "h": 3017,
+       "cap": {
+        "en": "Sketch 2"
+       }
+      },
+      {
+       "src": "assets/img/work/median-artery/step1-3-sm.webp",
+       "srcset": {
+        "800": "assets/img/work/median-artery/step1-3-sm.webp",
+        "1920": "assets/img/work/median-artery/step1-3.webp"
+       },
+       "w": 1920,
+       "h": 2719,
+       "cap": {
+        "en": "Sketch 3"
+       }
+      },
+      {
+       "src": "assets/img/work/median-artery/step1-4-sm.webp",
+       "srcset": {
+        "800": "assets/img/work/median-artery/step1-4-sm.webp",
+        "1920": "assets/img/work/median-artery/step1-4.webp"
+       },
+       "w": 1920,
+       "h": 2719,
+       "cap": {
+        "en": "Sketch 4"
+       }
+      },
+      {
+       "src": "assets/img/work/median-artery/step1-5-sm.webp",
+       "srcset": {
+        "800": "assets/img/work/median-artery/step1-5-sm.webp",
+        "1920": "assets/img/work/median-artery/step1-5.webp"
+       },
+       "w": 1920,
+       "h": 2719,
+       "cap": {
+        "en": "Sketch 5"
+       }
+      }
+     ]
+    }
+   ],
+   "cover": {
+    "src": "assets/img/work/median-artery/hero-sm.webp",
+    "srcset": {
+     "800": "assets/img/work/median-artery/hero-sm.webp",
+     "1920": "assets/img/work/median-artery/hero.webp"
+    },
+    "w": 1920,
+    "h": 2842
+   }
+  },
+  {
+   "id": "carbon-dust",
+   "room": "anatomy",
+   "year": "2023",
+   "title": {
+    "en": "Heart after Max Brödel",
+    "ko": "막스 브뢰델 스타일 심장 습작"
+   },
+   "kind": {
+    "en": "Carbon Dust Studies",
+    "ko": "카본 더스트 습작"
+   },
+   "tools": "Carbon dust",
+   "statement": {
+    "en": "Two studies in the classic medical illustration technique: a heart after Max Brödel, and the external cranium.",
+    "ko": "의학 일러스트의 고전 기법으로 그린 두 점의 습작. 막스 브뢰델을 따라 그린 심장과 두개골 외면."
+   },
+   "hero": {
+    "src": "assets/img/work/carbon-dust/hero-sm.webp",
+    "srcset": {
+     "800": "assets/img/work/carbon-dust/hero-sm.webp",
+     "1920": "assets/img/work/carbon-dust/hero.webp"
+    },
+    "w": 1920,
+    "h": 2684,
+    "cap": {
+     "en": "Heart after Max Brödel"
+    }
+   },
+   "details": [
+    {
+     "src": "assets/img/work/carbon-dust/detail-01-sm.webp",
+     "srcset": {
+      "800": "assets/img/work/carbon-dust/detail-01-sm.webp",
+      "1920": "assets/img/work/carbon-dust/detail-01.webp"
+     },
+     "w": 1920,
+     "h": 2485,
+     "cap": {
+      "en": "External Cranial Anatomy"
+     }
+    }
+   ],
+   "cover": {
+    "src": "assets/img/work/carbon-dust/hero-sm.webp",
+    "srcset": {
+     "800": "assets/img/work/carbon-dust/hero-sm.webp",
+     "1920": "assets/img/work/carbon-dust/hero.webp"
+    },
+    "w": 1920,
+    "h": 2684,
+    "cap": {
+     "en": "Heart after Max Brödel"
+    }
+   }
+  },
+  {
+   "id": "great-vessels",
+   "room": "anatomy",
+   "year": "2023",
+   "title": {
+    "en": "Great Vessels of the Thoracic and Abdominal Cavities",
+    "ko": "흉강과 복강의 대혈관"
+   },
+   "kind": {
+    "en": "Specimen drawing",
+    "ko": "표본 드로잉"
+   },
+   "tools": "Adobe Illustrator",
+   "partner": {
+    "en": "Drawn at Grant’s Museum, Toronto",
+    "ko": "토론토 Grant’s Museum에서 드로잉"
+   },
+   "statement": {
+    "en": "The great vessels of the trunk, drawn from a specimen.",
+    "ko": "표본을 보고 그린 몸통의 대혈관."
+   },
+   "hero": {
+    "src": "assets/img/work/great-vessels/hero-sm.webp",
+    "srcset": {
+     "800": "assets/img/work/great-vessels/hero-sm.webp",
+     "1920": "assets/img/work/great-vessels/hero.webp"
+    },
+    "w": 1920,
+    "h": 1920
+   },
+   "cover": {
+    "src": "assets/img/work/great-vessels/hero-sm.webp",
+    "srcset": {
+     "800": "assets/img/work/great-vessels/hero-sm.webp",
+     "1920": "assets/img/work/great-vessels/hero.webp"
+    },
+    "w": 1920,
+    "h": 1920
+   }
+  },
+  {
+   "id": "specimen-st-marys",
+   "room": "anatomy",
+   "year": "2022",
+   "title": {
+    "en": "Specimen Drawings, Seoul St. Mary’s Hospital",
+    "ko": "서울성모병원 표본 드로잉"
+   },
+   "kind": {
+    "en": "Specimen drawing series",
+    "ko": "표본 드로잉 시리즈"
+   },
+   "tools": "Pencil, Procreate",
+   "statement": {
+    "en": "Six studies from specimens: maxillary artery, knee joint, thorax, cranium and cubital fossa.",
+    "ko": "표본을 보고 그린 여섯 점의 습작. 상악동맥, 무릎관절, 흉곽, 두개골, 팔오금."
+   },
+   "hero": {
+    "src": "assets/img/work/specimen-st-marys/hero-sm.webp",
+    "srcset": {
+     "800": "assets/img/work/specimen-st-marys/hero-sm.webp",
+     "1920": "assets/img/work/specimen-st-marys/hero.webp"
+    },
+    "w": 1920,
+    "h": 1920,
+    "cap": {
+     "en": "Maxillary Artery"
+    }
+   },
+   "details": [
+    {
+     "src": "assets/img/work/specimen-st-marys/detail-01-sm.webp",
+     "srcset": {
+      "800": "assets/img/work/specimen-st-marys/detail-01-sm.webp",
+      "1920": "assets/img/work/specimen-st-marys/detail-01.webp"
+     },
+     "w": 1920,
+     "h": 1920,
+     "cap": {
+      "en": "Knee Joint"
+     }
+    },
+    {
+     "src": "assets/img/work/specimen-st-marys/detail-02-sm.webp",
+     "srcset": {
+      "800": "assets/img/work/specimen-st-marys/detail-02-sm.webp",
+      "1920": "assets/img/work/specimen-st-marys/detail-02.webp"
+     },
+     "w": 1920,
+     "h": 1920,
+     "cap": {
+      "en": "Thorax"
+     }
+    },
+    {
+     "src": "assets/img/work/specimen-st-marys/detail-03-sm.webp",
+     "srcset": {
+      "800": "assets/img/work/specimen-st-marys/detail-03-sm.webp",
+      "1920": "assets/img/work/specimen-st-marys/detail-03.webp"
+     },
+     "w": 1920,
+     "h": 1358,
+     "cap": {
+      "en": "Cranial Anatomy"
+     }
+    },
+    {
+     "src": "assets/img/work/specimen-st-marys/detail-04-sm.webp",
+     "srcset": {
+      "800": "assets/img/work/specimen-st-marys/detail-04-sm.webp",
+      "1920": "assets/img/work/specimen-st-marys/detail-04.webp"
+     },
+     "w": 1920,
+     "h": 2715,
+     "cap": {
+      "en": "Anterior view"
+     }
+    },
+    {
+     "src": "assets/img/work/specimen-st-marys/detail-05-sm.webp",
+     "srcset": {
+      "800": "assets/img/work/specimen-st-marys/detail-05-sm.webp",
+      "1920": "assets/img/work/specimen-st-marys/detail-05.webp"
+     },
+     "w": 1920,
+     "h": 1358,
+     "cap": {
+      "en": "Right Arm"
+     }
+    }
+   ],
+   "cover": {
+    "src": "assets/img/work/specimen-st-marys/hero-sm.webp",
+    "srcset": {
+     "800": "assets/img/work/specimen-st-marys/hero-sm.webp",
+     "1920": "assets/img/work/specimen-st-marys/hero.webp"
+    },
+    "w": 1920,
+    "h": 1920,
+    "cap": {
+     "en": "Maxillary Artery"
+    }
+   }
+  },
+  {
+   "id": "adc-toxicities",
+   "room": "journal",
+   "year": "2025",
+   "title": {
+    "en": "Common Toxicities of ADCs in Breast Cancer",
+    "ko": "유방암 ADC의 주요 독성"
+   },
+   "kind": {
+    "en": "Published figure",
+    "ko": "게재된 그림"
+   },
+   "statement": {
+    "en": "A figure summarising the common toxicities of antibody–drug conjugates, published in Therapeutic Advances in Medical Oncology.",
+    "ko": "항체-약물 접합체(ADC)의 주요 독성을 정리한 그림. Therapeutic Advances in Medical Oncology에 게재되었습니다."
+   },
+   "cite": "Kang S, Kim S-B. Toxicities and management strategies of emerging antibody–drug conjugates in breast cancer. Therapeutic Advances in Medical Oncology. 2025;17. doi:10.1177/17588359251324889",
+   "links": [
+    {
+     "label": {
+      "en": "Read the article",
+      "ko": "논문 보기"
+     },
+     "href": "https://journals.sagepub.com/doi/10.1177/17588359251324889"
+    }
+   ],
+   "hero": {
+    "src": "assets/img/work/adc-toxicities/hero-sm.webp",
+    "srcset": {
+     "800": "assets/img/work/adc-toxicities/hero-sm.webp",
+     "1920": "assets/img/work/adc-toxicities/hero.webp"
+    },
+    "w": 1920,
+    "h": 2485
+   },
+   "cover": {
+    "src": "assets/img/work/adc-toxicities/hero-sm.webp",
+    "srcset": {
+     "800": "assets/img/work/adc-toxicities/hero-sm.webp",
+     "1920": "assets/img/work/adc-toxicities/hero.webp"
+    },
+    "w": 1920,
+    "h": 2485
+   }
+  },
+  {
+   "id": "cardiac-macrophages",
+   "room": "journal",
+   "year": "2023",
+   "title": {
+    "en": "Monocytes and Macrophages in Infarcted Myocardium",
+    "ko": "경색 심근의 단핵구와 대식세포"
+   },
+   "kind": {
+    "en": "Published figure",
+    "ko": "게재된 그림"
+   },
+   "statement": {
+    "en": "Traditional and emerging concepts of monocytes and macrophages after myocardial infarction, for a review in IJMS.",
+    "ko": "심근경색 후 단핵구와 대식세포에 대한 기존 개념과 새로운 개념을 정리한 IJMS 리뷰 논문 그림."
+   },
+   "cite": "Kim SH, Lee KY, Chang K. The Protective Role of TREM2 in the Heterogenous Population of Macrophages during Post-Myocardial Infarction Inflammation. International Journal of Molecular Sciences. 2023;24(6):5556.",
+   "links": [
+    {
+     "label": {
+      "en": "Read the article",
+      "ko": "논문 보기"
+     },
+     "href": "https://doi.org/10.3390/ijms24065556"
+    }
+   ],
+   "hero": {
+    "src": "assets/img/work/cardiac-macrophages/hero-sm.webp",
+    "srcset": {
+     "800": "assets/img/work/cardiac-macrophages/hero-sm.webp",
+     "1920": "assets/img/work/cardiac-macrophages/hero.webp"
+    },
+    "w": 1920,
+    "h": 2716,
+    "cap": {
+     "en": "Cardiac Macrophage Illustration"
+    }
+   },
+   "cover": {
+    "src": "assets/img/work/cardiac-macrophages/hero-sm.webp",
+    "srcset": {
+     "800": "assets/img/work/cardiac-macrophages/hero-sm.webp",
+     "1920": "assets/img/work/cardiac-macrophages/hero.webp"
+    },
+    "w": 1920,
+    "h": 2716,
+    "cap": {
+     "en": "Cardiac Macrophage Illustration"
+    }
+   }
+  },
+  {
+   "id": "scar-folding",
+   "room": "journal",
+   "year": "2023",
+   "title": {
+    "en": "Scar Folding Method",
+    "ko": "반흔 접기 술식"
+   },
+   "kind": {
+    "en": "Published figure",
+    "ko": "게재된 그림"
+   },
+   "statement": {
+    "en": "A schematic of the scar folding method for nostril stenosis, published in Archives of Aesthetic Plastic Surgery.",
+    "ko": "비공 협착 치료를 위한 반흔 접기 술식의 모식도. Archives of Aesthetic Plastic Surgery에 게재되었습니다."
+   },
+   "cite": "Kim J-H, Park Y, Yang HJ, Oh S-H, Song SH, Ha Y, Kim S, Kyung H. Scar folding for the treatment of nostril stenosis after open rhinoplasty: A case report. Archives of Aesthetic Plastic Surgery. 2023;29(3):158–160.",
+   "links": [
+    {
+     "label": {
+      "en": "Read the article",
+      "ko": "논문 보기"
+     },
+     "href": "https://doi.org/10.14730/aaps.2023.00857"
+    }
+   ],
+   "hero": {
+    "src": "assets/img/work/scar-folding/hero-sm.webp",
+    "srcset": {
+     "800": "assets/img/work/scar-folding/hero-sm.webp",
+     "1920": "assets/img/work/scar-folding/hero.webp"
+    },
+    "w": 1920,
+    "h": 1358
+   },
+   "cover": {
+    "src": "assets/img/work/scar-folding/hero-sm.webp",
+    "srcset": {
+     "800": "assets/img/work/scar-folding/hero-sm.webp",
+     "1920": "assets/img/work/scar-folding/hero.webp"
+    },
+    "w": 1920,
+    "h": 1358
+   }
+  },
+  {
+   "id": "veno-venous-bypass",
+   "room": "journal",
+   "year": "2023",
+   "title": {
+    "en": "Weaning of Veno-venous Bypass",
+    "ko": "정맥-정맥 우회술 이탈"
+   },
+   "kind": {
+    "en": "Presentation figure",
+    "ko": "발표용 그림"
+   },
+   "statement": {
+    "en": "A figure for a presentation at Samsung Medical Center, based on a single-centre study of bypass weaning in liver transplantation.",
+    "ko": "간이식에서의 정맥-정맥 우회술 이탈에 관한 단일 기관 연구를 바탕으로, 삼성서울병원 발표를 위해 만든 그림."
+   },
+   "cite": "Based on: Kim HY, Ko JS, Joh J, Lee S, Kim GS. Weaning of veno-venous bypass in liver transplantation: A single center experience. Transplantation Proceedings. 2018;50(9):2657–2660.",
+   "links": [
+    {
+     "label": {
+      "en": "Source article",
+      "ko": "원 논문"
+     },
+     "href": "https://doi.org/10.1016/j.transproceed.2018.03.075"
+    }
+   ],
+   "hero": {
+    "src": "assets/img/work/veno-venous-bypass/hero-sm.webp",
+    "srcset": {
+     "800": "assets/img/work/veno-venous-bypass/hero-sm.webp",
+     "1831": "assets/img/work/veno-venous-bypass/hero.webp"
+    },
+    "w": 1831,
+    "h": 1831,
+    "cap": {
+     "en": "Figure"
+    }
+   },
+   "details": [
+    {
+     "src": "assets/img/work/veno-venous-bypass/detail-01-sm.webp",
+     "srcset": {
+      "800": "assets/img/work/veno-venous-bypass/detail-01-sm.webp",
+      "1920": "assets/img/work/veno-venous-bypass/detail-01.webp"
+     },
+     "w": 1920,
+     "h": 1920,
+     "cap": {
+      "en": "Presented at Samsung Medical Center (2023)"
+     }
+    }
+   ],
+   "cover": {
+    "src": "assets/img/work/veno-venous-bypass/hero-sm.webp",
+    "srcset": {
+     "800": "assets/img/work/veno-venous-bypass/hero-sm.webp",
+     "1831": "assets/img/work/veno-venous-bypass/hero.webp"
+    },
+    "w": 1831,
+    "h": 1831,
+    "cap": {
+     "en": "Figure"
+    }
+   }
+  },
+  {
+   "id": "graphical-figures",
+   "room": "journal",
+   "year": "2023",
+   "title": {
+    "en": "Graphical Figures for Molecular Biology",
+    "ko": "분자생물학 그래픽 그림"
+   },
+   "kind": {
+    "en": "Figure and icon set",
+    "ko": "그림 · 아이콘 세트"
+   },
+   "partner": {
+    "en": "Biomedical Communications Lab, Incheon Catholic University",
+    "ko": "인천가톨릭대학교 바이오메디컬 커뮤니케이션 연구실"
+   },
+   "statement": {
+    "en": "Reusable vector figures for teaching: central dogma, replication, translation, inflammation, mitochondrial dynamics and more.",
+    "ko": "수업에 쓰는 벡터 그림 세트. 센트럴 도그마, 복제, 번역, 염증, 미토콘드리아 역동성 등."
+   },
+   "hero": {
+    "src": "assets/img/work/graphical-figures/hero-sm.webp",
+    "srcset": {
+     "800": "assets/img/work/graphical-figures/hero-sm.webp",
+     "1920": "assets/img/work/graphical-figures/hero.webp"
+    },
+    "w": 1920,
+    "h": 1920,
+    "cap": {
+     "en": "Central Dogma 001"
+    }
+   },
+   "details": [
+    {
+     "src": "assets/img/work/graphical-figures/detail-01-sm.webp",
+     "srcset": {
+      "800": "assets/img/work/graphical-figures/detail-01-sm.webp",
+      "1920": "assets/img/work/graphical-figures/detail-01.webp"
+     },
+     "w": 1920,
+     "h": 1920,
+     "cap": {
+      "en": "Central Dogma 002"
+     }
+    },
+    {
+     "src": "assets/img/work/graphical-figures/detail-02-sm.webp",
+     "srcset": {
+      "800": "assets/img/work/graphical-figures/detail-02-sm.webp",
+      "1920": "assets/img/work/graphical-figures/detail-02.webp"
+     },
+     "w": 1920,
+     "h": 1151,
+     "cap": {
+      "en": "Replication"
+     }
+    },
+    {
+     "src": "assets/img/work/graphical-figures/detail-03-sm.webp",
+     "srcset": {
+      "800": "assets/img/work/graphical-figures/detail-03-sm.webp",
+      "1920": "assets/img/work/graphical-figures/detail-03.webp"
+     },
+     "w": 1920,
+     "h": 1920,
+     "cap": {
+      "en": "Monocistronic vs Polycistronic"
+     }
+    },
+    {
+     "src": "assets/img/work/graphical-figures/detail-04-sm.webp",
+     "srcset": {
+      "800": "assets/img/work/graphical-figures/detail-04-sm.webp",
+      "1920": "assets/img/work/graphical-figures/detail-04.webp"
+     },
+     "w": 1920,
+     "h": 2715,
+     "cap": {
+      "en": "Translation"
+     }
+    },
+    {
+     "src": "assets/img/work/graphical-figures/detail-05-sm.webp",
+     "srcset": {
+      "800": "assets/img/work/graphical-figures/detail-05-sm.webp",
+      "1920": "assets/img/work/graphical-figures/detail-05.webp"
+     },
+     "w": 1920,
+     "h": 1920,
+     "cap": {
+      "en": "Inflammation"
+     }
+    },
+    {
+     "src": "assets/img/work/graphical-figures/detail-06-sm.webp",
+     "srcset": {
+      "800": "assets/img/work/graphical-figures/detail-06-sm.webp",
+      "1920": "assets/img/work/graphical-figures/detail-06.webp"
+     },
+     "w": 1920,
+     "h": 1920,
+     "cap": {
+      "en": "Mitochondrial Dynamics Fission"
+     }
+    },
+    {
+     "src": "assets/img/work/graphical-figures/detail-07-sm.webp",
+     "srcset": {
+      "800": "assets/img/work/graphical-figures/detail-07-sm.webp",
+      "1920": "assets/img/work/graphical-figures/detail-07.webp"
+     },
+     "w": 1920,
+     "h": 1920,
+     "cap": {
+      "en": "Mitochondrial Dynamics Fusion"
+     }
+    },
+    {
+     "src": "assets/img/work/graphical-figures/detail-08-sm.webp",
+     "srcset": {
+      "800": "assets/img/work/graphical-figures/detail-08-sm.webp",
+      "1920": "assets/img/work/graphical-figures/detail-08.webp"
+     },
+     "w": 1920,
+     "h": 1920,
+     "cap": {
+      "en": "Aerobic Respiration"
+     }
+    },
+    {
+     "src": "assets/img/work/graphical-figures/detail-09-sm.webp",
+     "srcset": {
+      "800": "assets/img/work/graphical-figures/detail-09-sm.webp",
+      "1920": "assets/img/work/graphical-figures/detail-09.webp"
+     },
+     "w": 1920,
+     "h": 1100,
+     "cap": {
+      "en": "Mitophagy"
+     }
+    },
+    {
+     "src": "assets/img/work/graphical-figures/detail-10-sm.webp",
+     "srcset": {
+      "800": "assets/img/work/graphical-figures/detail-10-sm.webp",
+      "1920": "assets/img/work/graphical-figures/detail-10.webp"
+     },
+     "w": 1920,
+     "h": 1920
+    },
+    {
+     "src": "assets/img/work/graphical-figures/detail-11-sm.webp",
+     "srcset": {
+      "800": "assets/img/work/graphical-figures/detail-11-sm.webp",
+      "1920": "assets/img/work/graphical-figures/detail-11.webp"
+     },
+     "w": 1920,
+     "h": 1920
+    },
+    {
+     "src": "assets/img/work/graphical-figures/detail-12-sm.webp",
+     "srcset": {
+      "800": "assets/img/work/graphical-figures/detail-12-sm.webp",
+      "1920": "assets/img/work/graphical-figures/detail-12.webp"
+     },
+     "w": 1920,
+     "h": 1920
+    },
+    {
+     "src": "assets/img/work/graphical-figures/detail-13-sm.webp",
+     "srcset": {
+      "800": "assets/img/work/graphical-figures/detail-13-sm.webp",
+      "1750": "assets/img/work/graphical-figures/detail-13.webp"
+     },
+     "w": 1750,
+     "h": 867
+    },
+    {
+     "src": "assets/img/work/graphical-figures/detail-14-sm.webp",
+     "srcset": {
+      "800": "assets/img/work/graphical-figures/detail-14-sm.webp",
+      "1920": "assets/img/work/graphical-figures/detail-14.webp"
+     },
+     "w": 1920,
+     "h": 1920
+    },
+    {
+     "src": "assets/img/work/graphical-figures/detail-15-sm.webp",
+     "srcset": {
+      "800": "assets/img/work/graphical-figures/detail-15-sm.webp",
+      "1920": "assets/img/work/graphical-figures/detail-15.webp"
+     },
+     "w": 1920,
+     "h": 1920
+    }
+   ],
+   "cover": {
+    "src": "assets/img/work/graphical-figures/hero-sm.webp",
+    "srcset": {
+     "800": "assets/img/work/graphical-figures/hero-sm.webp",
+     "1920": "assets/img/work/graphical-figures/hero.webp"
+    },
+    "w": 1920,
+    "h": 1920,
+    "cap": {
+     "en": "Central Dogma 001"
+    }
+   }
+  },
+  {
+   "id": "angiopilot",
+   "room": "xr",
+   "year": "2025",
+   "featured": true,
+   "title": {
+    "en": "AngioPilot",
+    "ko": "AngioPilot"
+   },
+   "kind": {
+    "en": "Apple Vision Pro training prototype",
+    "ko": "애플 비전 프로 교육 프로토타입"
+   },
+   "tools": "Xcode, Apple Vision Pro, Autodesk Maya, 3D Slicer",
+   "partner": {
+    "en": "medVR and Massachusetts General Hospital",
+    "ko": "medVR · 매사추세츠 종합병원"
+   },
+   "statement": {
+    "en": "A self-directed simulation where radiology residents practise catheter navigation for splenic trauma embolisation.",
+    "ko": "영상의학과 전공의가 비장 외상 색전술의 카테터 조작을 스스로 연습하는 시뮬레이션."
+   },
+   "brief": {
+    "audience": {
+     "en": "Radiology residents learning vascular catheterisation.",
+     "ko": "혈관 카테터 시술을 배우는 영상의학과 전공의."
+    },
+    "contribution": {
+     "en": "I designed the gamified training flow with clinicians and developers, translating the clinical workflow into UX/UI interactions and anatomically accurate assets.",
+     "ko": "임상의·개발자와 함께 게임형 교육 흐름을 설계하고, 임상 워크플로를 UX/UI 인터랙션과 해부학적으로 정확한 에셋으로 옮겼습니다."
+    }
+   },
+   "hero": {
+    "src": "assets/img/work/angiopilot/hero-sm.webp",
+    "srcset": {
+     "800": "assets/img/work/angiopilot/hero-sm.webp",
+     "1920": "assets/img/work/angiopilot/hero.webp"
+    },
+    "w": 1920,
+    "h": 1484,
+    "cap": {
+     "en": "[Visual Abstract] Simulation Training Tool for Radiology Residents"
+    }
+   },
+   "trail": [
+    {
+     "stage": {
+      "en": "Pre-production",
+      "ko": "프리프로덕션"
+     },
+     "note": {
+      "en": "The pre-production document sets scope and workflow.",
+      "ko": "프리프로덕션 문서로 범위와 워크플로를 정했습니다."
+     },
+     "images": [
+      {
+       "src": "assets/img/work/angiopilot/step1-1-sm.webp",
+       "srcset": {
+        "800": "assets/img/work/angiopilot/step1-1-sm.webp",
+        "1920": "assets/img/work/angiopilot/step1-1.webp"
+       },
+       "w": 1920,
+       "h": 1440
+      }
+     ]
+    },
+    {
+     "stage": {
+      "en": "Visual abstract",
+      "ko": "비주얼 초록"
+     },
+     "note": {
+      "en": "One image explains the tool to residents and faculty.",
+      "ko": "한 장의 그림으로 전공의와 교수진에게 도구를 설명합니다."
+     },
+     "images": [
+      {
+       "src": "assets/img/work/angiopilot/hero-sm.webp",
+       "srcset": {
+        "800": "assets/img/work/angiopilot/hero-sm.webp",
+        "1920": "assets/img/work/angiopilot/hero.webp"
+       },
+       "w": 1920,
+       "h": 1484,
+       "cap": {
+        "en": "[Visual Abstract] Simulation Training Tool for Radiology Residents"
+       }
+      }
+     ]
+    },
+    {
+     "stage": {
+      "en": "Dossier",
+      "ko": "도시에"
+     },
+     "note": {
+      "en": "Interface and asset pages from the project dossier.",
+      "ko": "프로젝트 도시에에 담긴 인터페이스와 에셋 페이지."
+     },
+     "images": [
+      {
+       "src": "assets/img/work/angiopilot/step3-1-sm.webp",
+       "srcset": {
+        "800": "assets/img/work/angiopilot/step3-1-sm.webp",
+        "960": "assets/img/work/angiopilot/step3-1.webp"
+       },
+       "w": 960,
+       "h": 540
+      },
+      {
+       "src": "assets/img/work/angiopilot/step3-2-sm.webp",
+       "srcset": {
+        "800": "assets/img/work/angiopilot/step3-2-sm.webp",
+        "960": "assets/img/work/angiopilot/step3-2.webp"
+       },
+       "w": 960,
+       "h": 540
+      },
+      {
+       "src": "assets/img/work/angiopilot/step3-3-sm.webp",
+       "srcset": {
+        "800": "assets/img/work/angiopilot/step3-3-sm.webp",
+        "960": "assets/img/work/angiopilot/step3-3.webp"
+       },
+       "w": 960,
+       "h": 540
+      },
+      {
+       "src": "assets/img/work/angiopilot/step3-4-sm.webp",
+       "srcset": {
+        "800": "assets/img/work/angiopilot/step3-4-sm.webp",
+        "960": "assets/img/work/angiopilot/step3-4.webp"
+       },
+       "w": 960,
+       "h": 540
+      },
+      {
+       "src": "assets/img/work/angiopilot/step3-5-sm.webp",
+       "srcset": {
+        "800": "assets/img/work/angiopilot/step3-5-sm.webp",
+        "960": "assets/img/work/angiopilot/step3-5.webp"
+       },
+       "w": 960,
+       "h": 540
+      },
+      {
+       "src": "assets/img/work/angiopilot/step3-6-sm.webp",
+       "srcset": {
+        "800": "assets/img/work/angiopilot/step3-6-sm.webp",
+        "960": "assets/img/work/angiopilot/step3-6.webp"
+       },
+       "w": 960,
+       "h": 540
+      },
+      {
+       "src": "assets/img/work/angiopilot/step3-7-sm.webp",
+       "srcset": {
+        "800": "assets/img/work/angiopilot/step3-7-sm.webp",
+        "960": "assets/img/work/angiopilot/step3-7.webp"
+       },
+       "w": 960,
+       "h": 540
+      },
+      {
+       "src": "assets/img/work/angiopilot/step3-8-sm.webp",
+       "srcset": {
+        "800": "assets/img/work/angiopilot/step3-8-sm.webp",
+        "960": "assets/img/work/angiopilot/step3-8.webp"
+       },
+       "w": 960,
+       "h": 540
+      },
+      {
+       "src": "assets/img/work/angiopilot/step3-9-sm.webp",
+       "srcset": {
+        "800": "assets/img/work/angiopilot/step3-9-sm.webp",
+        "960": "assets/img/work/angiopilot/step3-9.webp"
+       },
+       "w": 960,
+       "h": 540
+      },
+      {
+       "src": "assets/img/work/angiopilot/step3-10-sm.webp",
+       "srcset": {
+        "800": "assets/img/work/angiopilot/step3-10-sm.webp",
+        "960": "assets/img/work/angiopilot/step3-10.webp"
+       },
+       "w": 960,
+       "h": 540
+      },
+      {
+       "src": "assets/img/work/angiopilot/step3-11-sm.webp",
+       "srcset": {
+        "800": "assets/img/work/angiopilot/step3-11-sm.webp",
+        "960": "assets/img/work/angiopilot/step3-11.webp"
+       },
+       "w": 960,
+       "h": 540
+      },
+      {
+       "src": "assets/img/work/angiopilot/step3-12-sm.webp",
+       "srcset": {
+        "800": "assets/img/work/angiopilot/step3-12-sm.webp",
+        "960": "assets/img/work/angiopilot/step3-12.webp"
+       },
+       "w": 960,
+       "h": 540
+      },
+      {
+       "src": "assets/img/work/angiopilot/step3-13-sm.webp",
+       "srcset": {
+        "800": "assets/img/work/angiopilot/step3-13-sm.webp",
+        "960": "assets/img/work/angiopilot/step3-13.webp"
+       },
+       "w": 960,
+       "h": 540
+      },
+      {
+       "src": "assets/img/work/angiopilot/step3-14-sm.webp",
+       "srcset": {
+        "800": "assets/img/work/angiopilot/step3-14-sm.webp",
+        "960": "assets/img/work/angiopilot/step3-14.webp"
+       },
+       "w": 960,
+       "h": 540
+      },
+      {
+       "src": "assets/img/work/angiopilot/step3-15-sm.webp",
+       "srcset": {
+        "800": "assets/img/work/angiopilot/step3-15-sm.webp",
+        "960": "assets/img/work/angiopilot/step3-15.webp"
+       },
+       "w": 960,
+       "h": 540
+      },
+      {
+       "src": "assets/img/work/angiopilot/step3-16-sm.webp",
+       "srcset": {
+        "800": "assets/img/work/angiopilot/step3-16-sm.webp",
+        "960": "assets/img/work/angiopilot/step3-16.webp"
+       },
+       "w": 960,
+       "h": 540
+      },
+      {
+       "src": "assets/img/work/angiopilot/step3-17-sm.webp",
+       "srcset": {
+        "800": "assets/img/work/angiopilot/step3-17-sm.webp",
+        "960": "assets/img/work/angiopilot/step3-17.webp"
+       },
+       "w": 960,
+       "h": 540
+      },
+      {
+       "src": "assets/img/work/angiopilot/step3-18-sm.webp",
+       "srcset": {
+        "800": "assets/img/work/angiopilot/step3-18-sm.webp",
+        "960": "assets/img/work/angiopilot/step3-18.webp"
+       },
+       "w": 960,
+       "h": 540
+      },
+      {
+       "src": "assets/img/work/angiopilot/step3-19-sm.webp",
+       "srcset": {
+        "800": "assets/img/work/angiopilot/step3-19-sm.webp",
+        "960": "assets/img/work/angiopilot/step3-19.webp"
+       },
+       "w": 960,
+       "h": 540
+      }
+     ]
+    },
+    {
+     "stage": {
+      "en": "Feature update",
+      "ko": "기능 업데이트"
+     },
+     "note": {
+      "en": "Control with the Logitech Muse pen explored.",
+      "ko": "Logitech Muse 펜을 이용한 조작을 탐색했습니다."
+     },
+     "images": [
+      {
+       "src": "assets/img/work/angiopilot/step4-1-sm.webp",
+       "srcset": {
+        "800": "assets/img/work/angiopilot/step4-1-sm.webp",
+        "1670": "assets/img/work/angiopilot/step4-1.webp"
+       },
+       "w": 1670,
+       "h": 1136
+      }
+     ]
+    }
+   ],
+   "videos": [
+    {
+     "src": "https://www-ccv.adobe.io/v1/player/ccv/5n45KArM-QU/embed?bgcolor=%23191919&lazyLoading=true&api_key=BehancePro2View",
+     "title": "AngioPilot demo"
+    },
+    {
+     "src": "https://www-ccv.adobe.io/v1/player/ccv/3qINy7ULsmW/embed?bgcolor=%23191919&lazyLoading=true&api_key=BehancePro2View",
+     "title": "AngioPilot feature update"
+    }
+   ],
+   "outcomes": [
+    {
+     "text": {
+      "en": "Selected as a scientific abstract presentation at the 111th Scientific Assembly and Annual Meeting of the Radiological Society of North America (RSNA), Chicago.",
+      "ko": "시카고에서 열린 북미영상의학회(RSNA) 제111차 학술대회 과학 초록 발표로 선정."
+     }
+    },
+    {
+     "text": {
+      "en": "Poster presentation at IDEO Boston, 7 May 2025.",
+      "ko": "2025년 5월 7일 IDEO Boston 포스터 발표."
+     }
+    }
+   ],
+   "cover": {
+    "src": "assets/img/work/angiopilot/hero-sm.webp",
+    "srcset": {
+     "800": "assets/img/work/angiopilot/hero-sm.webp",
+     "1920": "assets/img/work/angiopilot/hero.webp"
+    },
+    "w": 1920,
+    "h": 1484,
+    "cap": {
+     "en": "[Visual Abstract] Simulation Training Tool for Radiology Residents"
+    }
+   }
+  },
+  {
+   "id": "m6ve-aya",
+   "room": "xr",
+   "year": "2025",
+   "featured": true,
+   "title": {
+    "en": "M6VE-AYA",
+    "ko": "M6VE-AYA"
+   },
+   "kind": {
+    "en": "VR six-minute walk test",
+    "ko": "VR 6분 보행 검사"
+   },
+   "tools": "Unity, PICO Neo 3",
+   "partner": {
+    "en": "MD Anderson Cancer Center",
+    "ko": "MD 앤더슨 암센터"
+   },
+   "statement": {
+    "en": "The six-minute walk test rebuilt in VR for adolescent and young adult cancer survivors, with two ways to walk.",
+    "ko": "청소년·젊은 성인 암 생존자를 위해 6분 보행 검사를 VR로 다시 만들었습니다. 걷는 방식은 두 가지입니다."
+   },
+   "brief": {
+    "problem": {
+     "en": "The standard test needs a hallway at least 100 feet long, and turning at the cones breaks rhythm and shortens distance.",
+     "ko": "기존 검사는 30미터가 넘는 복도가 필요하고, 고깔을 돌 때마다 리듬이 끊기고 거리가 줄어듭니다."
+    },
+    "approach": {
+     "en": "FocusWalk keeps attention on steps and personal goals to limit motion sickness. ImmersiveWalk offers an endless virtual hallway with nothing to turn around.",
+     "ko": "FocusWalk는 걸음 수와 개인 목표에 집중하게 해 멀미를 줄입니다. ImmersiveWalk는 돌아설 필요가 없는 끝없는 가상 복도를 제공합니다."
+    }
+   },
+   "hero": {
+    "src": "assets/img/work/m6ve-aya/hero-sm.webp",
+    "srcset": {
+     "800": "assets/img/work/m6ve-aya/hero-sm.webp",
+     "1920": "assets/img/work/m6ve-aya/hero.webp"
+    },
+    "w": 1920,
+    "h": 1159,
+    "cap": {
+     "en": "Focus Walk Space"
+    }
+   },
+   "trail": [
+    {
+     "stage": {
+      "en": "Onboarding",
+      "ko": "온보딩"
+     },
+     "note": {
+      "en": "Landing page, project information, and saving and loading user input.",
+      "ko": "랜딩 페이지, 프로젝트 안내, 사용자 입력 저장과 불러오기."
+     },
+     "images": [
+      {
+       "src": "assets/img/work/m6ve-aya/step1-1-sm.webp",
+       "srcset": {
+        "800": "assets/img/work/m6ve-aya/step1-1-sm.webp",
+        "1324": "assets/img/work/m6ve-aya/step1-1.webp"
+       },
+       "w": 1324,
+       "h": 1004,
+       "cap": {
+        "en": "Landing Page"
+       }
+      },
+      {
+       "src": "assets/img/work/m6ve-aya/step1-2-sm.webp",
+       "srcset": {
+        "800": "assets/img/work/m6ve-aya/step1-2-sm.webp",
+        "1200": "assets/img/work/m6ve-aya/step1-2.webp"
+       },
+       "w": 1200,
+       "h": 895,
+       "cap": {
+        "en": "Learn More About the Project"
+       }
+      },
+      {
+       "src": "assets/img/work/m6ve-aya/step1-3-sm.webp",
+       "srcset": {
+        "800": "assets/img/work/m6ve-aya/step1-3-sm.webp",
+        "1256": "assets/img/work/m6ve-aya/step1-3.webp"
+       },
+       "w": 1256,
+       "h": 954,
+       "cap": {
+        "en": "User Input Save and Load"
+       }
+      }
+     ]
+    },
+    {
+     "stage": {
+      "en": "FocusWalk",
+      "ko": "FocusWalk"
+     },
+     "note": {
+      "en": "A calm space with a colour picker and a honeybee speed indicator.",
+      "ko": "색상 선택기와 꿀벌 속도 표시가 있는 차분한 공간."
+     },
+     "images": [
+      {
+       "src": "assets/img/work/m6ve-aya/hero-sm.webp",
+       "srcset": {
+        "800": "assets/img/work/m6ve-aya/hero-sm.webp",
+        "1920": "assets/img/work/m6ve-aya/hero.webp"
+       },
+       "w": 1920,
+       "h": 1159,
+       "cap": {
+        "en": "Focus Walk Space"
+       }
+      },
+      {
+       "src": "assets/img/work/m6ve-aya/step2-2-sm.webp",
+       "w": 800,
+       "h": 450,
+       "anim": "assets/img/work/m6ve-aya/step2-2.webp",
+       "cap": {
+        "en": "Color picker for speed indicator display"
+       }
+      },
+      {
+       "src": "assets/img/work/m6ve-aya/step2-3-sm.webp",
+       "w": 688,
+       "h": 594,
+       "anim": "assets/img/work/m6ve-aya/step2-3.webp",
+       "cap": {
+        "en": "HoneyBee Speed Indicator"
+       }
+      }
+     ]
+    },
+    {
+     "stage": {
+      "en": "ImmersiveWalk",
+      "ko": "ImmersiveWalk"
+     },
+     "note": {
+      "en": "The infinite hallway, worked out in the Unity scene.",
+      "ko": "Unity 씬에서 구상한 무한 복도."
+     },
+     "images": [
+      {
+       "src": "assets/img/work/m6ve-aya/step3-1-sm.webp",
+       "w": 800,
+       "h": 450,
+       "anim": "assets/img/work/m6ve-aya/step3-1.webp",
+       "cap": {
+        "en": "Immersive Walk Space"
+       }
+      },
+      {
+       "src": "assets/img/work/m6ve-aya/step3-2-sm.webp",
+       "w": 800,
+       "h": 450,
+       "anim": "assets/img/work/m6ve-aya/step3-2.webp",
+       "cap": {
+        "en": "Infinite Hallway Ideation in Unity Scene"
+       }
+      }
+     ]
+    },
+    {
+     "stage": {
+      "en": "Presentation",
+      "ko": "발표"
+     },
+     "note": {
+      "en": "Oral presentation at the IVRHA 2026 conference.",
+      "ko": "IVRHA 2026 학회 구연 발표."
+     },
+     "images": [
+      {
+       "src": "assets/img/work/m6ve-aya/step4-1-sm.webp",
+       "srcset": {
+        "800": "assets/img/work/m6ve-aya/step4-1-sm.webp",
+        "1920": "assets/img/work/m6ve-aya/step4-1.webp"
+       },
+       "w": 1920,
+       "h": 1284
+      },
+      {
+       "src": "assets/img/work/m6ve-aya/step4-2-sm.webp",
+       "srcset": {
+        "800": "assets/img/work/m6ve-aya/step4-2-sm.webp",
+        "1920": "assets/img/work/m6ve-aya/step4-2.webp"
+       },
+       "w": 1920,
+       "h": 1440,
+       "cap": {
+        "en": "During the oral presentation"
+       }
+      },
+      {
+       "src": "assets/img/work/m6ve-aya/step4-3-sm.webp",
+       "srcset": {
+        "800": "assets/img/work/m6ve-aya/step4-3-sm.webp",
+        "1920": "assets/img/work/m6ve-aya/step4-3.webp"
+       },
+       "w": 1920,
+       "h": 1440,
+       "cap": {
+        "en": "During the oral presentation"
+       }
+      },
+      {
+       "src": "assets/img/work/m6ve-aya/step4-4-sm.webp",
+       "srcset": {
+        "800": "assets/img/work/m6ve-aya/step4-4-sm.webp",
+        "1920": "assets/img/work/m6ve-aya/step4-4.webp"
+       },
+       "w": 1920,
+       "h": 1440,
+       "cap": {
+        "en": "Audience"
+       }
+      },
+      {
+       "src": "assets/img/work/m6ve-aya/step4-5-sm.webp",
+       "srcset": {
+        "800": "assets/img/work/m6ve-aya/step4-5-sm.webp",
+        "1920": "assets/img/work/m6ve-aya/step4-5.webp"
+       },
+       "w": 1920,
+       "h": 1440,
+       "cap": {
+        "en": "@Moffitt Cancer Center"
+       }
+      }
+     ]
+    }
+   ],
+   "outcomes": [
+    {
+     "text": {
+      "en": "Presented at IVRHA 2026: “Transposing the Six-Minute Walk Test into Virtual Reality, to Preserve Clinical Reliability and Enhance Engagement in AYA Cancer Survivors”.",
+      "ko": "IVRHA 2026 발표: 「Transposing the Six-Minute Walk Test into Virtual Reality, to Preserve Clinical Reliability and Enhance Engagement in AYA Cancer Survivors」."
+     },
+     "href": "https://health26.ivrha.org/"
+    }
+   ],
+   "cover": {
+    "src": "assets/img/work/m6ve-aya/hero-sm.webp",
+    "srcset": {
+     "800": "assets/img/work/m6ve-aya/hero-sm.webp",
+     "1920": "assets/img/work/m6ve-aya/hero.webp"
+    },
+    "w": 1920,
+    "h": 1159,
+    "cap": {
+     "en": "Focus Walk Space"
+    }
+   }
+  },
+  {
+   "id": "latte-art-xr",
+   "room": "xr",
+   "year": "2025",
+   "title": {
+    "en": "LatteArtXR",
+    "ko": "LatteArtXR"
+   },
+   "kind": {
+    "en": "VR training game",
+    "ko": "VR 트레이닝 게임"
+   },
+   "tools": "Unity, Meta Quest 3",
+   "statement": {
+    "en": "Practise latte art with virtual milk until the pour becomes muscle memory.",
+    "ko": "가상의 우유로 라떼 아트를 연습해 손이 기억하게 만드는 VR."
+   },
+   "brief": {
+    "contribution": {
+     "en": "I joined as designer: optimised the 3D models, designed the UX/UI flow for a cosy café feel, made tutorial animations and the scoring panel, and built the pattern selector.",
+     "ko": "디자이너로 참여해 3D 모델을 최적화하고, 아늑한 카페 분위기에 맞춘 UX/UI 흐름을 설계하고, 튜토리얼 애니메이션과 점수 패널, 패턴 선택기를 만들었습니다."
+    }
+   },
+   "hero": {
+    "src": "assets/img/work/latte-art-xr/hero-sm.webp",
+    "srcset": {
+     "800": "assets/img/work/latte-art-xr/hero-sm.webp",
+     "1920": "assets/img/work/latte-art-xr/hero.webp"
+    },
+    "w": 1920,
+    "h": 1280,
+    "cap": {
+     "en": "User flow with 3d model"
+    }
+   },
+   "trail": [
+    {
+     "stage": {
+      "en": "User flow",
+      "ko": "사용자 흐름"
+     },
+     "note": {
+      "en": "Flow mapped on a FigJam board, then checked against the 3D scene.",
+      "ko": "FigJam 보드에 흐름을 그린 뒤 3D 장면에 맞춰 확인했습니다."
+     },
+     "images": [
+      {
+       "src": "assets/img/work/latte-art-xr/step1-1-sm.webp",
+       "srcset": {
+        "800": "assets/img/work/latte-art-xr/step1-1-sm.webp",
+        "1920": "assets/img/work/latte-art-xr/step1-1.webp"
+       },
+       "w": 1920,
+       "h": 3291,
+       "cap": {
+        "en": "User flow chart - FigJam Board"
+       }
+      },
+      {
+       "src": "assets/img/work/latte-art-xr/hero-sm.webp",
+       "srcset": {
+        "800": "assets/img/work/latte-art-xr/hero-sm.webp",
+        "1920": "assets/img/work/latte-art-xr/hero.webp"
+       },
+       "w": 1920,
+       "h": 1280,
+       "cap": {
+        "en": "User flow with 3d model"
+       }
+      }
+     ]
+    },
+    {
+     "stage": {
+      "en": "Pattern selector",
+      "ko": "패턴 선택기"
+     },
+     "note": {
+      "en": "An interactive selector makes choosing a pattern part of the fun.",
+      "ko": "패턴을 고르는 일도 재미가 되도록 만든 인터랙티브 선택기."
+     },
+     "images": [
+      {
+       "src": "assets/img/work/latte-art-xr/step2-1-sm.webp",
+       "w": 784,
+       "h": 440,
+       "anim": "assets/img/work/latte-art-xr/step2-1.webp"
+      }
+     ]
+    }
+   ],
+   "details": [
+    {
+     "src": "assets/img/work/latte-art-xr/detail-01-sm.webp",
+     "srcset": {
+      "800": "assets/img/work/latte-art-xr/detail-01-sm.webp",
+      "1920": "assets/img/work/latte-art-xr/detail-01.webp"
+     },
+     "w": 1920,
+     "h": 2560
+    },
+    {
+     "src": "assets/img/work/latte-art-xr/detail-02-sm.webp",
+     "srcset": {
+      "800": "assets/img/work/latte-art-xr/detail-02-sm.webp",
+      "1920": "assets/img/work/latte-art-xr/detail-02.webp"
+     },
+     "w": 1920,
+     "h": 1440
+    },
+    {
+     "src": "assets/img/work/latte-art-xr/detail-03-sm.webp",
+     "srcset": {
+      "800": "assets/img/work/latte-art-xr/detail-03-sm.webp",
+      "1179": "assets/img/work/latte-art-xr/detail-03.webp"
+     },
+     "w": 1179,
+     "h": 663
+    }
+   ],
+   "videos": [
+    {
+     "src": "https://www-ccv.adobe.io/v1/player/ccv/2bgzJEiAtU_/embed?bgcolor=%23191919&lazyLoading=true&api_key=BehancePro2View",
+     "title": "LatteArtXR demo"
+    }
+   ],
+   "outcomes": [
+    {
+     "text": {
+      "en": "First Prize, Mixed and Virtual Reality, SensAI Hackathon Barcelona.",
+      "ko": "SensAI Hackathon Barcelona 혼합·가상현실 부문 1위."
+     }
+    },
+    {
+     "text": {
+      "en": "Submitted to the Meta Horizon Start Developer Competition 2025.",
+      "ko": "Meta Horizon Start Developer Competition 2025 출품."
+     }
+    }
+   ],
+   "cover": {
+    "src": "assets/img/work/latte-art-xr/hero-sm.webp",
+    "srcset": {
+     "800": "assets/img/work/latte-art-xr/hero-sm.webp",
+     "1920": "assets/img/work/latte-art-xr/hero.webp"
+    },
+    "w": 1920,
+    "h": 1280,
+    "cap": {
+     "en": "User flow with 3d model"
+    }
+   }
+  },
+  {
+   "id": "archipelago",
+   "room": "xr",
+   "year": "2025",
+   "title": {
+    "en": "ARchipelago",
+    "ko": "ARchipelago"
+   },
+   "kind": {
+    "en": "AR education app",
+    "ko": "AR 교육 앱"
+   },
+   "tools": "Unity, Xcode",
+   "statement": {
+    "en": "Scan a marker and a tropical island appears: an AR app about the climate pressures island communities face.",
+    "ko": "마커를 비추면 열대 섬이 나타납니다. 섬 지역이 겪는 기후 위기를 알리는 AR 앱."
+   },
+   "brief": {
+    "contribution": {
+     "en": "As the team’s Unity developer I built multi-image tracking, a drag-and-drop mini-game, sliders and hotspot animations, and deployed the prototype to iPhone.",
+     "ko": "팀의 Unity 개발자로서 다중 이미지 트래킹, 드래그 앤 드롭 미니게임, 슬라이더와 핫스팟 애니메이션을 구현하고 프로토타입을 아이폰에 배포했습니다."
+    }
+   },
+   "hero": {
+    "src": "assets/img/work/archipelago/hero-sm.webp",
+    "srcset": {
+     "800": "assets/img/work/archipelago/hero-sm.webp",
+     "1920": "assets/img/work/archipelago/hero.webp"
+    },
+    "w": 1920,
+    "h": 2715,
+    "cap": {
+     "en": "Physical Model Design"
+    }
+   },
+   "trail": [
+    {
+     "stage": {
+      "en": "Wireframe",
+      "ko": "와이어프레임"
+     },
+     "note": {
+      "en": "Screens and marker flow planned first.",
+      "ko": "화면과 마커 흐름을 먼저 계획했습니다."
+     },
+     "images": [
+      {
+       "src": "assets/img/work/archipelago/step1-1-sm.webp",
+       "srcset": {
+        "800": "assets/img/work/archipelago/step1-1-sm.webp",
+        "1920": "assets/img/work/archipelago/step1-1.webp"
+       },
+       "w": 1920,
+       "h": 1439,
+       "cap": {
+        "en": "Wireframe Design"
+       }
+      }
+     ]
+    },
+    {
+     "stage": {
+      "en": "Physical model",
+      "ko": "실물 모델"
+     },
+     "note": {
+      "en": "The island model and markers the app scans.",
+      "ko": "앱이 인식하는 섬 모형과 마커."
+     },
+     "images": [
+      {
+       "src": "assets/img/work/archipelago/hero-sm.webp",
+       "srcset": {
+        "800": "assets/img/work/archipelago/hero-sm.webp",
+        "1920": "assets/img/work/archipelago/hero.webp"
+       },
+       "w": 1920,
+       "h": 2715,
+       "cap": {
+        "en": "Physical Model Design"
+       }
+      }
+     ]
+    }
+   ],
+   "videos": [
+    {
+     "src": "https://www-ccv.adobe.io/v1/player/ccv/UQvde7YnWjc/embed?bgcolor=%23191919&lazyLoading=true&api_key=BehancePro2View",
+     "title": "ARchipelago demo"
+    }
+   ],
+   "cover": {
+    "src": "assets/img/work/archipelago/hero-sm.webp",
+    "srcset": {
+     "800": "assets/img/work/archipelago/hero-sm.webp",
+     "1920": "assets/img/work/archipelago/hero.webp"
+    },
+    "w": 1920,
+    "h": 2715,
+    "cap": {
+     "en": "Physical Model Design"
+    }
+   }
+  },
+  {
+   "id": "bloomwatch",
+   "room": "xr",
+   "year": "2025",
+   "title": {
+    "en": "BloomWatch",
+    "ko": "BloomWatch"
+   },
+   "kind": {
+    "en": "Mobile visual atlas",
+    "ko": "모바일 비주얼 아틀라스"
+   },
+   "tools": "Unity, Xcode",
+   "statement": {
+    "en": "NASA satellite imagery of flowering, turned into a mobile atlas anyone can read. Built solo in 48 hours.",
+    "ko": "NASA 위성이 포착한 개화 데이터를 누구나 읽을 수 있는 모바일 아틀라스로. 48시간 동안 혼자 만들었습니다."
+   },
+   "hero": {
+    "src": "assets/img/work/bloomwatch/hero-sm.webp",
+    "srcset": {
+     "800": "assets/img/work/bloomwatch/hero-sm.webp",
+     "1920": "assets/img/work/bloomwatch/hero.webp"
+    },
+    "w": 1920,
+    "h": 1087
+   },
+   "details": [
+    {
+     "src": "assets/img/work/bloomwatch/detail-01-sm.webp",
+     "srcset": {
+      "800": "assets/img/work/bloomwatch/detail-01-sm.webp",
+      "1920": "assets/img/work/bloomwatch/detail-01.webp"
+     },
+     "w": 1920,
+     "h": 1088
+    },
+    {
+     "src": "assets/img/work/bloomwatch/detail-02-sm.webp",
+     "srcset": {
+      "800": "assets/img/work/bloomwatch/detail-02-sm.webp",
+      "1920": "assets/img/work/bloomwatch/detail-02.webp"
+     },
+     "w": 1920,
+     "h": 1083
+    },
+    {
+     "src": "assets/img/work/bloomwatch/detail-03-sm.webp",
+     "srcset": {
+      "800": "assets/img/work/bloomwatch/detail-03-sm.webp",
+      "1920": "assets/img/work/bloomwatch/detail-03.webp"
+     },
+     "w": 1920,
+     "h": 1085
+    },
+    {
+     "src": "assets/img/work/bloomwatch/detail-04-sm.webp",
+     "srcset": {
+      "800": "assets/img/work/bloomwatch/detail-04-sm.webp",
+      "1920": "assets/img/work/bloomwatch/detail-04.webp"
+     },
+     "w": 1920,
+     "h": 1087
+    },
+    {
+     "src": "assets/img/work/bloomwatch/detail-05-sm.webp",
+     "srcset": {
+      "800": "assets/img/work/bloomwatch/detail-05-sm.webp",
+      "1920": "assets/img/work/bloomwatch/detail-05.webp"
+     },
+     "w": 1920,
+     "h": 1083
+    },
+    {
+     "src": "assets/img/work/bloomwatch/detail-06-sm.webp",
+     "srcset": {
+      "800": "assets/img/work/bloomwatch/detail-06-sm.webp",
+      "1920": "assets/img/work/bloomwatch/detail-06.webp"
+     },
+     "w": 1920,
+     "h": 1081
+    }
+   ],
+   "videos": [
+    {
+     "src": "https://www-ccv.adobe.io/v1/player/ccv/B6kTaDKXFV5/embed?bgcolor=%23191919&lazyLoading=true&api_key=BehancePro2View",
+     "title": "BloomWatch demo"
+    }
+   ],
+   "outcomes": [
+    {
+     "text": {
+      "en": "NASA Space Apps Challenge 2025, solo developer: planning, design, prototype, presentation and demo video.",
+      "ko": "NASA Space Apps Challenge 2025 1인 참가: 기획, 디자인, 프로토타입, 발표, 데모 영상."
+     }
+    }
+   ],
+   "links": [
+    {
+     "label": {
+      "en": "Design document",
+      "ko": "디자인 문서"
+     },
+     "href": "https://docs.google.com/document/d/1bRON2uHd2xUKaVNbr3zTNcNybmMHGSmW2EnJmpyG6qY/edit?usp=drive_link"
+    }
+   ],
+   "cover": {
+    "src": "assets/img/work/bloomwatch/hero-sm.webp",
+    "srcset": {
+     "800": "assets/img/work/bloomwatch/hero-sm.webp",
+     "1920": "assets/img/work/bloomwatch/hero.webp"
+    },
+    "w": 1920,
+    "h": 1087
+   }
+  },
+  {
+   "id": "icurwave",
+   "room": "xr",
+   "year": "2025",
+   "featured": true,
+   "title": {
+    "en": "ICUrWave",
+    "ko": "ICUrWave"
+   },
+   "kind": {
+    "en": "Mobile training app",
+    "ko": "모바일 교육 앱"
+   },
+   "tools": "Unity, ZBrush, Autodesk Maya",
+   "partner": {
+    "en": "Master’s research project, University of Toronto",
+    "ko": "토론토 대학교 석사 연구 프로젝트"
+   },
+   "role": {
+    "en": "End to end: user research, planning, UX/UI, 3D assets, Unity development, TestFlight release",
+    "ko": "전 과정: 사용자 조사, 기획, UX/UI, 3D 에셋, Unity 개발, TestFlight 배포"
+   },
+   "statement": {
+    "en": "A scenario-based refresher that lets physiotherapists practise NMES on unresponsive ICU patients, on their phone.",
+    "ko": "물리치료사가 반응이 없는 중환자에게 NMES를 적용하는 과정을 휴대폰으로 연습하는 시나리오 기반 교육 앱."
+   },
+   "brief": {
+    "audience": {
+     "en": "Physiotherapists and students who know the theory but are less confident at the bedside.",
+     "ko": "이론은 알지만 임상 적용에는 자신이 없는 물리치료사와 학생."
+    },
+    "problem": {
+     "en": "NMES means finding motor points, placing electrodes and tuning parameters, yet hands-on training is hard to come by.",
+     "ko": "신경근 전기자극 치료법은 운동점을 찾고, 전극을 붙이고, 자극 변수를 조절해야 하지만 실습 기회는 드뭅니다."
+    },
+    "approach": {
+     "en": "Patient scenarios, a 3D muscle model with motor points, and a patient whose face shows discomfort as intensity rises.",
+     "ko": "환자 시나리오, 운동점이 표시된 3D 근육 모델, 그리고 자극 강도가 오르면 표정으로 불편함을 드러내는 환자."
+    }
+   },
+   "hero": {
+    "src": "assets/img/work/icurwave/hero-sm.webp",
+    "srcset": {
+     "800": "assets/img/work/icurwave/hero-sm.webp",
+     "1920": "assets/img/work/icurwave/hero.webp"
+    },
+    "w": 1920,
+    "h": 1920
+   },
+   "trail": [
+    {
+     "stage": {
+      "en": "Research",
+      "ko": "리서치"
+     },
+     "note": {
+      "en": "Literature review, then the challenge and the visual solution.",
+      "ko": "문헌 조사 후 과제와 시각적 해법을 정리했습니다."
+     },
+     "images": [
+      {
+       "src": "assets/img/work/icurwave/step1-1-sm.webp",
+       "srcset": {
+        "800": "assets/img/work/icurwave/step1-1-sm.webp",
+        "1920": "assets/img/work/icurwave/step1-1.webp"
+       },
+       "w": 1920,
+       "h": 1081,
+       "cap": {
+        "en": "Lit Review"
+       }
+      },
+      {
+       "src": "assets/img/work/icurwave/step1-2-sm.webp",
+       "srcset": {
+        "800": "assets/img/work/icurwave/step1-2-sm.webp",
+        "1920": "assets/img/work/icurwave/step1-2.webp"
+       },
+       "w": 1920,
+       "h": 1021,
+       "cap": {
+        "en": "Challenge and Solution"
+       }
+      }
+     ]
+    },
+    {
+     "stage": {
+      "en": "Choosing the medium",
+      "ko": "매체 선택"
+     },
+     "note": {
+      "en": "AR, web app or mobile app? Mobile won: practice anytime, anywhere.",
+      "ko": "AR, 웹 앱, 모바일 앱 중 언제 어디서나 연습할 수 있는 모바일을 택했습니다."
+     },
+     "images": [
+      {
+       "src": "assets/img/work/icurwave/step2-1-sm.webp",
+       "srcset": {
+        "800": "assets/img/work/icurwave/step2-1-sm.webp",
+        "1920": "assets/img/work/icurwave/step2-1.webp"
+       },
+       "w": 1920,
+       "h": 1075,
+       "cap": {
+        "en": "01-A. Selecting Media - AR?"
+       }
+      },
+      {
+       "src": "assets/img/work/icurwave/step2-2-sm.webp",
+       "srcset": {
+        "800": "assets/img/work/icurwave/step2-2-sm.webp",
+        "1920": "assets/img/work/icurwave/step2-2.webp"
+       },
+       "w": 1920,
+       "h": 1068,
+       "cap": {
+        "en": "01-B.Selecting Media - Web App?"
+       }
+      },
+      {
+       "src": "assets/img/work/icurwave/step2-3-sm.webp",
+       "srcset": {
+        "800": "assets/img/work/icurwave/step2-3-sm.webp",
+        "1920": "assets/img/work/icurwave/step2-3.webp"
+       },
+       "w": 1920,
+       "h": 1085,
+       "cap": {
+        "en": "01-C.Selecting Media - Mobile App?"
+       }
+      }
+     ]
+    },
+    {
+     "stage": {
+      "en": "Content",
+      "ko": "콘텐츠"
+     },
+     "note": {
+      "en": "A user persona and a clinical decision tree shape the scenarios.",
+      "ko": "사용자 페르소나와 임상 의사결정 트리로 시나리오를 구성했습니다."
+     },
+     "images": [
+      {
+       "src": "assets/img/work/icurwave/step3-1-sm.webp",
+       "srcset": {
+        "800": "assets/img/work/icurwave/step3-1-sm.webp",
+        "1920": "assets/img/work/icurwave/step3-1.webp"
+       },
+       "w": 1920,
+       "h": 1061,
+       "cap": {
+        "en": "02. Refining Content - User persona"
+       }
+      },
+      {
+       "src": "assets/img/work/icurwave/step3-2-sm.webp",
+       "srcset": {
+        "800": "assets/img/work/icurwave/step3-2-sm.webp",
+        "1920": "assets/img/work/icurwave/step3-2.webp"
+       },
+       "w": 1920,
+       "h": 1088,
+       "cap": {
+        "en": "02. Refining Content - Clinical Decision Making Tree"
+       }
+      }
+     ]
+    },
+    {
+     "stage": {
+      "en": "Wireframe",
+      "ko": "와이어프레임"
+     },
+     "note": {
+      "en": "First concept wireframe for the main scene.",
+      "ko": "메인 화면의 첫 콘셉트 와이어프레임."
+     },
+     "images": [
+      {
+       "src": "assets/img/work/icurwave/step4-1-sm.webp",
+       "srcset": {
+        "800": "assets/img/work/icurwave/step4-1-sm.webp",
+        "1920": "assets/img/work/icurwave/step4-1.webp"
+       },
+       "w": 1920,
+       "h": 886,
+       "cap": {
+        "en": "Initial Concept Wireframe for Main Scene"
+       }
+      }
+     ]
+    },
+    {
+     "stage": {
+      "en": "Electrodes on a 3D body",
+      "ko": "3D 신체 위의 전극"
+     },
+     "note": {
+      "en": "Atlas reference, ZBrush sculpt, Maya animation, and a Unity decal projector that follows the finger.",
+      "ko": "아틀라스 참고, ZBrush 스컬프팅, Maya 애니메이션, 손가락을 따라가는 Unity 데칼 프로젝터."
+     },
+     "images": [
+      {
+       "src": "assets/img/work/icurwave/step5-1.webp",
+       "w": 878,
+       "h": 504,
+       "cap": {
+        "en": "Reference Image - Atlas of Muscle Innervation Zones"
+       }
+      },
+      {
+       "src": "assets/img/work/icurwave/step5-2.webp",
+       "w": 402,
+       "h": 1004,
+       "cap": {
+        "en": "ZBrush"
+       }
+      },
+      {
+       "src": "assets/img/work/icurwave/step5-3-sm.webp",
+       "w": 800,
+       "h": 830,
+       "anim": "assets/img/work/icurwave/step5-3.webp",
+       "cap": {
+        "en": "Maya - animation"
+       }
+      },
+      {
+       "src": "assets/img/work/icurwave/step5-4-sm.webp",
+       "srcset": {
+        "800": "assets/img/work/icurwave/step5-4-sm.webp",
+        "1780": "assets/img/work/icurwave/step5-4.webp"
+       },
+       "w": 1780,
+       "h": 1120,
+       "cap": {
+        "en": "Unity - Decal project"
+       }
+      },
+      {
+       "src": "assets/img/work/icurwave/step5-5-sm.webp",
+       "w": 800,
+       "h": 693,
+       "anim": "assets/img/work/icurwave/step5-5.webp",
+       "cap": {
+        "en": "Skin Layer Real-Time Feedback"
+       }
+      }
+     ]
+    },
+    {
+     "stage": {
+      "en": "A face that reacts",
+      "ko": "반응하는 얼굴"
+     },
+     "note": {
+      "en": "A sculpted patient whose pre-rendered expression plays further as intensity rises.",
+      "ko": "강도가 오를수록 미리 렌더한 표정이 더 깊이 재생되는 환자 모델."
+     },
+     "images": [
+      {
+       "src": "assets/img/work/icurwave/step6-1-sm.webp",
+       "w": 800,
+       "h": 869,
+       "anim": "assets/img/work/icurwave/step6-1.webp",
+       "cap": {
+        "en": "Zbrush"
+       }
+      },
+      {
+       "src": "assets/img/work/icurwave/step6-2-sm.webp",
+       "srcset": {
+        "800": "assets/img/work/icurwave/step6-2-sm.webp",
+        "1920": "assets/img/work/icurwave/step6-2.webp"
+       },
+       "w": 1920,
+       "h": 1920,
+       "cap": {
+        "en": "start frame"
+       }
+      },
+      {
+       "src": "assets/img/work/icurwave/step6-3-sm.webp",
+       "srcset": {
+        "800": "assets/img/work/icurwave/step6-3-sm.webp",
+        "1920": "assets/img/work/icurwave/step6-3.webp"
+       },
+       "w": 1920,
+       "h": 1920,
+       "cap": {
+        "en": "end frame"
+       }
+      }
+     ]
+    },
+    {
+     "stage": {
+      "en": "Features",
+      "ko": "기능"
+     },
+     "note": {
+      "en": "Scenario selection, treatment area and parameters, electrode placement, patient monitoring.",
+      "ko": "시나리오 선택, 치료 부위와 변수 설정, 전극 배치, 환자 모니터링."
+     },
+     "images": [
+      {
+       "src": "assets/img/work/icurwave/step7-1-sm.webp",
+       "srcset": {
+        "800": "assets/img/work/icurwave/step7-1-sm.webp",
+        "1920": "assets/img/work/icurwave/step7-1.webp"
+       },
+       "w": 1920,
+       "h": 886,
+       "cap": {
+        "en": "Pop up panel to access info pages"
+       }
+      },
+      {
+       "src": "assets/img/work/icurwave/step7-2-sm.webp",
+       "srcset": {
+        "800": "assets/img/work/icurwave/step7-2-sm.webp",
+        "1920": "assets/img/work/icurwave/step7-2.webp"
+       },
+       "w": 1920,
+       "h": 886,
+       "cap": {
+        "en": "Scenario Selection based on treatment goal"
+       }
+      },
+      {
+       "src": "assets/img/work/icurwave/step7-3-sm.webp",
+       "srcset": {
+        "800": "assets/img/work/icurwave/step7-3-sm.webp",
+        "1920": "assets/img/work/icurwave/step7-3.webp"
+       },
+       "w": 1920,
+       "h": 886,
+       "cap": {
+        "en": "Detailed patient information"
+       }
+      },
+      {
+       "src": "assets/img/work/icurwave/step7-4-sm.webp",
+       "srcset": {
+        "800": "assets/img/work/icurwave/step7-4-sm.webp",
+        "1920": "assets/img/work/icurwave/step7-4.webp"
+       },
+       "w": 1920,
+       "h": 886,
+       "cap": {
+        "en": "Treatment Area Selection"
+       }
+      },
+      {
+       "src": "assets/img/work/icurwave/step7-5-sm.webp",
+       "srcset": {
+        "800": "assets/img/work/icurwave/step7-5-sm.webp",
+        "1920": "assets/img/work/icurwave/step7-5.webp"
+       },
+       "w": 1920,
+       "h": 886,
+       "cap": {
+        "en": "Immediate Feedback for Wrong Selection"
+       }
+      },
+      {
+       "src": "assets/img/work/icurwave/step7-6-sm.webp",
+       "srcset": {
+        "800": "assets/img/work/icurwave/step7-6-sm.webp",
+        "1920": "assets/img/work/icurwave/step7-6.webp"
+       },
+       "w": 1920,
+       "h": 886,
+       "cap": {
+        "en": "Change Patient Positioning"
+       }
+      },
+      {
+       "src": "assets/img/work/icurwave/step7-7-sm.webp",
+       "srcset": {
+        "800": "assets/img/work/icurwave/step7-7-sm.webp",
+        "1920": "assets/img/work/icurwave/step7-7.webp"
+       },
+       "w": 1920,
+       "h": 886,
+       "cap": {
+        "en": "Stimulation Parameter Set Up - Preset Values"
+       }
+      },
+      {
+       "src": "assets/img/work/icurwave/step7-8-sm.webp",
+       "srcset": {
+        "800": "assets/img/work/icurwave/step7-8-sm.webp",
+        "1920": "assets/img/work/icurwave/step7-8.webp"
+       },
+       "w": 1920,
+       "h": 886,
+       "cap": {
+        "en": "Drag and Drop Electrodes - Immediate Feedback"
+       }
+      },
+      {
+       "src": "assets/img/work/icurwave/step7-9-sm.webp",
+       "srcset": {
+        "800": "assets/img/work/icurwave/step7-9-sm.webp",
+        "1920": "assets/img/work/icurwave/step7-9.webp"
+       },
+       "w": 1920,
+       "h": 886,
+       "cap": {
+        "en": "Drag and Drop Electrodes - Skin Layer"
+       }
+      },
+      {
+       "src": "assets/img/work/icurwave/step7-10-sm.webp",
+       "srcset": {
+        "800": "assets/img/work/icurwave/step7-10-sm.webp",
+        "1920": "assets/img/work/icurwave/step7-10.webp"
+       },
+       "w": 1920,
+       "h": 886,
+       "cap": {
+        "en": "Drag and Drop Electrodes - Muscle Layer"
+       }
+      }
+     ]
+    }
+   ],
+   "details": [
+    {
+     "src": "assets/img/work/icurwave/detail-01-sm.webp",
+     "srcset": {
+      "800": "assets/img/work/icurwave/detail-01-sm.webp",
+      "1920": "assets/img/work/icurwave/detail-01.webp"
+     },
+     "w": 1920,
+     "h": 886,
+     "cap": {
+      "en": "User Learning Goal #1 Finding Motor Points"
+     }
+    },
+    {
+     "src": "assets/img/work/icurwave/detail-02-sm.webp",
+     "srcset": {
+      "800": "assets/img/work/icurwave/detail-02-sm.webp",
+      "1920": "assets/img/work/icurwave/detail-02.webp"
+     },
+     "w": 1920,
+     "h": 886,
+     "cap": {
+      "en": "User Learning Goal #2 Choosing the Appropriate Stimulation Parameters"
+     }
+    },
+    {
+     "src": "assets/img/work/icurwave/detail-03-sm.webp",
+     "srcset": {
+      "800": "assets/img/work/icurwave/detail-03-sm.webp",
+      "1920": "assets/img/work/icurwave/detail-03.webp"
+     },
+     "w": 1920,
+     "h": 886,
+     "cap": {
+      "en": "User Learning Goal #3 Practicing How to Monitor Patient Discomfort"
+     }
+    },
+    {
+     "src": "assets/img/work/icurwave/detail-04-sm.webp",
+     "srcset": {
+      "800": "assets/img/work/icurwave/detail-04-sm.webp",
+      "1920": "assets/img/work/icurwave/detail-04.webp"
+     },
+     "w": 1920,
+     "h": 886,
+     "cap": {
+      "en": "User Learning Goal #4 Practicing How to Recognize the Full Contraction of Muscle"
+     }
+    },
+    {
+     "src": "assets/img/work/icurwave/detail-05-sm.webp",
+     "srcset": {
+      "800": "assets/img/work/icurwave/detail-05-sm.webp",
+      "1920": "assets/img/work/icurwave/detail-05.webp"
+     },
+     "w": 1920,
+     "h": 886,
+     "cap": {
+      "en": "Step-by-Step Guidance, Treatment Area"
+     }
+    },
+    {
+     "src": "assets/img/work/icurwave/detail-06-sm.webp",
+     "srcset": {
+      "800": "assets/img/work/icurwave/detail-06-sm.webp",
+      "1920": "assets/img/work/icurwave/detail-06.webp"
+     },
+     "w": 1920,
+     "h": 886,
+     "cap": {
+      "en": "Step-by-Step Guidance, Work/Rest/Cycle Setting"
+     }
+    },
+    {
+     "src": "assets/img/work/icurwave/detail-07-sm.webp",
+     "srcset": {
+      "800": "assets/img/work/icurwave/detail-07-sm.webp",
+      "1920": "assets/img/work/icurwave/detail-07.webp"
+     },
+     "w": 1920,
+     "h": 886,
+     "cap": {
+      "en": "Step-by-Step Guidance, Intensity/Frequency/Duration Setting"
+     }
+    },
+    {
+     "src": "assets/img/work/icurwave/detail-08-sm.webp",
+     "srcset": {
+      "800": "assets/img/work/icurwave/detail-08-sm.webp",
+      "1920": "assets/img/work/icurwave/detail-08.webp"
+     },
+     "w": 1920,
+     "h": 886
+    },
+    {
+     "src": "assets/img/work/icurwave/detail-09-sm.webp",
+     "srcset": {
+      "800": "assets/img/work/icurwave/detail-09-sm.webp",
+      "1920": "assets/img/work/icurwave/detail-09.webp"
+     },
+     "w": 1920,
+     "h": 886,
+     "cap": {
+      "en": "Drag and Drop Electrodes - MP Layer"
+     }
+    },
+    {
+     "src": "assets/img/work/icurwave/detail-10-sm.webp",
+     "srcset": {
+      "800": "assets/img/work/icurwave/detail-10-sm.webp",
+      "1920": "assets/img/work/icurwave/detail-10.webp"
+     },
+     "w": 1920,
+     "h": 886,
+     "cap": {
+      "en": "Drag and Drop Electrodes - Tibialis anterior"
+     }
+    },
+    {
+     "src": "assets/img/work/icurwave/detail-11-sm.webp",
+     "srcset": {
+      "800": "assets/img/work/icurwave/detail-11-sm.webp",
+      "1920": "assets/img/work/icurwave/detail-11.webp"
+     },
+     "w": 1920,
+     "h": 886,
+     "cap": {
+      "en": "Reset Button for Repositioning"
+     }
+    },
+    {
+     "src": "assets/img/work/icurwave/detail-12-sm.webp",
+     "srcset": {
+      "800": "assets/img/work/icurwave/detail-12-sm.webp",
+      "1566": "assets/img/work/icurwave/detail-12.webp"
+     },
+     "w": 1566,
+     "h": 724,
+     "cap": {
+      "en": "Additional Reference"
+     }
+    },
+    {
+     "src": "assets/img/work/icurwave/detail-13-sm.webp",
+     "srcset": {
+      "800": "assets/img/work/icurwave/detail-13-sm.webp",
+      "1566": "assets/img/work/icurwave/detail-13.webp"
+     },
+     "w": 1566,
+     "h": 728,
+     "cap": {
+      "en": "Patient's Discomfort caused by High Intensity (60mA~)"
+     }
+    }
+   ],
+   "videos": [
+    {
+     "src": "https://www-ccv.adobe.io/v1/player/ccv/6MavxULEC-o/embed?bgcolor=%23191919&lazyLoading=true&api_key=BehancePro2View",
+     "title": "ICUrWave demo, 2025"
+    }
+   ],
+   "cover": {
+    "src": "assets/img/work/icurwave/hero-sm.webp",
+    "srcset": {
+     "800": "assets/img/work/icurwave/hero-sm.webp",
+     "1920": "assets/img/work/icurwave/hero.webp"
+    },
+    "w": 1920,
+    "h": 1920
+   }
+  },
+  {
+   "id": "medvr-hero",
+   "room": "promo",
+   "year": "2026",
+   "title": {
+    "en": "Landing-page Hero for an XR Lab",
+    "ko": "XR 연구실 랜딩 페이지 히어로"
+   },
+   "kind": {
+    "en": "Web illustration",
+    "ko": "웹 일러스트"
+   },
+   "client": {
+    "en": "MedVR × Mass General Brigham MXR Lab",
+    "ko": "MedVR × Mass General Brigham MXR Lab"
+   },
+   "statement": {
+    "en": "Clinicians planning surgery, exploring 3D anatomy and guiding procedures in XR: one scene for a lab’s front page.",
+    "ko": "수술을 계획하고, 3D 해부를 살피고, 시술을 안내하는 임상의들. 연구실 첫 화면을 위한 한 장의 XR 장면."
+   },
+   "hero": {
+    "src": "assets/img/work/medvr-hero/hero-sm.webp",
+    "srcset": {
+     "800": "assets/img/work/medvr-hero/hero-sm.webp",
+     "1920": "assets/img/work/medvr-hero/hero.webp"
+    },
+    "w": 1920,
+    "h": 1334
+   },
+   "trail": [
+    {
+     "stage": {
+      "en": "Character sketches",
+      "ko": "캐릭터 스케치"
+     },
+     "note": {
+      "en": "Gestures and clinician interactions explored in sketch.",
+      "ko": "제스처와 임상의의 상호작용을 스케치로 탐색했습니다."
+     },
+     "images": [
+      {
+       "src": "assets/img/work/medvr-hero/step1-1-sm.webp",
+       "srcset": {
+        "800": "assets/img/work/medvr-hero/step1-1-sm.webp",
+        "1920": "assets/img/work/medvr-hero/step1-1.webp"
+       },
+       "w": 1920,
+       "h": 1920,
+       "cap": {
+        "en": "Character Sketch"
+       }
+      },
+      {
+       "src": "assets/img/work/medvr-hero/step1-2-sm.webp",
+       "srcset": {
+        "800": "assets/img/work/medvr-hero/step1-2-sm.webp",
+        "1920": "assets/img/work/medvr-hero/step1-2.webp"
+       },
+       "w": 1920,
+       "h": 1920,
+       "cap": {
+        "en": "Character Sketch"
+       }
+      },
+      {
+       "src": "assets/img/work/medvr-hero/step1-3-sm.webp",
+       "srcset": {
+        "800": "assets/img/work/medvr-hero/step1-3-sm.webp",
+        "1920": "assets/img/work/medvr-hero/step1-3.webp"
+       },
+       "w": 1920,
+       "h": 1920,
+       "cap": {
+        "en": "Character Sketch"
+       }
+      }
+     ]
+    },
+    {
+     "stage": {
+      "en": "Open Graph image",
+      "ko": "오픈 그래프 이미지"
+     },
+     "note": {
+      "en": "The scene recomposed for link previews.",
+      "ko": "링크 미리보기용으로 장면을 다시 구성했습니다."
+     },
+     "images": [
+      {
+       "src": "assets/img/work/medvr-hero/step2-1-sm.webp",
+       "srcset": {
+        "800": "assets/img/work/medvr-hero/step2-1-sm.webp",
+        "1920": "assets/img/work/medvr-hero/step2-1.webp"
+       },
+       "w": 1920,
+       "h": 1008,
+       "cap": {
+        "en": "Open Graph Image Design"
+       }
+      }
+     ]
+    }
+   ],
+   "cover": {
+    "src": "assets/img/work/medvr-hero/hero-sm.webp",
+    "srcset": {
+     "800": "assets/img/work/medvr-hero/hero-sm.webp",
+     "1920": "assets/img/work/medvr-hero/hero.webp"
+    },
+    "w": 1920,
+    "h": 1334
+   }
+  },
+  {
+   "id": "ims-magazine",
+   "room": "promo",
+   "year": "2025",
+   "title": {
+    "en": "IMS Magazine, Winter 2025",
+    "ko": "IMS Magazine 2025 겨울호"
+   },
+   "kind": {
+    "en": "Magazine cover and page design",
+    "ko": "매거진 표지 · 지면 디자인"
+   },
+   "client": {
+    "en": "Institute of Medical Science, University of Toronto",
+    "ko": "토론토 대학교 의과학연구소"
+   },
+   "statement": {
+    "en": "A cover on precision medicine, plus banners that give each research article its own face.",
+    "ko": "정밀의료를 주제로 한 표지와, 연구 기사마다 얼굴을 만들어 주는 배너 디자인."
+   },
+   "hero": {
+    "src": "assets/img/work/ims-magazine/hero-sm.webp",
+    "srcset": {
+     "800": "assets/img/work/ims-magazine/hero-sm.webp",
+     "1920": "assets/img/work/ims-magazine/hero.webp"
+    },
+    "w": 1920,
+    "h": 2485
+   },
+   "details": [
+    {
+     "src": "assets/img/work/ims-magazine/detail-01-sm.webp",
+     "srcset": {
+      "800": "assets/img/work/ims-magazine/detail-01-sm.webp",
+      "1920": "assets/img/work/ims-magazine/detail-01.webp"
+     },
+     "w": 1920,
+     "h": 768,
+     "cap": {
+      "en": "Front Cover - Banner Style"
+     }
+    },
+    {
+     "src": "assets/img/work/ims-magazine/detail-02.webp",
+     "w": 600,
+     "h": 600,
+     "cap": {
+      "en": "Back Cover - IG post style"
+     }
+    },
+    {
+     "src": "assets/img/work/ims-magazine/detail-03-sm.webp",
+     "srcset": {
+      "800": "assets/img/work/ims-magazine/detail-03-sm.webp",
+      "1920": "assets/img/work/ims-magazine/detail-03.webp"
+     },
+     "w": 1920,
+     "h": 1242
+    },
+    {
+     "src": "assets/img/work/ims-magazine/detail-04-sm.webp",
+     "srcset": {
+      "800": "assets/img/work/ims-magazine/detail-04-sm.webp",
+      "1920": "assets/img/work/ims-magazine/detail-04.webp"
+     },
+     "w": 1920,
+     "h": 1244
+    },
+    {
+     "src": "assets/img/work/ims-magazine/detail-05-sm.webp",
+     "srcset": {
+      "800": "assets/img/work/ims-magazine/detail-05-sm.webp",
+      "1920": "assets/img/work/ims-magazine/detail-05.webp"
+     },
+     "w": 1920,
+     "h": 1246
+    },
+    {
+     "src": "assets/img/work/ims-magazine/detail-06-sm.webp",
+     "srcset": {
+      "800": "assets/img/work/ims-magazine/detail-06-sm.webp",
+      "994": "assets/img/work/ims-magazine/detail-06.webp"
+     },
+     "w": 994,
+     "h": 1272
+    },
+    {
+     "src": "assets/img/work/ims-magazine/detail-07-sm.webp",
+     "srcset": {
+      "800": "assets/img/work/ims-magazine/detail-07-sm.webp",
+      "1920": "assets/img/work/ims-magazine/detail-07.webp"
+     },
+     "w": 1920,
+     "h": 1243
+    },
+    {
+     "src": "assets/img/work/ims-magazine/detail-08-sm.webp",
+     "srcset": {
+      "800": "assets/img/work/ims-magazine/detail-08-sm.webp",
+      "1920": "assets/img/work/ims-magazine/detail-08.webp"
+     },
+     "w": 1920,
+     "h": 1243
+    },
+    {
+     "src": "assets/img/work/ims-magazine/detail-09-sm.webp",
+     "srcset": {
+      "800": "assets/img/work/ims-magazine/detail-09-sm.webp",
+      "1920": "assets/img/work/ims-magazine/detail-09.webp"
+     },
+     "w": 1920,
+     "h": 1245
+    },
+    {
+     "src": "assets/img/work/ims-magazine/detail-10-sm.webp",
+     "srcset": {
+      "800": "assets/img/work/ims-magazine/detail-10-sm.webp",
+      "1920": "assets/img/work/ims-magazine/detail-10.webp"
+     },
+     "w": 1920,
+     "h": 1240
+    }
+   ],
+   "links": [
+    {
+     "label": {
+      "en": "Read the magazine online",
+      "ko": "온라인으로 읽기"
+     },
+     "href": "https://issuu.com/imsmagazine/docs/ims_2025_winter_master_web_afteredits_nz02?fr=sM2MwNDY0NTExNzk"
+    }
+   ],
+   "cover": {
+    "src": "assets/img/work/ims-magazine/hero-sm.webp",
+    "srcset": {
+     "800": "assets/img/work/ims-magazine/hero-sm.webp",
+     "1920": "assets/img/work/ims-magazine/hero.webp"
+    },
+    "w": 1920,
+    "h": 2485
+   }
+  },
+  {
+   "id": "eapoc-logo",
+   "room": "promo",
+   "year": "2025",
+   "title": {
+    "en": "EAPOC Logo",
+    "ko": "EAPOC 로고"
+   },
+   "kind": {
+    "en": "Logo",
+    "ko": "로고"
+   },
+   "client": {
+    "en": "Samir Gupta, MD",
+    "ko": "Samir Gupta, MD"
+   },
+   "statement": {
+    "en": "Evidence at the Point of Care: an E that is also a stethoscope reaching for a target, with the weight of a book.",
+    "ko": "Evidence at the Point of Care. 과녁을 향해 뻗는 청진기이자 책의 두께를 닮은 E."
+   },
+   "hero": {
+    "src": "assets/img/work/eapoc-logo/hero-sm.webp",
+    "srcset": {
+     "800": "assets/img/work/eapoc-logo/hero-sm.webp",
+     "1920": "assets/img/work/eapoc-logo/hero.webp"
+    },
+    "w": 1920,
+    "h": 1920,
+    "cap": {
+     "en": "Main Concept"
+    }
+   },
+   "details": [
+    {
+     "src": "assets/img/work/eapoc-logo/detail-01-sm.webp",
+     "srcset": {
+      "800": "assets/img/work/eapoc-logo/detail-01-sm.webp",
+      "1920": "assets/img/work/eapoc-logo/detail-01.webp"
+     },
+     "w": 1920,
+     "h": 1920,
+     "cap": {
+      "en": "Variation 1"
+     }
+    },
+    {
+     "src": "assets/img/work/eapoc-logo/detail-02-sm.webp",
+     "srcset": {
+      "800": "assets/img/work/eapoc-logo/detail-02-sm.webp",
+      "1920": "assets/img/work/eapoc-logo/detail-02.webp"
+     },
+     "w": 1920,
+     "h": 1920,
+     "cap": {
+      "en": "Variation 2"
+     }
+    }
+   ],
+   "cover": {
+    "src": "assets/img/work/eapoc-logo/hero-sm.webp",
+    "srcset": {
+     "800": "assets/img/work/eapoc-logo/hero-sm.webp",
+     "1920": "assets/img/work/eapoc-logo/hero.webp"
+    },
+    "w": 1920,
+    "h": 1920,
+    "cap": {
+     "en": "Main Concept"
+    }
+   }
+  },
+  {
+   "id": "uoft-talks",
+   "room": "promo",
+   "year": "2024",
+   "title": {
+    "en": "UofT Talks: Embracing the Journey",
+    "ko": "UofT Talks: Embracing the Journey"
+   },
+   "kind": {
+    "en": "Event identity",
+    "ko": "행사 아이덴티티"
+   },
+   "client": {
+    "en": "UofT Talks, Institute of Medical Science",
+    "ko": "UofT Talks, 토론토 대학교 의과학연구소"
+   },
+   "statement": {
+    "en": "Poster and teaser for a public talk on illness, ageing and the end of life: time as an hourglass with a winding road inside.",
+    "ko": "질병과 노화, 삶의 마지막을 다룬 공개 강연의 포스터와 티저. 굽이진 길이 담긴 모래시계로 시간을 그렸습니다."
+   },
+   "hero": {
+    "src": "assets/img/work/uoft-talks/hero-sm.webp",
+    "srcset": {
+     "800": "assets/img/work/uoft-talks/hero-sm.webp",
+     "1080": "assets/img/work/uoft-talks/hero.webp"
+    },
+    "w": 1080,
+    "h": 1080
+   },
+   "details": [
+    {
+     "src": "assets/img/work/uoft-talks/detail-01-sm.webp",
+     "srcset": {
+      "800": "assets/img/work/uoft-talks/detail-01-sm.webp",
+      "1920": "assets/img/work/uoft-talks/detail-01.webp"
+     },
+     "w": 1920,
+     "h": 1440
+    },
+    {
+     "src": "assets/img/work/uoft-talks/detail-02-sm.webp",
+     "srcset": {
+      "800": "assets/img/work/uoft-talks/detail-02-sm.webp",
+      "1179": "assets/img/work/uoft-talks/detail-02.webp"
+     },
+     "w": 1179,
+     "h": 1179
+    },
+    {
+     "src": "assets/img/work/uoft-talks/detail-03.webp",
+     "w": 772,
+     "h": 772
+    }
+   ],
+   "cover": {
+    "src": "assets/img/work/uoft-talks/hero-sm.webp",
+    "srcset": {
+     "800": "assets/img/work/uoft-talks/hero-sm.webp",
+     "1080": "assets/img/work/uoft-talks/hero.webp"
+    },
+    "w": 1080,
+    "h": 1080
+   }
+  },
+  {
+   "id": "kasg-logo",
+   "room": "promo",
+   "year": "2023",
+   "title": {
+    "en": "Korea Aorta Surgery Group Logo",
+    "ko": "대한대동맥연구회 로고"
+   },
+   "kind": {
+    "en": "Logo",
+    "ko": "로고"
+   },
+   "client": {
+    "en": "Korea Aorta Surgery Group",
+    "ko": "대한대동맥연구회"
+   },
+   "statement": {
+    "en": "The logo for the Korea Aorta Surgery Group, in use on the society’s website.",
+    "ko": "대한대동맥연구회 로고. 연구회 웹사이트에 사용되고 있습니다."
+   },
+   "hero": {
+    "src": "assets/img/work/kasg-logo/hero-sm.webp",
+    "srcset": {
+     "800": "assets/img/work/kasg-logo/hero-sm.webp",
+     "1920": "assets/img/work/kasg-logo/hero.webp"
+    },
+    "w": 1920,
+    "h": 1358,
+    "cap": {
+     "en": "KASG logo design"
+    }
+   },
+   "details": [
+    {
+     "src": "assets/img/work/kasg-logo/detail-01-sm.webp",
+     "srcset": {
+      "800": "assets/img/work/kasg-logo/detail-01-sm.webp",
+      "1643": "assets/img/work/kasg-logo/detail-01.webp"
+     },
+     "w": 1643,
+     "h": 1401,
+     "cap": {
+      "en": "KASG Website Image"
+     }
+    }
+   ],
+   "links": [
+    {
+     "label": {
+      "en": "Society website",
+      "ko": "연구회 웹사이트"
+     },
+     "href": "https://karg-symposium.kr/register/2024_01/intro.html"
+    }
+   ],
+   "cover": {
+    "src": "assets/img/work/kasg-logo/hero-sm.webp",
+    "srcset": {
+     "800": "assets/img/work/kasg-logo/hero-sm.webp",
+     "1920": "assets/img/work/kasg-logo/hero.webp"
+    },
+    "w": 1920,
+    "h": 1358,
+    "cap": {
+     "en": "KASG logo design"
+    }
+   }
+  },
+  {
+   "id": "bmc-tvasurg-teaser",
+   "room": "promo",
+   "year": "2024",
+   "title": {
+    "en": "BMC × TVAsurg Teaser",
+    "ko": "BMC × TVAsurg 티저"
+   },
+   "kind": {
+    "en": "Motion teaser",
+    "ko": "모션 티저"
+   },
+   "tools": "Adobe After Effects",
+   "statement": {
+    "en": "An Instagram Reels teaser for a labour-induction project, wrapped like a winter-holiday gift.",
+    "ko": "분만 유도 프로젝트를 겨울 선물처럼 포장한 인스타그램 릴스 티저."
+   },
+   "videos": [
+    {
+     "src": "https://www-ccv.adobe.io/v1/player/ccv/VIaMzx2ipM8/embed?bgcolor=%23191919&lazyLoading=true&api_key=BehancePro2View",
+     "title": "BMC × TVAsurg teaser"
+    }
+   ]
+  },
+  {
+   "id": "turtle-data-sculpt",
+   "room": "fun",
+   "year": "2023",
+   "title": {
+    "en": "Turtle Skeleton from CT",
+    "ko": "CT로 만든 거북이 골격"
+   },
+   "kind": {
+    "en": "Data sculpt",
+    "ko": "데이터 스컬프트"
+   },
+   "tools": "3D Slicer, ZBrush, Cinema 4D",
+   "statement": {
+    "en": "A turtle’s whole skeleton rebuilt from open CT data on MorphoSource.",
+    "ko": "MorphoSource의 공개 CT 데이터로 거북이의 전신 골격을 재구성했습니다."
+   },
+   "hero": {
+    "src": "assets/img/work/turtle-data-sculpt/hero-sm.webp",
+    "srcset": {
+     "800": "assets/img/work/turtle-data-sculpt/hero-sm.webp",
+     "1920": "assets/img/work/turtle-data-sculpt/hero.webp"
+    },
+    "w": 1920,
+    "h": 1920
+   },
+   "details": [
+    {
+     "src": "assets/img/work/turtle-data-sculpt/detail-01-sm.webp",
+     "srcset": {
+      "800": "assets/img/work/turtle-data-sculpt/detail-01-sm.webp",
+      "1920": "assets/img/work/turtle-data-sculpt/detail-01.webp"
+     },
+     "w": 1920,
+     "h": 1920
+    },
+    {
+     "src": "assets/img/work/turtle-data-sculpt/detail-02-sm.webp",
+     "srcset": {
+      "800": "assets/img/work/turtle-data-sculpt/detail-02-sm.webp",
+      "1920": "assets/img/work/turtle-data-sculpt/detail-02.webp"
+     },
+     "w": 1920,
+     "h": 1920
+    },
+    {
+     "src": "assets/img/work/turtle-data-sculpt/detail-03-sm.webp",
+     "srcset": {
+      "800": "assets/img/work/turtle-data-sculpt/detail-03-sm.webp",
+      "1920": "assets/img/work/turtle-data-sculpt/detail-03.webp"
+     },
+     "w": 1920,
+     "h": 1183
+    },
+    {
+     "src": "assets/img/work/turtle-data-sculpt/detail-04-sm.webp",
+     "srcset": {
+      "800": "assets/img/work/turtle-data-sculpt/detail-04-sm.webp",
+      "1920": "assets/img/work/turtle-data-sculpt/detail-04.webp"
+     },
+     "w": 1920,
+     "h": 961
+    }
+   ],
+   "cover": {
+    "src": "assets/img/work/turtle-data-sculpt/hero-sm.webp",
+    "srcset": {
+     "800": "assets/img/work/turtle-data-sculpt/hero-sm.webp",
+     "1920": "assets/img/work/turtle-data-sculpt/hero.webp"
+    },
+    "w": 1920,
+    "h": 1920
+   }
+  },
+  {
+   "id": "molecular-visualization",
+   "room": "fun",
+   "year": "2024",
+   "title": {
+    "en": "Molecular Visualization",
+    "ko": "분자 시각화"
+   },
+   "kind": {
+    "en": "Render studies",
+    "ko": "렌더 습작"
+   },
+   "tools": "RCSB PDB, ChimeraX, Autodesk Maya, Adobe Photoshop",
+   "statement": {
+    "en": "Vitamin C, insulin and a small heat-shock protein in ball-and-stick, ribbon and surface styles.",
+    "ko": "비타민 C, 인슐린, 소형 열충격 단백질을 볼-스틱, 리본, 표면 스타일로 그렸습니다."
+   },
+   "hero": {
+    "src": "assets/img/work/molecular-visualization/hero-sm.webp",
+    "srcset": {
+     "800": "assets/img/work/molecular-visualization/hero-sm.webp",
+     "1920": "assets/img/work/molecular-visualization/hero.webp"
+    },
+    "w": 1920,
+    "h": 1920,
+    "cap": {
+     "en": "Insulin (Ribbon)"
+    }
+   },
+   "details": [
+    {
+     "src": "assets/img/work/molecular-visualization/detail-01-sm.webp",
+     "srcset": {
+      "800": "assets/img/work/molecular-visualization/detail-01-sm.webp",
+      "1920": "assets/img/work/molecular-visualization/detail-01.webp"
+     },
+     "w": 1920,
+     "h": 1920,
+     "cap": {
+      "en": "Vitamin C (Ball-stick)"
+     }
+    },
+    {
+     "src": "assets/img/work/molecular-visualization/detail-02-sm.webp",
+     "srcset": {
+      "800": "assets/img/work/molecular-visualization/detail-02-sm.webp",
+      "1920": "assets/img/work/molecular-visualization/detail-02.webp"
+     },
+     "w": 1920,
+     "h": 1920,
+     "cap": {
+      "en": "Insulin (Surface)"
+     }
+    },
+    {
+     "src": "assets/img/work/molecular-visualization/detail-03-sm.webp",
+     "srcset": {
+      "800": "assets/img/work/molecular-visualization/detail-03-sm.webp",
+      "1920": "assets/img/work/molecular-visualization/detail-03.webp"
+     },
+     "w": 1920,
+     "h": 1920,
+     "cap": {
+      "en": "smallHeatShockProtein (Surface and Ribbon)"
+     }
+    }
+   ],
+   "cover": {
+    "src": "assets/img/work/molecular-visualization/hero-sm.webp",
+    "srcset": {
+     "800": "assets/img/work/molecular-visualization/hero-sm.webp",
+     "1920": "assets/img/work/molecular-visualization/hero.webp"
+    },
+    "w": 1920,
+    "h": 1920,
+    "cap": {
+     "en": "Insulin (Ribbon)"
+    }
+   }
+  },
+  {
+   "id": "scicard-elephant",
+   "room": "fun",
+   "year": "2023",
+   "title": {
+    "en": "Nature’s Ultimate Multi-Tool",
+    "ko": "자연이 만든 만능 도구"
+   },
+   "kind": {
+    "en": "Trading card",
+    "ko": "트레이딩 카드"
+   },
+   "tools": "Pencil, Adobe Illustrator",
+   "statement": {
+    "en": "A BMC SciCard about the African elephant and everything its trunk can do.",
+    "ko": "아프리카코끼리와 그 코가 해내는 모든 일을 담은 BMC SciCard."
+   },
+   "hero": {
+    "src": "assets/img/work/scicard-elephant/hero-sm.webp",
+    "srcset": {
+     "800": "assets/img/work/scicard-elephant/hero-sm.webp",
+     "1920": "assets/img/work/scicard-elephant/hero.webp"
+    },
+    "w": 1920,
+    "h": 1920
+   },
+   "cover": {
+    "src": "assets/img/work/scicard-elephant/hero-sm.webp",
+    "srcset": {
+     "800": "assets/img/work/scicard-elephant/hero-sm.webp",
+     "1920": "assets/img/work/scicard-elephant/hero.webp"
+    },
+    "w": 1920,
+    "h": 1920
+   }
+  },
+  {
+   "id": "pig-wearing-pearls",
+   "room": "fun",
+   "year": "2023",
+   "title": {
+    "en": "Pig Wearing Pearls",
+    "ko": "진주 목걸이를 한 돼지"
+   },
+   "kind": {
+    "en": "Character animation",
+    "ko": "캐릭터 애니메이션"
+   },
+   "tools": "ZBrush, Autodesk Maya, Adobe After Effects",
+   "statement": {
+    "en": "Bringing a character to life, from sculpt to a short animation.",
+    "ko": "스컬프팅에서 짧은 애니메이션까지, 캐릭터에 생명을 불어넣는 과정."
+   },
+   "hero": {
+    "src": "assets/img/work/pig-wearing-pearls/hero-sm.webp",
+    "srcset": {
+     "800": "assets/img/work/pig-wearing-pearls/hero-sm.webp",
+     "1920": "assets/img/work/pig-wearing-pearls/hero.webp"
+    },
+    "w": 1920,
+    "h": 1047
+   },
+   "videos": [
+    {
+     "src": "https://www-ccv.adobe.io/v1/player/ccv/8jikTUrHKss/embed?bgcolor=%23191919&lazyLoading=true&api_key=BehancePro2View",
+     "title": "Pig Wearing Pearls"
+    }
+   ],
+   "cover": {
+    "src": "assets/img/work/pig-wearing-pearls/hero-sm.webp",
+    "srcset": {
+     "800": "assets/img/work/pig-wearing-pearls/hero-sm.webp",
+     "1920": "assets/img/work/pig-wearing-pearls/hero.webp"
+    },
+    "w": 1920,
+    "h": 1047
+   }
+  },
+  {
+   "id": "modeling-exercises",
+   "room": "fun",
+   "year": "",
+   "title": {
+    "en": "3D Modeling Exercises",
+    "ko": "3D 모델링 연습"
+   },
+   "kind": {
+    "en": "Modelling studies",
+    "ko": "모델링 습작"
+   },
+   "tools": "Blender, Autodesk Maya",
+   "statement": {
+    "en": "Twelve small models, each one a note to somebody.",
+    "ko": "누군가에게 보내는 편지처럼 만든 열두 개의 작은 모델."
+   },
+   "hero": {
+    "src": "assets/img/work/modeling-exercises/hero-sm.webp",
+    "srcset": {
+     "800": "assets/img/work/modeling-exercises/hero-sm.webp",
+     "1920": "assets/img/work/modeling-exercises/hero.webp"
+    },
+    "w": 1920,
+    "h": 1080,
+    "cap": {
+     "en": "Dear SY"
+    }
+   },
+   "details": [
+    {
+     "src": "assets/img/work/modeling-exercises/detail-01-sm.webp",
+     "srcset": {
+      "800": "assets/img/work/modeling-exercises/detail-01-sm.webp",
+      "1920": "assets/img/work/modeling-exercises/detail-01.webp"
+     },
+     "w": 1920,
+     "h": 1080,
+     "cap": {
+      "en": "Dear JI"
+     }
+    },
+    {
+     "src": "assets/img/work/modeling-exercises/detail-02-sm.webp",
+     "srcset": {
+      "800": "assets/img/work/modeling-exercises/detail-02-sm.webp",
+      "1920": "assets/img/work/modeling-exercises/detail-02.webp"
+     },
+     "w": 1920,
+     "h": 1080,
+     "cap": {
+      "en": "Dear SU"
+     }
+    },
+    {
+     "src": "assets/img/work/modeling-exercises/detail-03-sm.webp",
+     "srcset": {
+      "800": "assets/img/work/modeling-exercises/detail-03-sm.webp",
+      "1800": "assets/img/work/modeling-exercises/detail-03.webp"
+     },
+     "w": 1800,
+     "h": 1200,
+     "cap": {
+      "en": "Dear DG"
+     }
+    },
+    {
+     "src": "assets/img/work/modeling-exercises/detail-04-sm.webp",
+     "srcset": {
+      "800": "assets/img/work/modeling-exercises/detail-04-sm.webp",
+      "1800": "assets/img/work/modeling-exercises/detail-04.webp"
+     },
+     "w": 1800,
+     "h": 1200,
+     "cap": {
+      "en": "Dear CH"
+     }
+    },
+    {
+     "src": "assets/img/work/modeling-exercises/detail-05-sm.webp",
+     "srcset": {
+      "800": "assets/img/work/modeling-exercises/detail-05-sm.webp",
+      "1200": "assets/img/work/modeling-exercises/detail-05.webp"
+     },
+     "w": 1200,
+     "h": 1800,
+     "cap": {
+      "en": "Dear B"
+     }
+    },
+    {
+     "src": "assets/img/work/modeling-exercises/detail-06-sm.webp",
+     "srcset": {
+      "800": "assets/img/work/modeling-exercises/detail-06-sm.webp",
+      "1200": "assets/img/work/modeling-exercises/detail-06.webp"
+     },
+     "w": 1200,
+     "h": 1800,
+     "cap": {
+      "en": "Dear D"
+     }
+    },
+    {
+     "src": "assets/img/work/modeling-exercises/detail-07-sm.webp",
+     "srcset": {
+      "800": "assets/img/work/modeling-exercises/detail-07-sm.webp",
+      "1920": "assets/img/work/modeling-exercises/detail-07.webp"
+     },
+     "w": 1920,
+     "h": 1280,
+     "cap": {
+      "en": "Dear SM"
+     }
+    },
+    {
+     "src": "assets/img/work/modeling-exercises/detail-08-sm.webp",
+     "srcset": {
+      "800": "assets/img/work/modeling-exercises/detail-08-sm.webp",
+      "1200": "assets/img/work/modeling-exercises/detail-08.webp"
+     },
+     "w": 1200,
+     "h": 1800,
+     "cap": {
+      "en": "Dear KC"
+     }
+    },
+    {
+     "src": "assets/img/work/modeling-exercises/detail-09-sm.webp",
+     "srcset": {
+      "800": "assets/img/work/modeling-exercises/detail-09-sm.webp",
+      "1800": "assets/img/work/modeling-exercises/detail-09.webp"
+     },
+     "w": 1800,
+     "h": 1200,
+     "cap": {
+      "en": "Dear MM"
+     }
+    },
+    {
+     "src": "assets/img/work/modeling-exercises/detail-10-sm.webp",
+     "srcset": {
+      "800": "assets/img/work/modeling-exercises/detail-10-sm.webp",
+      "1200": "assets/img/work/modeling-exercises/detail-10.webp"
+     },
+     "w": 1200,
+     "h": 1800,
+     "cap": {
+      "en": "Dear JT"
+     }
+    },
+    {
+     "src": "assets/img/work/modeling-exercises/detail-11-sm.webp",
+     "srcset": {
+      "800": "assets/img/work/modeling-exercises/detail-11-sm.webp",
+      "1920": "assets/img/work/modeling-exercises/detail-11.webp"
+     },
+     "w": 1920,
+     "h": 1080,
+     "cap": {
+      "en": "Dear HH"
+     }
+    }
+   ],
+   "cover": {
+    "src": "assets/img/work/modeling-exercises/hero-sm.webp",
+    "srcset": {
+     "800": "assets/img/work/modeling-exercises/hero-sm.webp",
+     "1920": "assets/img/work/modeling-exercises/hero.webp"
+    },
+    "w": 1920,
+    "h": 1080,
+    "cap": {
+     "en": "Dear SY"
+    }
+   }
+  },
+  {
+   "id": "hand-sculpt",
+   "room": "fun",
+   "year": "2023",
+   "title": {
+    "en": "Hand Sculpt",
+    "ko": "손 스컬프팅"
+   },
+   "kind": {
+    "en": "Digital sculpt",
+    "ko": "디지털 스컬프팅"
+   },
+   "tools": "ZBrush",
+   "statement": {
+    "en": "An anatomical study of the hand in ZBrush.",
+    "ko": "ZBrush로 만든 손 해부 습작."
+   },
+   "hero": {
+    "src": "assets/img/work/hand-sculpt/hero-sm.webp",
+    "srcset": {
+     "800": "assets/img/work/hand-sculpt/hero-sm.webp",
+     "1920": "assets/img/work/hand-sculpt/hero.webp"
+    },
+    "w": 1920,
+    "h": 1080
+   },
+   "details": [
+    {
+     "src": "assets/img/work/hand-sculpt/detail-01-sm.webp",
+     "srcset": {
+      "800": "assets/img/work/hand-sculpt/detail-01-sm.webp",
+      "960": "assets/img/work/hand-sculpt/detail-01.webp"
+     },
+     "w": 960,
+     "h": 540
+    }
+   ],
+   "cover": {
+    "src": "assets/img/work/hand-sculpt/hero-sm.webp",
+    "srcset": {
+     "800": "assets/img/work/hand-sculpt/hero-sm.webp",
+     "1920": "assets/img/work/hand-sculpt/hero.webp"
+    },
+    "w": 1920,
+    "h": 1080
+   }
+  },
+  {
+   "id": "throw-a-ball",
+   "room": "fun",
+   "year": "2025",
+   "title": {
+    "en": "Throw a Ball",
+    "ko": "Throw a Ball"
+   },
+   "kind": {
+    "en": "visionOS mini-game",
+    "ko": "visionOS 미니게임"
+   },
+   "tools": "Xcode (SwiftUI), Apple Vision Pro",
+   "statement": {
+    "en": "Pick a material, grab the ball, throw it at the target, watch the score update: a first game for Apple Vision Pro.",
+    "ko": "재질을 고르고, 공을 잡고, 과녁에 던지면 점수가 바뀝니다. 애플 비전 프로로 만든 첫 게임."
+   },
+   "videos": [
+    {
+     "src": "https://www-ccv.adobe.io/v1/player/ccv/8woFrvXEuMP/embed?bgcolor=%23191919&lazyLoading=true&api_key=BehancePro2View",
+     "title": "Throw a Ball"
+    }
+   ]
+  },
+  {
+   "id": "angioplasty-mash",
+   "room": "fun",
+   "year": "",
+   "title": {
+    "en": "Angioplasty in Five Seconds",
+    "ko": "5초 혈관성형술"
+   },
+   "kind": {
+    "en": "Animation test",
+    "ko": "애니메이션 테스트"
+   },
+   "tools": "Autodesk Maya (MASH), Adobe After Effects",
+   "statement": {
+    "en": "A five-second MASH animation test of an angioplasty.",
+    "ko": "MASH로 만든 5초짜리 혈관성형술 애니메이션 테스트."
+   },
+   "videos": [
+    {
+     "src": "https://www-ccv.adobe.io/v1/player/ccv/Qh9LEpr5_L9/embed?bgcolor=%23191919&lazyLoading=true&api_key=BehancePro2View",
+     "title": "Angioplasty animation test"
+    }
+   ]
+  }
+ ]
+}

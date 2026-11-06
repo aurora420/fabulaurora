@@ -1,0 +1,110 @@
+{
+  "name": "Fabulaurora",
+  "owner": "Jeah Aurora Kim",
+  "credentials": "MScBMC, BEng",
+  "email": "fabulaurora@gmail.com",
+  "social": {
+    "linkedin": "https://www.linkedin.com/in/jeah-kim-994198270/",
+    "instagram": "https://www.instagram.com/fabulaurora/"
+  },
+  "resume": "assets/docs/Jeah-Kim-Resume-2026.pdf",
+  "contact": {
+    "formEndpoint": ""
+  },
+  "floors": [
+    {
+      "id": "anatomy",
+      "room": "anatomy",
+      "picks": [
+        "flow-of-urine",
+        "loop-of-emotion",
+        "carbon-dust"
+      ]
+    },
+    {
+      "id": "biology",
+      "room": "biology",
+      "picks": [
+        "quorum-sensing",
+        "cellular-aging",
+        "weight-loss-drugs"
+      ]
+    },
+    {
+      "id": "medical",
+      "room": "medical",
+      "picks": [
+        "mls-toolkit",
+        "latarjet",
+        "living-donor-hepatectomy"
+      ]
+    },
+    {
+      "id": "xr",
+      "room": "xr",
+      "picks": [
+        "angiopilot",
+        "m6ve-aya",
+        "icurwave"
+      ]
+    }
+  ],
+  "collaborators": [
+    {
+      "id": "md-anderson",
+      "name": {
+        "en": "MD Anderson Cancer Center",
+        "ko": "MD 앤더슨 암센터"
+      },
+      "logo": ""
+    },
+    {
+      "id": "samsung-medical-center",
+      "name": {
+        "en": "Samsung Medical Center",
+        "ko": "삼성서울병원"
+      },
+      "logo": ""
+    },
+    {
+      "id": "university-of-toronto",
+      "name": {
+        "en": "University of Toronto",
+        "ko": "토론토 대학교"
+      },
+      "logo": ""
+    },
+    {
+      "id": "mass-general",
+      "name": {
+        "en": "Massachusetts General Hospital",
+        "ko": "매사추세츠 종합병원"
+      },
+      "logo": ""
+    },
+    {
+      "id": "medvr",
+      "name": {
+        "en": "medVR",
+        "ko": "medVR"
+      },
+      "logo": ""
+    },
+    {
+      "id": "incheon-catholic-university",
+      "name": {
+        "en": "Incheon Catholic University",
+        "ko": "인천가톨릭대학교"
+      },
+      "logo": ""
+    },
+    {
+      "id": "asan-medical-center",
+      "name": {
+        "en": "Asan Medical Center",
+        "ko": "서울아산병원"
+      },
+      "logo": ""
+    }
+  ]
+}

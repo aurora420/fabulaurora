@@ -1,0 +1,14 @@
+.DS_Store
+.claude/
+__pycache__/
+
+# The website repository holds only what the site serves. Blender scenes, build scripts,
+# renders and full-size originals live in the separate source folder and never come here.
+3d/
+Image/
+*.blend
+*.blend1
+assets/models/character-vr.glb
+assets/models/diorama.old-tower.glb
+assets/img/blog/toolkit-mdacc/*.png
+assets/img/blog/toolkit-mdacc/material-workshop-000.mp4
