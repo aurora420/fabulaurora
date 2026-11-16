@@ -446,6 +446,7 @@ a.hang:hover .placard__title { text-decoration: underline; }
 .step__thumbs .more { display: grid; place-items: center; font-size: 0.8rem; font-weight: 600; color: var(--ink-2); }
 .step__note { font-size: 0.95rem; color: var(--ink-2); line-height: 1.45; }
 .step__note b { color: var(--ink); font-weight: 600; }
+.step__link { font-size: 0.95rem; line-height: 1.45; }
 .step__media .step__card { min-width: 0; min-height: 12.5rem; display: grid; align-content: center; padding: 1.1rem 1.2rem; }
 .step__card ul, .mode ul { display: grid; gap: 0.6rem; list-style: none; margin: 0; padding: 0; }
 .step__card li, .mode ul li { position: relative; padding-left: 1.1rem; font-size: 0.95rem; line-height: 1.4; }
@@ -486,6 +487,9 @@ a.hang:hover .placard__title { text-decoration: underline; }
 .outcomes figcaption { margin-top: 0.15rem; font-size: var(--step--1); color: var(--ink-3); }
 .video-embed { position: relative; aspect-ratio: 16 / 9; background: var(--stage); box-shadow: var(--shadow-hang); width: 100%; max-width: 58rem; }
 .video-embed iframe { position: absolute; inset: 0; width: 100%; height: 100%; border: 0; }
+/* A vertical embed such as an Instagram reel: a 4:5 video plus the player's fixed-height header and footer. */
+.video-embed--portrait { aspect-ratio: auto; max-width: 25rem; background: #fff; container-type: inline-size; }
+.video-embed--portrait iframe { position: static; display: block; height: calc(125cqw + 255px); }
 .pager { display: grid; grid-template-columns: 1fr 1fr; gap: 1.5rem; border-top: 1px solid var(--line); padding-top: 2rem; }
 .pager a { text-decoration: none; display: grid; gap: 0.2rem; }
 .pager a:last-child { text-align: right; }

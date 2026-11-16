@@ -454,19 +454,19 @@
     "ko": "학부 실험에서 직접 설계한 효모 배양기를 3D로 다시 만들었습니다."
    },
    "hero": {
-    "src": "assets/img/work/yeast-fermentor/hero-sm.webp",
+    "src": "assets/img/work/yeast-fermentor/yeastFermentor-sm.webp",
     "srcset": {
-     "800": "assets/img/work/yeast-fermentor/hero-sm.webp",
-     "1920": "assets/img/work/yeast-fermentor/hero.webp"
+     "800": "assets/img/work/yeast-fermentor/yeastFermentor-sm.webp",
+     "1920": "assets/img/work/yeast-fermentor/yeastFermentor.webp"
     },
     "w": 1920,
     "h": 1080
    },
    "cover": {
-    "src": "assets/img/work/yeast-fermentor/hero-sm.webp",
+    "src": "assets/img/work/yeast-fermentor/yeastFermentor-sm.webp",
     "srcset": {
-     "800": "assets/img/work/yeast-fermentor/hero-sm.webp",
-     "1920": "assets/img/work/yeast-fermentor/hero.webp"
+     "800": "assets/img/work/yeast-fermentor/yeastFermentor-sm.webp",
+     "1920": "assets/img/work/yeast-fermentor/yeastFermentor.webp"
     },
     "w": 1920,
     "h": 1080
@@ -4598,6 +4598,13 @@
     },
     "w": 1920,
     "h": 1334
+   },
+   "finalLink": {
+    "href": "https://mg-medvr.netlify.app/",
+    "label": {
+     "en": "Visit the live site",
+     "ko": "실제 웹사이트 보기"
+    }
    }
   },
   {
@@ -4964,10 +4971,16 @@
    },
    "videos": [
     {
-     "src": "https://www-ccv.adobe.io/v1/player/ccv/VIaMzx2ipM8/embed?bgcolor=%23191919&lazyLoading=true&api_key=BehancePro2View",
-     "title": "BMC × TVAsurg teaser"
+     "src": "https://www.instagram.com/reel/DD7Oe00RspP/embed",
+     "title": "BMC × TVAsurg teaser",
+     "portrait": true
     }
-   ]
+   ],
+   "cover": {
+    "src": "assets/img/work/tvasurg-thumbnail.webp",
+    "w": 800,
+    "h": 600
+   }
   },
   {
    "id": "turtle-data-sculpt",
@@ -5129,7 +5142,7 @@
    "year": "2023",
    "title": {
     "en": "Nature’s Ultimate Multi-Tool",
-    "ko": "자연이 만든 만능 도구"
+    "ko": "코끼리 코: 자연이 만든 최고의 다기능 도구"
    },
    "kind": {
     "en": "Trading card",
@@ -5213,24 +5226,33 @@
     "en": "Modelling studies",
     "ko": "모델링 습작"
    },
-   "tools": "Blender, Autodesk Maya",
-   "statement": {
-    "en": "Twelve small models, each one a note to somebody.",
-    "ko": "누군가에게 보내는 편지처럼 만든 열두 개의 작은 모델."
-   },
+   "tools": "Blender, Autodesk Maya, ZBrush",
    "hero": {
-    "src": "assets/img/work/modeling-exercises/hero-sm.webp",
+    "src": "assets/img/work/modeling-exercises/yeastFermentor-sm.webp",
     "srcset": {
-     "800": "assets/img/work/modeling-exercises/hero-sm.webp",
-     "1920": "assets/img/work/modeling-exercises/hero.webp"
+     "800": "assets/img/work/modeling-exercises/yeastFermentor-sm.webp",
+     "1920": "assets/img/work/modeling-exercises/yeastFermentor.webp"
     },
     "w": 1920,
     "h": 1080,
     "cap": {
-     "en": "Dear SY"
+     "en": "Yeast fermentor",
+     "ko": "효모 배양기"
     }
    },
    "details": [
+    {
+     "src": "assets/img/work/modeling-exercises/hero-sm.webp",
+     "srcset": {
+      "800": "assets/img/work/modeling-exercises/hero-sm.webp",
+      "1920": "assets/img/work/modeling-exercises/hero.webp"
+     },
+     "w": 1920,
+     "h": 1080,
+     "cap": {
+      "en": "Dear SY"
+     }
+    },
     {
      "src": "assets/img/work/modeling-exercises/detail-01-sm.webp",
      "srcset": {
@@ -5362,115 +5384,34 @@
      "cap": {
       "en": "Dear HH"
      }
+    },
+    {
+     "src": "assets/img/work/modeling-exercises/hand01-sm.webp",
+     "srcset": {
+      "800": "assets/img/work/modeling-exercises/hand01-sm.webp",
+      "1920": "assets/img/work/modeling-exercises/hand01.webp"
+     },
+     "w": 1920,
+     "h": 1080,
+     "cap": {
+      "en": "Hand sculpt, ZBrush",
+      "ko": "손 스컬프팅, ZBrush로 만든 해부 습작"
+     }
     }
    ],
    "cover": {
-    "src": "assets/img/work/modeling-exercises/hero-sm.webp",
+    "src": "assets/img/work/modeling-exercises/yeastFermentor-sm.webp",
     "srcset": {
-     "800": "assets/img/work/modeling-exercises/hero-sm.webp",
-     "1920": "assets/img/work/modeling-exercises/hero.webp"
+     "800": "assets/img/work/modeling-exercises/yeastFermentor-sm.webp",
+     "1920": "assets/img/work/modeling-exercises/yeastFermentor.webp"
     },
     "w": 1920,
     "h": 1080,
     "cap": {
-     "en": "Dear SY"
+     "en": "Yeast fermentor",
+     "ko": "효모 배양기"
     }
    }
-  },
-  {
-   "id": "hand-sculpt",
-   "room": "fun",
-   "year": "2023",
-   "title": {
-    "en": "Hand Sculpt",
-    "ko": "손 스컬프팅"
-   },
-   "kind": {
-    "en": "Digital sculpt",
-    "ko": "디지털 스컬프팅"
-   },
-   "tools": "ZBrush",
-   "statement": {
-    "en": "An anatomical study of the hand in ZBrush.",
-    "ko": "ZBrush로 만든 손 해부 습작."
-   },
-   "hero": {
-    "src": "assets/img/work/hand-sculpt/hero-sm.webp",
-    "srcset": {
-     "800": "assets/img/work/hand-sculpt/hero-sm.webp",
-     "1920": "assets/img/work/hand-sculpt/hero.webp"
-    },
-    "w": 1920,
-    "h": 1080
-   },
-   "details": [
-    {
-     "src": "assets/img/work/hand-sculpt/detail-01-sm.webp",
-     "srcset": {
-      "800": "assets/img/work/hand-sculpt/detail-01-sm.webp",
-      "960": "assets/img/work/hand-sculpt/detail-01.webp"
-     },
-     "w": 960,
-     "h": 540
-    }
-   ],
-   "cover": {
-    "src": "assets/img/work/hand-sculpt/hero-sm.webp",
-    "srcset": {
-     "800": "assets/img/work/hand-sculpt/hero-sm.webp",
-     "1920": "assets/img/work/hand-sculpt/hero.webp"
-    },
-    "w": 1920,
-    "h": 1080
-   }
-  },
-  {
-   "id": "throw-a-ball",
-   "room": "fun",
-   "year": "2025",
-   "title": {
-    "en": "Throw a Ball",
-    "ko": "Throw a Ball"
-   },
-   "kind": {
-    "en": "visionOS mini-game",
-    "ko": "visionOS 미니게임"
-   },
-   "tools": "Xcode (SwiftUI), Apple Vision Pro",
-   "statement": {
-    "en": "Pick a material, grab the ball, throw it at the target, watch the score update: a first game for Apple Vision Pro.",
-    "ko": "재질을 고르고, 공을 잡고, 과녁에 던지면 점수가 바뀝니다. 애플 비전 프로로 만든 첫 게임."
-   },
-   "videos": [
-    {
-     "src": "https://www-ccv.adobe.io/v1/player/ccv/8woFrvXEuMP/embed?bgcolor=%23191919&lazyLoading=true&api_key=BehancePro2View",
-     "title": "Throw a Ball"
-    }
-   ]
-  },
-  {
-   "id": "angioplasty-mash",
-   "room": "fun",
-   "year": "",
-   "title": {
-    "en": "Angioplasty in Five Seconds",
-    "ko": "5초 혈관성형술"
-   },
-   "kind": {
-    "en": "Animation test",
-    "ko": "애니메이션 테스트"
-   },
-   "tools": "Autodesk Maya (MASH), Adobe After Effects",
-   "statement": {
-    "en": "A five-second MASH animation test of an angioplasty.",
-    "ko": "MASH로 만든 5초짜리 혈관성형술 애니메이션 테스트."
-   },
-   "videos": [
-    {
-     "src": "https://www-ccv.adobe.io/v1/player/ccv/Qh9LEpr5_L9/embed?bgcolor=%23191919&lazyLoading=true&api_key=BehancePro2View",
-     "title": "Angioplasty animation test"
-    }
-   ]
   }
  ]
 }

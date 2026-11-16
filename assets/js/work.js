@@ -37,7 +37,7 @@ function label(w) {
 }
 
 function video(v) {
-  return `<div class="video-embed"><iframe src="${esc(v.src)}" title="${esc(v.title || '')}" loading="lazy" allow="fullscreen; picture-in-picture" allowfullscreen></iframe></div>`;
+  return `<div class="video-embed${v.portrait ? ' video-embed--portrait' : ''}"><iframe src="${esc(v.src)}" title="${esc(v.title || '')}" loading="lazy" allow="fullscreen; picture-in-picture" allowfullscreen></iframe></div>`;
 }
 
 function trail(w) {
@@ -47,6 +47,7 @@ function trail(w) {
   const ends = w.finalStep !== false;
   if (ends && w.finalVideo) steps.push({ stage: { en: 'Final', ko: '완성' }, note: w.finalVideo.cap || w.kind, images: [], video: w.finalVideo, last: true });
   else if (ends && (w.finalImage || w.hero)) steps.push({ stage: { en: 'Final', ko: '완성' }, note: w.kind, images: [w.finalImage || w.hero], last: true });
+  if (ends && w.finalLink && steps[steps.length - 1].last) steps[steps.length - 1].link = w.finalLink;   // `finalLink` puts a link under the Final step
   const items = steps.map((s, i) => {
     const stage = pick(s.stage);
     const imgs = s.images || [];
@@ -73,6 +74,7 @@ function trail(w) {
             ${rest.length ? `<div class="step__thumbs">${thumbs}${more}</div>` : ''}
           </div>
           <p class="step__note">${esc(pick(s.note))}</p>
+          ${s.link ? `<p class="step__link"><a class="link" href="${esc(s.link.href)}" target="_blank" rel="noopener">${esc(pick(s.link.label) || s.link.href)}</a></p>` : ''}
         </div>
       </li>`;
   }).join('');

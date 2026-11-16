@@ -61,6 +61,7 @@ Add an object to `works` in `data/works.json`. Only `id`, `room`, `title` and on
 - `videos` are embeds shown in a section right after the trail, headed "Watch" unless the piece sets `videosTitle` (and an optional `videosNote`).
 - `finalImage` (an image object) makes the trail end on that picture instead of the hero image, as AnatoMEE does.
 - `finalVideo` makes the trail end on a video instead of the hero image. Either a hosted one, `{ "embed": "https://www.youtube.com/embed/…", "cap": { "en": "…" } }`, or a small local file, `{ "src": "assets/video/….mp4", "poster": "…", "cap": … }` (H.264, well under 50 MB; GitHub refuses files over 100 MB). A long walkthrough belongs on YouTube or Vimeo.
+- `finalLink` adds a link under the Final step of the trail, for a piece that lives on a website: `{ "href": "https://…", "label": { "en": "Visit the live site" } }`. Any step you write in `trail` can carry the same thing as `link`.
 - `details` is a picture grid shown after the trail and before "Where it went". It is headed "Details" unless the piece sets `detailsTitle` (and, optionally, a one-line `detailsNote`), as the toolkit piece does with "Characters and stickers".
 - `featured: true` puts the piece on the home page (the first five are shown).
 - Put new images in `assets/img/work/<id>/`. About 1600 px on the long side is plenty.
