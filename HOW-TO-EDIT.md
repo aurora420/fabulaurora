@@ -14,12 +14,12 @@ Then open http://localhost:4173. (Opening `index.html` straight from Finder will
 
 | You want to change… | Edit this |
 | --- | --- |
-| Email, social links, résumé file, the collaborator logo band | `data/site.json` |
+| Email, social links, the collaborator logo band | `data/site.json` |
 | Gallery pieces and their process trails | `data/works.json` |
 | Blog posts | `data/posts.json` |
 | About page and résumé | `data/about.json` |
 | Buttons, headings and other fixed wording (English + Korean) | `assets/js/i18n.js` |
-| Colours, type, layout | `assets/css/site.css` (colour tokens are at the top) |
+| Colors, type, layout | `assets/css/site.css` (color tokens are at the top) |
 | The 3D hero | `assets/models/diorama.glb`, exported from the Blender scene in the separate source folder (`3d/`, kept out of this repository); which three pieces each floor's card shows: `floors` in `data/site.json` |
 
 Any text field in the data files can be a plain string, or `{ "en": "…", "ko": "…" }` when you have both languages. If Korean is missing, the English shows.
@@ -54,8 +54,12 @@ Add an object to `works` in `data/works.json`. Only `id`, `room`, `title` and on
 - `room` is one of `biology`, `medical`, `anatomy`, `journal`, `xr`, `promo`, `fun`. (`xr` is the "XR & interactive" room.)
 - `brief` keys: `problem`, `audience`, `approach`, `contribution`. Use the ones that apply.
 - `trail` is the "How it was made" strip. Keep each `note` to one line. The finished piece is added as the last step automatically.
+- A trail step with `points` (a short list of lines) shows them as a text card in place of the main picture; any `images` it has become the small thumbnails underneath, as the first two steps of M6VE-AYA do.
+- `modes` adds side-by-side cards after the trail, for a piece with distinct modes: each is `{ "name", "from" (the finding it answers), "text", "points": […], "images": […] }`. `from` is optional. The section gets a heading only if the piece sets `modesTitle` (and an optional `modesNote`).
+- `principles` adds a numbered row of `{ "title", "text" }` under the modes, headed "Design principles" unless the piece sets `principlesTitle`.
 - `"finalStep": false` leaves the automatic "Final" step off the end of the trail.
 - `videos` are embeds shown in a section right after the trail, headed "Watch" unless the piece sets `videosTitle` (and an optional `videosNote`).
+- `finalImage` (an image object) makes the trail end on that picture instead of the hero image, as AnatoMEE does.
 - `finalVideo` makes the trail end on a video instead of the hero image. Either a hosted one, `{ "embed": "https://www.youtube.com/embed/…", "cap": { "en": "…" } }`, or a small local file, `{ "src": "assets/video/….mp4", "poster": "…", "cap": … }` (H.264, well under 50 MB; GitHub refuses files over 100 MB). A long walkthrough belongs on YouTube or Vimeo.
 - `details` is a picture grid shown after the trail and before "Where it went". It is headed "Details" unless the piece sets `detailsTitle` (and, optionally, a one-line `detailsNote`), as the toolkit piece does with "Characters and stickers".
 - `featured: true` puts the piece on the home page (the first five are shown).
@@ -88,7 +92,7 @@ The band under the hero reads `collaborators` in `data/site.json`:
 { "id": "university-of-toronto", "name": { "en": "University of Toronto", "ko": "토론토 대학교" }, "logo": "assets/img/logos/university-of-toronto.svg" }
 ```
 
-With `"logo": ""` the name is set in type instead. SVG, or PNG on a transparent background at least 120 px tall, works best; logos are shown in grey and turn to colour on hover. Check each organisation's brand guidelines before publishing its logo.
+With `"logo": ""` the name is set in type instead. SVG, or PNG on a transparent background at least 120 px tall, works best; logos are shown in grey and turn to color on hover. Check each organisation's brand guidelines before publishing its logo.
 
 ## Add a blog post
 

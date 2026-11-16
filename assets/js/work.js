@@ -46,15 +46,18 @@ function trail(w) {
   // The last step is the finished piece: the hero image, or, when the work has one, a video. `finalStep: false` leaves it out.
   const ends = w.finalStep !== false;
   if (ends && w.finalVideo) steps.push({ stage: { en: 'Final', ko: '완성' }, note: w.finalVideo.cap || w.kind, images: [], video: w.finalVideo, last: true });
-  else if (ends && w.hero) steps.push({ stage: { en: 'Final', ko: '완성' }, note: w.kind, images: [w.hero], last: true });
+  else if (ends && (w.finalImage || w.hero)) steps.push({ stage: { en: 'Final', ko: '완성' }, note: w.kind, images: [w.finalImage || w.hero], last: true });
   const items = steps.map((s, i) => {
     const stage = pick(s.stage);
-    const [first, ...rest] = s.video ? [null, ...s.images] : s.images;
+    const imgs = s.images || [];
+    const [first, ...rest] = s.video || s.points?.length ? [null, ...imgs] : imgs;   // with `points`, the text card leads and every picture is a thumbnail
+    // A step with no picture shows its `points` as a short card instead.
+    const card = `<div class="frame step__card"><ul>${(s.points || []).map((p) => `<li>${esc(pick(p))}</li>`).join('')}</ul></div>`;
     const cap = (im) => [stage, pick(im.cap)].filter(Boolean).join(' — ');
-    const thumbs = rest.slice(0, 3).map((im) => `<button type="button"${im.anim ? ' class="is-anim"' : ''} ${zoomAttrs(im, cap(im))}>${imgTag(im, { sizes: '4rem', alt: pick(im.cap) || stage })}</button>`).join('');
-    const more = rest.length > 3
-      ? `<button type="button" class="more" ${zoomAttrs(rest[3], cap(rest[3]), false)}>${esc(t('work.more', { n: rest.length - 3 }))}</button>` +
-        rest.slice(4).map((im) => `<span hidden ${zoomAttrs(im, cap(im), false)}></span>`).join('')
+    const thumbs = rest.slice(0, 5).map((im) => `<button type="button"${im.anim ? ' class="is-anim"' : ''} ${zoomAttrs(im, cap(im))}>${imgTag(im, { sizes: '4rem', alt: pick(im.cap) || stage })}</button>`).join('');
+    const more = rest.length > 5
+      ? `<button type="button" class="more" ${zoomAttrs(rest[5], cap(rest[5]), false)}>${esc(t('work.more', { n: rest.length - 5 }))}</button>` +
+        rest.slice(6).map((im) => `<span hidden ${zoomAttrs(im, cap(im), false)}></span>`).join('')
       : '';
     return `
       <li class="step">
@@ -66,7 +69,7 @@ function trail(w) {
               ? `<div class="frame step__video">${s.video.embed
                   ? `<iframe src="${esc(s.video.embed)}" title="${esc(pick(s.video.cap) || stage)}" loading="lazy" allow="fullscreen; picture-in-picture" allowfullscreen></iframe>`
                   : `<video controls preload="metadata" playsinline poster="${esc(s.video.poster || '')}" src="${esc(s.video.src)}"${s.video.w && s.video.h ? ` width="${s.video.w}" height="${s.video.h}"` : ''}></video>`}</div>`
-              : `<button type="button" class="frame" ${zoomAttrs(first, cap(first))}>${imgTag(first, { sizes: '(min-width: 40rem) 19rem, 66vw', alt: pick(first.cap) || stage })}${badge(first)}</button>`}
+              : s.points?.length || !first ? card : `<button type="button" class="frame" ${zoomAttrs(first, cap(first))}>${imgTag(first, { sizes: '(min-width: 40rem) 19rem, 66vw', alt: pick(first.cap) || stage })}${badge(first)}</button>`}
             ${rest.length ? `<div class="step__thumbs">${thumbs}${more}</div>` : ''}
           </div>
           <p class="step__note">${esc(pick(s.note))}</p>
@@ -81,6 +84,39 @@ function trail(w) {
         ${ends ? `<div class="trail-hint"><span>${esc(t('work.trail.from'))}</span><span>${esc(t('work.trail.to'))}</span></div>` : ''}
       </div>
     </section>`;
+}
+
+/** "Two ways to walk": side-by-side cards for a piece with distinct modes. Each has a picture, the finding it answers, and a few points. */
+function modes(w) {
+  if (!w.modes?.length) return '';
+  const cards = w.modes.map((m) => {
+    const name = pick(m.name);
+    const [first, ...rest] = m.images || [];
+    const cap = (im) => [name, pick(im.cap)].filter(Boolean).join(' — ');
+    return `
+      <li class="mode">
+        ${first ? `<div class="step__media">
+          <button type="button" class="frame" ${zoomAttrs(first, cap(first))}>${imgTag(first, { sizes: '(min-width: 48rem) 34rem, 92vw', alt: pick(first.cap) || name })}${badge(first)}</button>
+          ${rest.length ? `<div class="step__thumbs">${rest.map((im) => `<button type="button"${im.anim ? ' class="is-anim"' : ''} ${zoomAttrs(im, cap(im))}>${imgTag(im, { sizes: '4rem', alt: pick(im.cap) || name })}</button>`).join('')}</div>` : ''}
+        </div>` : ''}
+        ${m.from ? `<p class="mode__from"><span>${esc(t('work.modes.from'))}</span> ${esc(pick(m.from))}</p>` : ''}
+        <h3 class="display">${esc(name)}</h3>
+        <p>${esc(pick(m.text))}</p>
+        ${m.points?.length ? `<ul>${m.points.map((p) => `<li>${esc(pick(p))}</li>`).join('')}</ul>` : ''}
+      </li>`;
+  }).join('');
+  return `<section class="section section--tight"><div class="wrap">
+    ${w.modesTitle ? `<div class="section__head"><h2 class="display">${esc(pick(w.modesTitle))}</h2>${w.modesNote ? `<p>${esc(pick(w.modesNote))}</p>` : ''}</div>` : ''}
+    <ul class="modes" data-zoom-group>${cards}</ul>
+  </div></section>`;
+}
+
+function principles(w) {
+  if (!w.principles?.length) return '';
+  return `<section class="section section--tight" style="padding-top:0"><div class="wrap">
+    <div class="section__head"><h2 class="display">${esc(pick(w.principlesTitle) || t('work.principles.h'))}</h2></div>
+    <ol class="principles">${w.principles.map((p, i) => `<li><span aria-hidden="true">${i + 1}</span><h3>${esc(pick(p.title))}</h3><p>${esc(pick(p.text))}</p></li>`).join('')}</ol>
+  </div></section>`;
 }
 
 function render() {
@@ -134,6 +170,10 @@ function render() {
       ${brief ? `<section class="section section--tight"><div class="wrap brief">${brief}</div></section>` : '<div style="height:clamp(2.5rem,5vw,4rem)"></div>'}
 
       ${trail(w)}
+
+      ${modes(w)}
+
+      ${principles(w)}
 
       ${videos.length ? `<section class="section section--tight"><div class="wrap">
         <div class="section__head"><h2 class="display">${esc(pick(w.videosTitle) || t('work.watch.h'))}</h2>${w.videosNote ? `<p>${esc(pick(w.videosNote))}</p>` : ''}</div>

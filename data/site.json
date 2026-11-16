@@ -7,7 +7,6 @@
     "linkedin": "https://www.linkedin.com/in/jeah-kim-994198270/",
     "instagram": "https://www.instagram.com/fabulaurora/"
   },
-  "resume": "assets/docs/Jeah-Kim-Resume-2026.pdf",
   "contact": {
     "formEndpoint": ""
   },
@@ -18,7 +17,7 @@
       "picks": [
         "flow-of-urine",
         "loop-of-emotion",
-        "carbon-dust"
+        "anatomee"
       ]
     },
     {
@@ -35,7 +34,7 @@
       "room": "medical",
       "picks": [
         "mls-toolkit",
-        "latarjet",
+        "breast-cancer-classification",
         "living-donor-hepatectomy"
       ]
     },

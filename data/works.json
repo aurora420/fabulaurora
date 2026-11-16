@@ -20,12 +20,12 @@
    },
    "brief": {
     "problem": {
-     "en": "Quorum sensing is invisible chemistry: cells release autoinducers, sense how crowded they are, and switch genes on together.",
-     "ko": "쿼럼 센싱은 눈에 보이지 않는 화학입니다. 세포들은 자가유도물질을 내보내 밀도를 감지하고, 함께 유전자를 켭니다."
+     "en": "Illustrate the concept of bacterial communication known as 'quorum sensing.'",
+     "ko": "박테리아의 소통 방법 '쿼럼 센싱' 개념을 시각화"
     },
     "approach": {
-     "en": "A voting metaphor. Autoinducers become ID cards, and the tally opens a path to one of three islands: motility, bioluminescence or biofilm.",
-     "ko": "투표라는 은유를 썼습니다. 자가유도물질은 신분증이 되고, 개표 결과에 따라 운동성·생물발광·바이오필름 세 섬 중 하나로 가는 길이 열립니다."
+     "en": "Much like our voting system, bacteria release signaling molecules called autoinducers, enabling them to assess population density and make decisions on a community scale.",
+     "ko": "우리의 투표 시스템과 마찬가지로, 박테리아는 자가유도물질이라는 신호 분자를 방출하여 본인의 개체수를 파악하고 공동체적 결정을 내릴 수 있습니다. 분자의 농도를 ‘투표 수’에 비유해, 일정 임계값 이상의 분자가 모이면 안건이 채택되듯 특정 유전자 재프로그래밍이 결정되는 과정을 표현했습니다."
     }
    },
    "hero": {
@@ -40,12 +40,12 @@
    "trail": [
     {
      "stage": {
-      "en": "Thumbnails",
-      "ko": "섬네일"
+      "en": "Ideation",
+      "ko": "아이디어 구상"
      },
      "note": {
-      "en": "Version 1: the first composition.",
-      "ko": "버전 1: 첫 구도."
+      "en": "A first thumbnail sets the composition; two drafts refine the scene.",
+      "ko": "첫 섬네일로 구도를 잡고, 두 번의 초안으로 장면을 다듬었습니다."
      },
      "images": [
       {
@@ -59,19 +59,7 @@
        "cap": {
         "en": "Thumbnail image ver 001"
        }
-      }
-     ]
-    },
-    {
-     "stage": {
-      "en": "Drafts",
-      "ko": "초안"
-     },
-     "note": {
-      "en": "Versions 2 and 3 refine the scene.",
-      "ko": "버전 2와 3에서 장면을 다듬었습니다."
-     },
-     "images": [
+      },
       {
        "src": "assets/img/work/quorum-sensing/step2-1-sm.webp",
        "srcset": {
@@ -100,25 +88,18 @@
     },
     {
      "stage": {
-      "en": "The voters",
-      "ko": "유권자들"
+      "en": "Storytelling",
+      "ko": "스토리텔링"
      },
      "note": {
-      "en": "Bacillus, Vibrio and Coccus line up to vote. Autoinducers act as their ID cards.",
-      "ko": "간균, 비브리오, 구균이 투표하러 줄을 섭니다. 자가유도물질이 신분증 역할을 합니다."
+      "en": "Bacteria line up to vote with autoinducers as ID cards. As votes reach a critical threshold, they trigger coordinated gene reprogramming that regulates functions such as virulence factor production, bioluminescence, motility, and biofilm formation—visualized as unlocking pathways to three distinct islands.",
+      "ko": "박테리아가 자가유도물질을 신분증 삼아 투표하러 줄을 섭니다. 모인 표는 운동성, 생물발광, 바이오필름 등 집단적 유전자 프로그래밍을 결정하는 기준이 됩니다."
      },
      "images": [
       {
-       "src": "assets/img/work/quorum-sensing/step3-1-sm.webp",
-       "srcset": {
-        "800": "assets/img/work/quorum-sensing/step3-1-sm.webp",
-        "1804": "assets/img/work/quorum-sensing/step3-1.webp"
-       },
-       "w": 1804,
-       "h": 1910,
-       "cap": {
-        "en": "Bacillus, Vibrio, Coccus voting"
-       }
+       "src": "assets/img/work/quorum-sensing/storytelling-01.webp",
+       "w": 800,
+       "h": 600
       },
       {
        "src": "assets/img/work/quorum-sensing/step3-2-sm.webp",
@@ -131,19 +112,7 @@
        "cap": {
         "en": "Autoinducers act as their ID cards, allowing bacteria to recognize one another."
        }
-      }
-     ]
-    },
-    {
-     "stage": {
-      "en": "The path",
-      "ko": "길"
-     },
-     "note": {
-      "en": "Votes build the path to each island.",
-      "ko": "표가 모여 각 섬으로 가는 길이 됩니다."
-     },
-     "images": [
+      },
       {
        "src": "assets/img/work/quorum-sensing/step4-1-sm.webp",
        "srcset": {
@@ -155,19 +124,7 @@
        "cap": {
         "en": "Bacteria votes make the path to each island"
        }
-      }
-     ]
-    },
-    {
-     "stage": {
-      "en": "Three islands",
-      "ko": "세 개의 섬"
-     },
-     "note": {
-      "en": "Motility borrows from real test-tube assays; bioluminescence shows a gene switching on; biofilm shows resistance.",
-      "ko": "운동성 섬은 실제 시험관 검사에서, 생물발광 섬은 유전자가 켜지는 순간에서, 바이오필름 섬은 항생제 저항에서 가져왔습니다."
-     },
-     "images": [
+      },
       {
        "src": "assets/img/work/quorum-sensing/step5-1-sm.webp",
        "srcset": {
@@ -232,17 +189,17 @@
    },
    "tools": "ZBrush, Cinema 4D, Adobe Illustrator",
    "statement": {
-    "en": "Young and aged cells drawn as two planets, so four morphological signs of ageing read at a glance.",
+    "en": "Young and aged cells drawn as two planets, so four morphological signs of aging read at a glance.",
     "ko": "젊은 세포와 노화된 세포를 서로 다른 시간의 흐름 속에 놓인 두 행성에 빗대어, 노화에 따른 네 가지 형태적 변화를 직관적으로 보여주었습니다."
    },
    "brief": {
     "problem": {
-     "en": "Can you tell a cell’s biological age just by looking at it?",
-     "ko": "세포의 생물학적 나이를 눈으로 알아볼 수 있을까요?"
+     "en": "Illustrate the biological time of the cell by depicting 4 morphological differences in cells as they age.",
+     "ko": "세포의 생물학적 나이를 시각화"
     },
     "approach": {
-     "en": "Borrowed gravitational time dilation: a blue planet for the young cell, a sunset-coloured one for the aged cell, with the differences carried by membrane and organelles.",
-     "ko": "중력에 의한 시간 지연 개념을 빌렸습니다. 젊은 세포는 푸른 행성, 노화 세포는 노을빛 행성으로 그리고, 세포막과 소기관의 차이로 시간을 보여 줍니다."
+     "en": "To enhance visual interest and clarity, I incorporated the concept of gravitational time dilation. In this context, young and aged cells are portrayed as blue and sunset-colored planets, illustrating their distinct biological time observable in cell membrane and organelles.",
+     "ko": "시각적 흥미와 명확성을 높이기 위해 중력에 의한 시간 지연 개념을 도입했습니다. 이 맥락에서 젊은 세포와 노화된 세포는 각각 파란색과 노을빛 행성으로 표현되어, 세포막과 소기관에서 관찰할 수 있는 그들의 독특한 생물학적 시간을 보여줍니다."
     }
    },
    "hero": {
@@ -328,8 +285,8 @@
    },
    "tools": "RCSB PDB, Autodesk Maya, Adobe Illustrator",
    "statement": {
-    "en": "FDA-approved weight-loss therapeutics and the molecular strategies that keep them working longer.",
-    "ko": "FDA 승인 체중 감량 치료제와, 약효를 오래 유지하게 하는 분자 전략을 한 장에 담았습니다."
+    "en": "Weight loss drugs have emerged as potential blockbusters, fueling industry growth. This illustration highlights several FDA-approved therapeutics and their molecular strategies for maximizing pharmacological effects over time.",
+    "ko": "체중 감량 약물은 제약산업의 잠재적 블록버스터로 떠오르고 있습니다. 이 일러스트레이션은 FDA 승인 치료제와 시간에 따른 약리학적 효과를 극대화하기 위한 분자 전략을 강조합니다."
    },
    "hero": {
     "src": "assets/img/work/weight-loss-drugs/hero-sm.webp",
@@ -346,23 +303,7 @@
       "en": "Drafts",
       "ko": "초안"
      },
-     "note": {
-      "en": "Two layout drafts before modelling.",
-      "ko": "모델링 전에 그린 두 번의 레이아웃 초안."
-     },
      "images": [
-      {
-       "src": "assets/img/work/weight-loss-drugs/step1-1-sm.webp",
-       "srcset": {
-        "800": "assets/img/work/weight-loss-drugs/step1-1-sm.webp",
-        "1920": "assets/img/work/weight-loss-drugs/step1-1.webp"
-       },
-       "w": 1920,
-       "h": 1440,
-       "cap": {
-        "en": "Draft ver 001"
-       }
-      },
       {
        "src": "assets/img/work/weight-loss-drugs/step1-2-sm.webp",
        "srcset": {
@@ -374,6 +315,18 @@
        "cap": {
         "en": "Draft ver 002"
        }
+      },
+      {
+       "src": "assets/img/work/weight-loss-drugs/step1-1-sm.webp",
+       "srcset": {
+        "800": "assets/img/work/weight-loss-drugs/step1-1-sm.webp",
+        "1920": "assets/img/work/weight-loss-drugs/step1-1.webp"
+       },
+       "w": 1920,
+       "h": 1440,
+       "cap": {
+        "en": "Draft ver 001"
+       }
       }
      ]
     },
@@ -383,45 +336,14 @@
       "ko": "렌더 테스트"
      },
      "note": {
-      "en": "One render style tried on three molecules: exenatide, semaglutide, tirzepatide.",
-      "ko": "하나의 렌더 스타일을 엑세나타이드, 세마글루타이드, 티르제파타이드에 시험했습니다."
+      "en": "Cartoon render style: exenatide, semaglutide, tirzepatide.",
+      "ko": "카툰 렌더 스타일: 엑세나타이드, 세마글루타이드, 티르제파타이드"
      },
      "images": [
       {
-       "src": "assets/img/work/weight-loss-drugs/step2-1-sm.webp",
-       "srcset": {
-        "800": "assets/img/work/weight-loss-drugs/step2-1-sm.webp",
-        "1920": "assets/img/work/weight-loss-drugs/step2-1.webp"
-       },
-       "w": 1920,
-       "h": 1920,
-       "cap": {
-        "en": "Render style test - Exenatide"
-       }
-      },
-      {
-       "src": "assets/img/work/weight-loss-drugs/step2-2-sm.webp",
-       "srcset": {
-        "800": "assets/img/work/weight-loss-drugs/step2-2-sm.webp",
-        "1920": "assets/img/work/weight-loss-drugs/step2-2.webp"
-       },
-       "w": 1920,
-       "h": 1920,
-       "cap": {
-        "en": "Render style test - Semaglutide"
-       }
-      },
-      {
-       "src": "assets/img/work/weight-loss-drugs/step2-3-sm.webp",
-       "srcset": {
-        "800": "assets/img/work/weight-loss-drugs/step2-3-sm.webp",
-        "1920": "assets/img/work/weight-loss-drugs/step2-3.webp"
-       },
-       "w": 1920,
-       "h": 1920,
-       "cap": {
-        "en": "Render style test - Tirzepatide"
-       }
+       "src": "assets/img/work/weight-loss-drugs/step2-0.webp",
+       "w": 800,
+       "h": 600
       }
      ]
     }
@@ -1491,7 +1413,7 @@
    "featured": true,
    "title": {
     "en": "The Flow of Urine",
-    "ko": "소변의 흐름"
+    "ko": "콩팥의 구조"
    },
    "kind": {
     "en": "Anatomical illustration",
@@ -1551,6 +1473,32 @@
        "cap": {
         "en": "Data Sculpt 2"
        }
+      },
+      {
+       "src": "assets/img/work/flow-of-urine/step1-3-sm.webp",
+       "srcset": {
+        "800": "assets/img/work/flow-of-urine/step1-3-sm.webp",
+        "1920": "assets/img/work/flow-of-urine/step1-3.webp"
+       },
+       "w": 1920,
+       "h": 1920,
+       "cap": {
+        "en": "Cross Section 1",
+        "ko": "단면 1"
+       }
+      },
+      {
+       "src": "assets/img/work/flow-of-urine/step1-4-sm.webp",
+       "srcset": {
+        "800": "assets/img/work/flow-of-urine/step1-4-sm.webp",
+        "1920": "assets/img/work/flow-of-urine/step1-4.webp"
+       },
+       "w": 1920,
+       "h": 1920,
+       "cap": {
+        "en": "Cross Section 2",
+        "ko": "단면 2"
+       }
       }
      ]
     },
@@ -1558,10 +1506,6 @@
      "stage": {
       "en": "Sketches",
       "ko": "스케치"
-     },
-     "note": {
-      "en": "Three rounds of sketches settle the cut and the order of labels.",
-      "ko": "세 차례의 스케치로 절단면과 라벨 순서를 정했습니다."
      },
      "images": [
       {
@@ -1573,7 +1517,7 @@
        "w": 1920,
        "h": 1484,
        "cap": {
-        "en": "Sketch 1"
+        "en": "Initial Sketch"
        }
       },
       {
@@ -1585,7 +1529,7 @@
        "w": 1920,
        "h": 1357,
        "cap": {
-        "en": "Sketch 2"
+        "en": "Shape Blocking"
        }
       },
       {
@@ -1597,19 +1541,41 @@
        "w": 1920,
        "h": 1357,
        "cap": {
-        "en": "Sketch 3"
+        "en": "Adding Details"
+       }
+      },
+      {
+       "src": "assets/img/work/flow-of-urine/step2-4-sm.webp",
+       "srcset": {
+        "800": "assets/img/work/flow-of-urine/step2-4-sm.webp",
+        "1920": "assets/img/work/flow-of-urine/step2-4.webp"
+       },
+       "w": 1920,
+       "h": 1484,
+       "cap": {
+        "en": "Adding Vessels",
+        "ko": "혈관 추가"
+       }
+      },
+      {
+       "src": "assets/img/work/flow-of-urine/step2-5-sm.webp",
+       "srcset": {
+        "800": "assets/img/work/flow-of-urine/step2-5-sm.webp",
+        "1920": "assets/img/work/flow-of-urine/step2-5.webp"
+       },
+       "w": 1920,
+       "h": 1357,
+       "cap": {
+        "en": "Grayscale",
+        "ko": "그레이스케일"
        }
       }
      ]
     },
     {
      "stage": {
-      "en": "Second view",
-      "ko": "또 하나의 시점"
-     },
-     "note": {
-      "en": "A companion plate from the same study.",
-      "ko": "같은 연구에서 나온 또 한 장의 그림."
+      "en": "Rendering",
+      "ko": "채색"
      },
      "images": [
       {
@@ -1654,8 +1620,8 @@
    },
    "brief": {
     "problem": {
-     "en": "Research on Botox suggests expressions do not only show emotion, they shape it. The circuit behind that is hidden.",
-     "ko": "보톡스 연구는 표정이 감정을 드러낼 뿐 아니라 감정을 만든다는 점을 보여 줍니다. 그 회로는 눈에 보이지 않습니다."
+     "en": "Inspired by research exploring how Botox alters facial expressions and may influence emotional experiences, I visualized the neural pathways connecting emotions in the brain with the muscles responsible for facial expression.",
+     "ko": "보톡스가 표정에 영향을 미치고 궁극적으로 감정을 만든다는 연구를 읽고, 뇌에서 느끼는 감정과 얼굴 표정 근육이 어떻게 연결되어있는지 그 회로를 표현했습니다."
     },
     "approach": {
      "en": "Trace the signal: facial muscles, trigeminal proprioception, amygdala and locus coeruleus, then the prefrontal cortex.",
@@ -1671,17 +1637,6 @@
     "w": 1920,
     "h": 1243
    },
-   "details": [
-    {
-     "src": "assets/img/work/loop-of-emotion/detail-01-sm.webp",
-     "srcset": {
-      "800": "assets/img/work/loop-of-emotion/detail-01-sm.webp",
-      "1920": "assets/img/work/loop-of-emotion/detail-01.webp"
-     },
-     "w": 1920,
-     "h": 409
-    }
-   ],
    "outcomes": [
     {
      "text": {
@@ -1807,10 +1762,15 @@
       "ko": "3D 에셋"
      },
      "note": {
-      "en": "Bones of the upper limb with articulations and landmarks, in realistic and geometric versions.",
-      "ko": "관절면과 랜드마크를 담은 상지 뼈를 사실적 버전과 기하학적 버전으로 만들었습니다."
+      "en": "Bones of the upper limb with articulations and landmarks, in realistic and simplified geometric versions.",
+      "ko": "관절면과 랜드마크를 담은 상지 뼈를 사실적 버전과 단순화된 기하학적 버전으로 만들었습니다."
      },
      "images": [
+      {
+       "src": "assets/img/work/anatomee/step2-0.webp",
+       "w": 800,
+       "h": 600
+      },
       {
        "src": "assets/img/work/anatomee/hero-sm.webp",
        "srcset": {
@@ -1906,54 +1866,6 @@
        "cap": {
         "en": "Metacarpal and Phalanges"
        }
-      },
-      {
-       "src": "assets/img/work/anatomee/step2-9-sm.webp",
-       "srcset": {
-        "800": "assets/img/work/anatomee/step2-9-sm.webp",
-        "1920": "assets/img/work/anatomee/step2-9.webp"
-       },
-       "w": 1920,
-       "h": 1920,
-       "cap": {
-        "en": "Scapula"
-       }
-      },
-      {
-       "src": "assets/img/work/anatomee/step2-10-sm.webp",
-       "srcset": {
-        "800": "assets/img/work/anatomee/step2-10-sm.webp",
-        "1920": "assets/img/work/anatomee/step2-10.webp"
-       },
-       "w": 1920,
-       "h": 1920,
-       "cap": {
-        "en": "Humerus"
-       }
-      },
-      {
-       "src": "assets/img/work/anatomee/step2-11-sm.webp",
-       "srcset": {
-        "800": "assets/img/work/anatomee/step2-11-sm.webp",
-        "1920": "assets/img/work/anatomee/step2-11.webp"
-       },
-       "w": 1920,
-       "h": 1920,
-       "cap": {
-        "en": "Radius"
-       }
-      },
-      {
-       "src": "assets/img/work/anatomee/step2-12-sm.webp",
-       "srcset": {
-        "800": "assets/img/work/anatomee/step2-12-sm.webp",
-        "1920": "assets/img/work/anatomee/step2-12.webp"
-       },
-       "w": 1920,
-       "h": 1920,
-       "cap": {
-        "en": "Ulna"
-       }
       }
      ]
     },
@@ -2002,6 +1914,11 @@
     "cap": {
      "en": "Scapular Articulations"
     }
+   },
+   "finalImage": {
+    "src": "assets/img/work/anatomee/step4-1.webp",
+    "w": 800,
+    "h": 600
    }
   },
   {
@@ -2034,7 +1951,7 @@
     "w": 1920,
     "h": 1484,
     "cap": {
-     "en": "Colour"
+     "en": "Color"
     }
    },
    "trail": [
@@ -2092,7 +2009,7 @@
       "ko": "그레이스케일"
      },
      "note": {
-      "en": "Values resolved in grey before colour.",
+      "en": "Values resolved in grey before color.",
       "ko": "색을 올리기 전에 명암을 먼저 잡았습니다."
      },
      "images": [
@@ -2120,7 +2037,7 @@
     "w": 1920,
     "h": 1484,
     "cap": {
-     "en": "Colour"
+     "en": "Color"
     }
    }
   },
@@ -2868,12 +2785,12 @@
     "ko": "medVR · 매사추세츠 종합병원"
    },
    "statement": {
-    "en": "A self-directed simulation where radiology residents practise catheter navigation for splenic trauma embolisation.",
+    "en": "A self-directed simulation where radiology residents practice catheter navigation for splenic trauma embolisation.",
     "ko": "영상의학과 전공의가 비장 외상 색전술의 카테터 조작을 스스로 연습하는 시뮬레이션."
    },
    "brief": {
     "audience": {
-     "en": "Radiology residents learning vascular catheterisation.",
+     "en": "Radiology residents learning vascular catheterization.",
      "ko": "혈관 카테터 시술을 배우는 영상의학과 전공의."
     },
     "contribution": {
@@ -2900,53 +2817,8 @@
       "ko": "프리프로덕션"
      },
      "note": {
-      "en": "The pre-production document sets scope and workflow.",
-      "ko": "프리프로덕션 문서로 범위와 워크플로를 정했습니다."
-     },
-     "images": [
-      {
-       "src": "assets/img/work/angiopilot/step1-1-sm.webp",
-       "srcset": {
-        "800": "assets/img/work/angiopilot/step1-1-sm.webp",
-        "1920": "assets/img/work/angiopilot/step1-1.webp"
-       },
-       "w": 1920,
-       "h": 1440
-      }
-     ]
-    },
-    {
-     "stage": {
-      "en": "Visual abstract",
-      "ko": "비주얼 초록"
-     },
-     "note": {
-      "en": "One image explains the tool to residents and faculty.",
-      "ko": "한 장의 그림으로 전공의와 교수진에게 도구를 설명합니다."
-     },
-     "images": [
-      {
-       "src": "assets/img/work/angiopilot/hero-sm.webp",
-       "srcset": {
-        "800": "assets/img/work/angiopilot/hero-sm.webp",
-        "1920": "assets/img/work/angiopilot/hero.webp"
-       },
-       "w": 1920,
-       "h": 1484,
-       "cap": {
-        "en": "[Visual Abstract] Simulation Training Tool for Radiology Residents"
-       }
-      }
-     ]
-    },
-    {
-     "stage": {
-      "en": "Dossier",
-      "ko": "도시에"
-     },
-     "note": {
-      "en": "Interface and asset pages from the project dossier.",
-      "ko": "프로젝트 도시에에 담긴 인터페이스와 에셋 페이지."
+      "en": "The project dossier sets scope and workflow, and lays out the interface and assets.",
+      "ko": "프로젝트 도시에로 범위와 워크플로를 정하고 인터페이스와 에셋을 설계했습니다."
      },
      "images": [
       {
@@ -3124,12 +2996,50 @@
     },
     {
      "stage": {
-      "en": "Feature update",
-      "ko": "기능 업데이트"
+      "en": "Build",
+      "ko": "개발"
      },
      "note": {
-      "en": "Control with the Logitech Muse pen explored.",
-      "ko": "Logitech Muse 펜을 이용한 조작을 탐색했습니다."
+      "en": "Built for Apple Vision Pro with clinicians and developers.",
+      "ko": "임상의·개발자와 함께 애플 비전 프로용으로 개발했습니다."
+     },
+     "images": [
+      {
+       "src": "assets/img/work/angiopilot/step1-1-sm.webp",
+       "srcset": {
+        "800": "assets/img/work/angiopilot/step1-1-sm.webp",
+        "1920": "assets/img/work/angiopilot/step1-1.webp"
+       },
+       "w": 1920,
+       "h": 1440
+      }
+     ]
+    },
+    {
+     "stage": {
+      "en": "User test",
+      "ko": "사용자 테스트"
+     },
+     "note": {
+      "en": "Hands-on sessions with the prototype on the headset, mirrored to a screen for observers.",
+      "ko": "헤드셋으로 프로토타입을 직접 써 보고, 화면에 미러링해 함께 관찰했습니다."
+     },
+     "images": [
+      {
+       "src": "assets/img/work/angiopilot/userTest-01.webp",
+       "w": 800,
+       "h": 600
+      }
+     ]
+    },
+    {
+     "stage": {
+      "en": "Research",
+      "ko": "리서치"
+     },
+     "note": {
+      "en": "Ongoing research collaboration with Massachusetts General Hospital and medVR",
+      "ko": "매사추세츠 종합병원·medVR과 진행 중인 연구 협업"
      },
      "images": [
       {
@@ -3157,6 +3067,12 @@
    "outcomes": [
     {
      "text": {
+      "en": "Presented in the Emerging Technology Zone at the World Medical Innovation Forum (WMIF), Boston, 22–23 September 2026.",
+      "ko": "2026년 9월 22–23일 보스턴 World Medical Innovation Forum(WMIF) Emerging Technology Zone 발표."
+     }
+    },
+    {
+     "text": {
       "en": "Selected as a scientific abstract presentation at the 111th Scientific Assembly and Annual Meeting of the Radiological Society of North America (RSNA), Chicago.",
       "ko": "시카고에서 열린 북미영상의학회(RSNA) 제111차 학술대회 과학 초록 발표로 선정."
      }
@@ -3179,7 +3095,8 @@
     "cap": {
      "en": "[Visual Abstract] Simulation Training Tool for Radiology Residents"
     }
-   }
+   },
+   "finalStep": false
   },
   {
    "id": "m6ve-aya",
@@ -3191,49 +3108,149 @@
     "ko": "M6VE-AYA"
    },
    "kind": {
-    "en": "VR six-minute walk test",
-    "ko": "VR 6분 보행 검사"
+    "en": "Pico X Unity VR six-minute walk test",
+    "ko": "Pico X UnityVR 6분 보행 검사"
    },
    "tools": "Unity, PICO Neo 3",
    "partner": {
     "en": "MD Anderson Cancer Center",
     "ko": "MD 앤더슨 암센터"
    },
+   "role": {
+    "en": "End to end: research, UX/UI design, Unity development, user testing, conference talk, IRB protocol",
+    "ko": "전 과정: 리서치, UX/UI 디자인, Unity 개발, 사용자 테스트, 학회 발표, IRB 프로토콜"
+   },
    "statement": {
-    "en": "The six-minute walk test rebuilt in VR for adolescent and young adult cancer survivors, with two ways to walk.",
-    "ko": "청소년·젊은 성인 암 생존자를 위해 6분 보행 검사를 VR로 다시 만들었습니다. 걷는 방식은 두 가지입니다."
+    "en": "The six-minute walk test, rebuilt as a walk-in-place VR app for adolescent and young adult cancer survivors, with two ways to walk.",
+    "ko": "청소년·젊은 성인(AYA) 암 생존자를 위해 6분 보행 검사를 제자리 걷기 VR 앱으로 다시 만들었습니다. 걷는 방식은 두 가지입니다."
    },
    "brief": {
     "problem": {
-     "en": "The standard test needs a hallway at least 100 feet long, and turning at the cones breaks rhythm and shortens distance.",
-     "ko": "기존 검사는 30미터가 넘는 복도가 필요하고, 고깔을 돌 때마다 리듬이 끊기고 거리가 줄어듭니다."
+     "en": "The standard test needs a 30 m (100 ft) corridor and trained staff, which keeps it out of home and remote rehabilitation. Can VR deliver it without losing clinical validity?",
+     "ko": "기존 검사는 30미터(100피트) 복도와 숙련된 검사자가 필요해 가정·원격 재활에서는 쓰기 어렵습니다. VR로 옮기면서도 임상적 타당성을 지킬 수 있을까요?"
+    },
+    "audience": {
+     "en": "Cancer survivors aged 15–39 who face barriers to attending in-person follow-up assessments.",
+     "ko": "대면 추적 평가에 참여하기 어려운 15~39세 암 생존자."
     },
     "approach": {
-     "en": "FocusWalk keeps attention on steps and personal goals to limit motion sickness. ImmersiveWalk offers an endless virtual hallway with nothing to turn around.",
-     "ko": "FocusWalk는 걸음 수와 개인 목표에 집중하게 해 멀미를 줄입니다. ImmersiveWalk는 돌아설 필요가 없는 끝없는 가상 복도를 제공합니다."
+     "en": "Walk in place: the headset detects each step, and the step count is translated into total walking distance.",
+     "ko": "제자리 걷기: 헤드셋이 걸음을 감지하고, 걸음 수를 총 보행 거리로 환산합니다."
     }
    },
    "hero": {
-    "src": "assets/img/work/m6ve-aya/hero-sm.webp",
+    "src": "assets/img/work/m6ve-aya/cover-sm.webp",
     "srcset": {
-     "800": "assets/img/work/m6ve-aya/hero-sm.webp",
-     "1920": "assets/img/work/m6ve-aya/hero.webp"
+     "800": "assets/img/work/m6ve-aya/cover-sm.webp",
+     "1920": "assets/img/work/m6ve-aya/cover.webp"
     },
     "w": 1920,
-    "h": 1159,
+    "h": 1088,
     "cap": {
-     "en": "Focus Walk Space"
+     "en": "The landing page and the two modes: Focus Walk and Immersive Walk",
+     "ko": "랜딩 페이지와 두 가지 모드: Focus Walk, Immersive Walk"
     }
    },
+   "modes": [
+    {
+     "name": {
+      "en": "Solution 01. Focus Walk",
+      "ko": "솔루션 01. Focus Walk"
+     },
+     "text": {
+      "en": "Focused environment with minimal visuals to support attention and reduce motion sickness.",
+      "ko": "시각 요소를 최소화해 집중을 돕고 멀미를 줄이는 환경."
+     },
+     "points": [
+      {
+       "en": "Display Panel: Timer, real-time pace tracker, and step count.",
+       "ko": "디스플레이 패널: 타이머, 실시간 속도 표시, 걸음 수."
+      },
+      {
+       "en": "Customization Options: Color picker, background music, and customizable sky backgrounds to enhance engagement and enjoyment.",
+       "ko": "맞춤 설정: 색상 선택기, 배경 음악, 바꿀 수 있는 하늘 배경으로 몰입과 즐거움을 높입니다."
+      }
+     ]
+    },
+    {
+     "name": {
+      "en": "Solution 02. Immersive Walk",
+      "ko": "솔루션 02. Immersive Walk"
+     },
+     "text": {
+      "en": "An endless virtual hallway to add realism and to preserve continuous forward walking.",
+      "ko": "현실감을 더하고 끊김 없이 앞으로 걷게 하는 끝없는 가상 복도."
+     },
+     "points": [
+      {
+       "en": "The scenery moves only with your own steps",
+       "ko": "풍경은 내 걸음에 맞춰서만 움직임"
+      },
+      {
+       "en": "Only a timer and step count float ahead",
+       "ko": "앞에는 타이머와 걸음 수만 표시"
+      },
+      {
+       "en": "Made to help walking experience feel more natural",
+       "ko": "걷는 경험이 더 자연스럽게 느껴지도록 설계"
+      }
+     ]
+    }
+   ],
+   "finalStep": false,
    "trail": [
     {
      "stage": {
-      "en": "Onboarding",
-      "ko": "온보딩"
+      "en": "Problem",
+      "ko": "문제"
+     },
+     "points": [
+      {
+       "en": "The corridor test needs a 30 m (100 ft) hallway and trained supervision",
+       "ko": "복도 검사는 30미터(100피트) 공간과 숙련된 감독이 필요"
+      },
+      {
+       "en": "That makes it hard to run at home or in remote rehabilitation",
+       "ko": "가정이나 원격 재활에서는 시행하기 어려움"
+      },
+      {
+       "en": "AYA survivors often do not come back to the clinic for it",
+       "ko": "AYA 생존자는 검사를 위해 병원을 다시 찾지 않는 경우가 많음"
+      }
+     ],
+     "note": {
+      "en": "Goal: a valid, reliable, standardised VR-based stationary 6MWT.",
+      "ko": "목표: 타당하고 신뢰할 수 있는 표준화된 VR 제자리 6분 보행 검사."
+     }
+    },
+    {
+     "stage": {
+      "en": "Research",
+      "ko": "리서치"
+     },
+     "points": [
+      {
+       "en": "Motivation shapes engagement and test performance",
+       "ko": "동기는 참여도와 검사 수행에 영향을 줌"
+      },
+      {
+       "en": "Motion sickness keeps many people out of VR",
+       "ko": "멀미 때문에 VR을 쓰지 못하는 사람이 많음"
+      },
+      {
+       "en": "Turns at the cones reduce the distance walked",
+       "ko": "고깔에서 방향을 바꾸면 보행 거리가 줄어듦"
+      }
+     ]
+    },
+    {
+     "stage": {
+      "en": "Design principles",
+      "ko": "디자인 원칙"
      },
      "note": {
-      "en": "Landing page, project information, and saving and loading user input.",
-      "ko": "랜딩 페이지, 프로젝트 안내, 사용자 입력 저장과 불러오기."
+      "en": "A user flow that mirrors the clinical test, with optional motivational cues.",
+      "ko": "실제 재활 프로그램을 반영해 디자인한 사용자 흐름에, 선택형 동기부여 요소를 더했습니다."
      },
      "images": [
       {
@@ -3245,7 +3262,8 @@
        "w": 1324,
        "h": 1004,
        "cap": {
-        "en": "Landing Page"
+        "en": "Landing page",
+        "ko": "랜딩 페이지"
        }
       },
       {
@@ -3257,7 +3275,8 @@
        "w": 1200,
        "h": 895,
        "cap": {
-        "en": "Learn More About the Project"
+        "en": "Bite-sized information about the test",
+        "ko": "검사에 대한 짧은 안내"
        }
       },
       {
@@ -3269,21 +3288,59 @@
        "w": 1256,
        "h": 954,
        "cap": {
-        "en": "User Input Save and Load"
+        "en": "Personal settings, saved and loaded",
+        "ko": "개인 설정 저장과 불러오기"
        }
+      },
+      {
+       "src": "assets/img/work/m6ve-aya/step1-4.webp",
+       "w": 1920,
+       "h": 1080,
+       "cap": {
+        "en": "User input based 6MWD Goal Setting",
+        "ko": "사용자 입력 기반 6분 보행 거리 목표 설정"
+       }
+      },
+      {
+       "src": "assets/img/work/m6ve-aya/step1-5.webp",
+       "w": 1920,
+       "h": 1080,
+       "cap": {
+        "en": "Achievement",
+        "ko": "성취"
+       }
+      }
+     ],
+     "points": [
+      {
+       "en": "Integrate some gamification (e.g. rewards, achievement, accessible learning resources)",
+       "ko": "게이미피케이션 요소 도입(예: 보상, 성취, 쉽게 접할 수 있는 학습 자료)"
+      },
+      {
+       "en": "Focus Walk Mode: Minimal visuals to lower the barrier to accessing VR caused by motion sickness",
+       "ko": "Focus Walk 모드: 시각 요소를 최소화해 멀미로 인한 VR 진입 장벽을 낮춤"
+      },
+      {
+       "en": "Immersive Walk Mode: Infinite hallway to maximize the user’s walking performance",
+       "ko": "Immersive Walk 모드: 무한 복도로 사용자의 보행 수행을 극대화"
       }
      ]
     },
     {
      "stage": {
-      "en": "FocusWalk",
-      "ko": "FocusWalk"
+      "en": "Build",
+      "ko": "개발"
      },
      "note": {
-      "en": "A calm space with a colour picker and a honeybee speed indicator.",
-      "ko": "색상 선택기와 꿀벌 속도 표시가 있는 차분한 공간."
+      "en": "Developed in Unity for a standalone VR headset. Steps are estimated using head motion alone, by tracking vertical head bobbing and rotational sway.",
+      "ko": "Unity 기반 VR 헤드셋용으로 개발했으며, 별도의 센서 없이 머리의 상하 움직임(Head Bobbing)과 회전 흔들림(Rotational Sway)을 추적해 걸음 수를 추정합니다."
      },
      "images": [
+      {
+       "src": "assets/img/work/m6ve-aya/build-main.webp",
+       "w": 800,
+       "h": 600
+      },
       {
        "src": "assets/img/work/m6ve-aya/hero-sm.webp",
        "srcset": {
@@ -3293,7 +3350,8 @@
        "w": 1920,
        "h": 1159,
        "cap": {
-        "en": "Focus Walk Space"
+        "en": "Focus Walk room",
+        "ko": "Focus Walk 공간"
        }
       },
       {
@@ -3302,37 +3360,18 @@
        "h": 450,
        "anim": "assets/img/work/m6ve-aya/step2-2.webp",
        "cap": {
-        "en": "Color picker for speed indicator display"
+        "en": "Color picker for the pace panel",
+        "ko": "속도 패널 색상 선택기"
        }
       },
-      {
-       "src": "assets/img/work/m6ve-aya/step2-3-sm.webp",
-       "w": 688,
-       "h": 594,
-       "anim": "assets/img/work/m6ve-aya/step2-3.webp",
-       "cap": {
-        "en": "HoneyBee Speed Indicator"
-       }
-      }
-     ]
-    },
-    {
-     "stage": {
-      "en": "ImmersiveWalk",
-      "ko": "ImmersiveWalk"
-     },
-     "note": {
-      "en": "The infinite hallway, worked out in the Unity scene.",
-      "ko": "Unity 씬에서 구상한 무한 복도."
-     },
-     "images": [
       {
        "src": "assets/img/work/m6ve-aya/step3-1-sm.webp",
        "w": 800,
        "h": 450,
        "anim": "assets/img/work/m6ve-aya/step3-1.webp",
        "cap": {
-        "en": "Immersive Walk Space"
+        "en": "Immersive Walk hallway",
+        "ko": "Immersive Walk 복도"
        }
       },
       {
@@ -3341,7 +3380,29 @@
        "h": 450,
        "anim": "assets/img/work/m6ve-aya/step3-2.webp",
        "cap": {
-        "en": "Infinite Hallway Ideation in Unity Scene"
+        "en": "Working out the infinite hallway in the Unity scene",
+        "ko": "Unity 씬에서 구상한 무한 복도"
+       }
+      }
+     ]
+    },
+    {
+     "stage": {
+      "en": "User test",
+      "ko": "사용자 테스트"
+     },
+     "note": {
+      "en": "Nine participants completed a one-minute walking session while thinking aloud, allowing us to evaluate usability and observe their walking experience and engagement.",
+      "ko": "9명의 참가자가 떠오르는 생각을 모두 말로 표현하는 Think-Aloud 방식으로 1분간 걷기 테스트에 참여했습니다. 이를 통해 앱의 사용 편의성을 평가하고, 걷기 경험과 몰입도를 관찰했습니다."
+     },
+     "images": [
+      {
+       "src": "assets/img/work/m6ve-aya/userTest-01.webp",
+       "w": 800,
+       "h": 600,
+       "cap": {
+        "en": "Early prototype usability test",
+        "ko": "초기 프로토타입 사용성 테스트"
        }
       }
      ]
@@ -3414,6 +3475,36 @@
        }
       }
      ]
+    },
+    {
+     "stage": {
+      "en": "IRB protocol",
+      "ko": "IRB 프로토콜"
+     },
+     "note": {
+      "en": "Designed clinical validation protocol comparing the traditional test with the VR test.",
+      "ko": "기존 검사 방식과 VR 프로그램을 비교하는 임상 검증 프로토콜 설계."
+     },
+     "images": [
+      {
+       "src": "assets/img/work/m6ve-aya/irb-01-01.webp",
+       "w": 800,
+       "h": 600,
+       "cap": {
+        "en": "Study Design 01",
+        "ko": "연구 설계 01"
+       }
+      },
+      {
+       "src": "assets/img/work/m6ve-aya/irb-02-01.webp",
+       "w": 800,
+       "h": 600,
+       "cap": {
+        "en": "Study Design 02",
+        "ko": "연구 설계 02"
+       }
+      }
+     ]
     }
    ],
    "outcomes": [
@@ -3423,18 +3514,25 @@
       "ko": "IVRHA 2026 발표: 「Transposing the Six-Minute Walk Test into Virtual Reality, to Preserve Clinical Reliability and Enhance Engagement in AYA Cancer Survivors」."
      },
      "href": "https://health26.ivrha.org/"
+    },
+    {
+     "text": {
+      "en": "[Accepted] Journal of Biomedical Communication (JBC) Volume 50, Issue 2, in December 2026",
+      "ko": "[게재 예정] 생의학 커뮤니케이션 저널 (JBC) 제50권 제2호, 2026년 12월"
+     }
     }
    ],
    "cover": {
-    "src": "assets/img/work/m6ve-aya/hero-sm.webp",
+    "src": "assets/img/work/m6ve-aya/cover-sm.webp",
     "srcset": {
-     "800": "assets/img/work/m6ve-aya/hero-sm.webp",
-     "1920": "assets/img/work/m6ve-aya/hero.webp"
+     "800": "assets/img/work/m6ve-aya/cover-sm.webp",
+     "1920": "assets/img/work/m6ve-aya/cover.webp"
     },
     "w": 1920,
-    "h": 1159,
+    "h": 1088,
     "cap": {
-     "en": "Focus Walk Space"
+     "en": "The landing page and the two modes: Focus Walk and Immersive Walk",
+     "ko": "랜딩 페이지와 두 가지 모드: Focus Walk, Immersive Walk"
     }
    }
   },
@@ -3447,12 +3545,12 @@
     "ko": "LatteArtXR"
    },
    "kind": {
-    "en": "VR training game",
-    "ko": "VR 트레이닝 게임"
+    "en": "Meta X Unity VR training game",
+    "ko": "Meta X Unity VR 트레이닝 게임"
    },
    "tools": "Unity, Meta Quest 3",
    "statement": {
-    "en": "Practise latte art with virtual milk until the pour becomes muscle memory.",
+    "en": "Practice latte art with virtual milk until the pour becomes muscle memory.",
     "ko": "가상의 우유로 라떼 아트를 연습해 손이 기억하게 만드는 VR."
    },
    "brief": {
@@ -3476,12 +3574,12 @@
    "trail": [
     {
      "stage": {
-      "en": "User flow",
-      "ko": "사용자 흐름"
+      "en": "Pre-production",
+      "ko": "프리프로덕션"
      },
      "note": {
-      "en": "Flow mapped on a FigJam board, then checked against the 3D scene.",
-      "ko": "FigJam 보드에 흐름을 그린 뒤 3D 장면에 맞춰 확인했습니다."
+      "en": "Flow mapped on a FigJam board, shared with the team",
+      "ko": "FigJam 보드를 활용한 협업 경험"
      },
      "images": [
       {
@@ -3495,25 +3593,13 @@
        "cap": {
         "en": "User flow chart - FigJam Board"
        }
-      },
-      {
-       "src": "assets/img/work/latte-art-xr/hero-sm.webp",
-       "srcset": {
-        "800": "assets/img/work/latte-art-xr/hero-sm.webp",
-        "1920": "assets/img/work/latte-art-xr/hero.webp"
-       },
-       "w": 1920,
-       "h": 1280,
-       "cap": {
-        "en": "User flow with 3d model"
-       }
       }
      ]
     },
     {
      "stage": {
-      "en": "Pattern selector",
-      "ko": "패턴 선택기"
+      "en": "Hand Tracking Interaction",
+      "ko": "핸드 트래킹 인터랙션"
      },
      "note": {
       "en": "An interactive selector makes choosing a pattern part of the fun.",
@@ -3570,12 +3656,6 @@
       "en": "First Prize, Mixed and Virtual Reality, SensAI Hackathon Barcelona.",
       "ko": "SensAI Hackathon Barcelona 혼합·가상현실 부문 1위."
      }
-    },
-    {
-     "text": {
-      "en": "Submitted to the Meta Horizon Start Developer Competition 2025.",
-      "ko": "Meta Horizon Start Developer Competition 2025 출품."
-     }
     }
    ],
    "cover": {
@@ -3589,7 +3669,8 @@
     "cap": {
      "en": "User flow with 3d model"
     }
-   }
+   },
+   "finalStep": false
   },
   {
    "id": "archipelago",
@@ -3600,8 +3681,8 @@
     "ko": "ARchipelago"
    },
    "kind": {
-    "en": "AR education app",
-    "ko": "AR 교육 앱"
+    "en": "Unity X mobile AR education app",
+    "ko": "Unity X 모바일 AR 교육 앱"
    },
    "tools": "Unity, Xcode",
    "statement": {
@@ -3615,16 +3696,13 @@
     }
    },
    "hero": {
-    "src": "assets/img/work/archipelago/hero-sm.webp",
+    "src": "assets/img/work/archipelago/main-sm.webp",
     "srcset": {
-     "800": "assets/img/work/archipelago/hero-sm.webp",
-     "1920": "assets/img/work/archipelago/hero.webp"
+     "800": "assets/img/work/archipelago/main-sm.webp",
+     "1920": "assets/img/work/archipelago/main.webp"
     },
     "w": 1920,
-    "h": 2715,
-    "cap": {
-     "en": "Physical Model Design"
-    }
+    "h": 886
    },
    "trail": [
     {
@@ -3683,17 +3761,15 @@
     }
    ],
    "cover": {
-    "src": "assets/img/work/archipelago/hero-sm.webp",
+    "src": "assets/img/work/archipelago/main-sm.webp",
     "srcset": {
-     "800": "assets/img/work/archipelago/hero-sm.webp",
-     "1920": "assets/img/work/archipelago/hero.webp"
+     "800": "assets/img/work/archipelago/main-sm.webp",
+     "1920": "assets/img/work/archipelago/main.webp"
     },
     "w": 1920,
-    "h": 2715,
-    "cap": {
-     "en": "Physical Model Design"
-    }
-   }
+    "h": 886
+   },
+   "finalStep": false
   },
   {
    "id": "bloomwatch",
@@ -3833,7 +3909,7 @@
     "ko": "전 과정: 사용자 조사, 기획, UX/UI, 3D 에셋, Unity 개발, TestFlight 배포"
    },
    "statement": {
-    "en": "A scenario-based refresher that lets physiotherapists practise NMES on unresponsive ICU patients, on their phone.",
+    "en": "A scenario-based refresher that lets physiotherapists practice NMES on unresponsive ICU patients, on their phone.",
     "ko": "물리치료사가 반응이 없는 중환자에게 NMES를 적용하는 과정을 휴대폰으로 연습하는 시나리오 기반 교육 앱."
    },
    "brief": {
@@ -4754,7 +4830,7 @@
     "ko": "UofT Talks, 토론토 대학교 의과학연구소"
    },
    "statement": {
-    "en": "Poster and teaser for a public talk on illness, ageing and the end of life: time as an hourglass with a winding road inside.",
+    "en": "Poster and teaser for a public talk on illness, aging and the end of life: time as an hourglass with a winding road inside.",
     "ko": "질병과 노화, 삶의 마지막을 다룬 공개 강연의 포스터와 티저. 굽이진 길이 담긴 모래시계로 시간을 그렸습니다."
    },
    "hero": {

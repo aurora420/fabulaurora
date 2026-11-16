@@ -143,6 +143,40 @@
   ],
   "projects": [
     {
+      "work": "m6ve-aya",
+      "role": {
+        "en": "M6VE-AYA",
+        "ko": "M6VE-AYA"
+      },
+      "where": {
+        "en": "A VR six-minute walk test for adolescent and young adult cancer survivors, with MD Anderson Cancer Center",
+        "ko": "청소년·젊은 성인 암 생존자를 위한 VR 6분 보행 검사 · MD 앤더슨 암센터 협업"
+      },
+      "points": [
+        {
+          "en": "Led the project end to end: literature research, UX/UI design, Unity development, usability testing, conference presentation and the clinical validation protocol.",
+          "ko": "문헌 조사, UX/UI 디자인, Unity 개발, 사용성 테스트, 학회 발표, 임상 검증 프로토콜까지 전 과정을 이끌었습니다."
+        }
+      ]
+    },
+    {
+      "work": "mls-toolkit",
+      "role": {
+        "en": "Healthcare Profession Career Educational Toolkit",
+        "ko": "보건의료 전문직 진로 교육 툴킷"
+      },
+      "where": {
+        "en": "A classroom toolkit introducing medical laboratory science to grades 7 and 8, with the UT MD Anderson School of Health Professions",
+        "ko": "7–8학년에게 임상병리 과학을 소개하는 교실용 툴킷 · UT MD 앤더슨 암센터 보건전문대학 협업"
+      },
+      "points": [
+        {
+          "en": "Designed story-based patient cases on an interactive website, with printable worksheets and teacher slides for the classroom.",
+          "ko": "인터랙티브 웹사이트의 이야기형 환자 사례와 교실용 인쇄 워크시트, 교사용 슬라이드를 디자인했습니다."
+        }
+      ]
+    },
+    {
       "work": "icurwave",
       "role": {
         "en": "ICUrWave",
@@ -209,14 +243,23 @@
   "recognition": [
     {
       "role": {
+        "en": "World Medical Innovation Forum (WMIF) 2026",
+        "ko": "World Medical Innovation Forum (WMIF) 2026"
+      },
+      "where": {
+        "en": "Emerging Technology Zone presentation, September 22–23, 2026, Boston",
+        "ko": "Emerging Technology Zone 발표 · 2026년 9월 22–23일, 보스턴"
+      }
+    },
+    {
+      "role": {
         "en": "RSNA 2025 scientific abstract presentation",
         "ko": "RSNA 2025 과학 초록 발표"
       },
       "where": {
         "en": "AngioPilot, 111th Scientific Assembly and Annual Meeting, Chicago",
         "ko": "AngioPilot · 제111차 학술대회, 시카고"
-      },
-      "work": "angiopilot"
+      }
     },
     {
       "role": {

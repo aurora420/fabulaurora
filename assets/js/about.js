@@ -27,7 +27,7 @@ function render() {
           <p class="muted" style="margin-top:.9rem">${esc(about.name)}, ${esc(about.credentials)}</p>
           <div class="row" style="margin-top:1.75rem">
             <a class="btn btn--primary" href="contact.html">${esc(t('hero.cta2'))}</a>
-            ${site.resume ? `<a class="btn btn--ghost" href="${esc(site.resume)}" download>${esc(t('about.resume'))}</a>` : ''}
+            <a class="btn btn--ghost" href="#experience">${esc(t('about.toexp'))}</a>
           </div>
         </div>
         <div class="about-top__art"><img src="assets/img/avatars/About.webp" alt="" width="812" height="900"></div>
@@ -41,7 +41,7 @@ function render() {
       </div>
     </section>
 
-    <section class="section">
+    <section class="section" id="experience">
       <div class="wrap cv">
         ${group('about.cv.experience', about.experience)}
         ${group('about.cv.projects', about.projects)}
@@ -49,20 +49,6 @@ function render() {
         ${group('about.cv.education', about.education)}
         <h2>${esc(t('about.cv.tools'))}</h2>
         <div class="cv__items" style="padding-top:1.4rem"><ul class="toolset">${about.tools.map((x) => `<li>${esc(x)}</li>`).join('')}</ul></div>
-      </div>
-    </section>
-
-    <section class="section cta-band">
-      <div class="wrap">
-        <div>
-          <h2 class="display">${esc(t('about.cta.h'))}</h2>
-          <p>${esc(t('about.cta.p'))}</p>
-          <div class="row" style="margin-top:1.75rem">
-            <a class="btn btn--butter" href="contact.html">${esc(t('hero.cta2'))}</a>
-            ${site.resume ? `<a class="btn btn--ghost-light" href="${esc(site.resume)}" download>${esc(t('about.resume'))}</a>` : ''}
-          </div>
-        </div>
-        <img class="cta-band__sticker" src="assets/img/avatars/sticker-medical.webp" alt="" loading="lazy">
       </div>
     </section>`;
 }

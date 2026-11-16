@@ -197,7 +197,7 @@ export async function mountHero({ hero, stage, callouts, stageColor = '#221f2e',
     composer.addPass(new UnrealBloomPass(new THREE.Vector2(1, 1), 0.2, 0.5, 1.0));
     composer.addPass(new OutputPass());
   } else {
-    // without the post pass the backdrop is not tone-mapped, so set the colour that pass would have produced
+    // without the post pass the backdrop is not tone-mapped, so set the color that pass would have produced
     scene.background.set('#0b0420');
   }
 
@@ -463,7 +463,7 @@ export async function mountHero({ hero, stage, callouts, stageColor = '#221f2e',
     drawPins();
   }
 
-  // Tone mapping shifts the dark backdrop a little, so read the colour the canvas really shows
+  // Tone mapping shifts the dark backdrop a little, so read the color the canvas really shows
   // and hand it to the page: the section behind the canvas then matches it exactly.
   function matchBackdrop() {
     const gl = renderer.getContext();

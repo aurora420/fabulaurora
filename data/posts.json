@@ -388,6 +388,165 @@
           "ko": "첫 스케치와 디자인 결정부터 완성된 인쇄 워크북까지 툴킷이 만들어진 과정이 궁금하시다면, <b><a href=\"work.html?id=mls-toolkit\">갤러리에서 전체 디자인 과정을 살펴봐주세요.</a></b>"
         }
       ]
+    },
+    {
+      "id": "p010",
+      "slug": "ims-healthcare-challenge-2025",
+      "title": {
+        "en": "First Place at the IMS Healthcare Challenge 2025",
+        "ko": "IMS Healthcare Challenge 2025 1위 수상"
+      },
+      "category": "biomedical",
+      "tags": [
+        "AI",
+        "primary care",
+        "branding",
+        "pitch",
+        "visual storytelling",
+        "University of Toronto"
+      ],
+      "sort": "2025-02-13",
+      "date": "Feb 13, 2025",
+      "location": {
+        "en": "Toronto, Canada",
+        "ko": "캐나다 토론토"
+      },
+      "author": "Jeah Kim",
+      "authorRole": {
+        "en": "Biomedical communicator.",
+        "ko": "바이오메디컬 커뮤니케이터."
+      },
+      "image": {
+        "src": "assets/img/blog/EMRaId/team-judges.webp",
+        "w": 1179,
+        "h": 714
+      },
+      "imageAlt": {
+        "en": "Our team of five smiling with three judges, one teammate holding a blue University of Toronto folder.",
+        "ko": "파란색 토론토 대학교 폴더를 든 팀원을 가운데 두고 심사위원 세 명과 함께 웃고 있는 다섯 명의 팀."
+      },
+      "excerpt": {
+        "en": "Our team pitched EMRaId, an AI overlay that clears the EMR inbox for family physicians, and took first place.",
+        "ko": "가정의의 EMR 인박스를 정리해 주는 AI 오버레이 EMRaId를 제안해 1위를 수상했습니다."
+      },
+      "lead": {
+        "en": "This year’s theme asked for AI solutions to improve primary care in Canada. Our team answered with EMRaId, a tool that takes on the inbox so physicians can get back to medicine.",
+        "ko": "올해의 주제는 캐나다의 일차 의료를 개선할 AI 솔루션이었습니다. 저희 팀은 의사가 다시 진료에 집중할 수 있도록 인박스를 대신 관리해 주는 도구, EMRaId를 제안했습니다."
+      },
+      "content": [
+        {
+          "en": "## The problem",
+          "ko": "## 문제"
+        },
+        {
+          "en": "Across Canada, physicians collectively lose 18.5 million hours every year to administrative tasks. That is the full-time work of 7,502 physicians, and time that could have gone to 55.6 million patient visits.",
+          "ko": "캐나다 전역의 의사들은 매년 총 1,850만 시간을 행정 업무에 쓰고 있습니다. 이는 의사 7,502명의 전일 근무량에 해당하며, 5,560만 건의 환자 진료에 쓸 수 있었던 시간입니다."
+        },
+        {
+          "en": "The cost isn’t just wasted time. It is delayed care, burnt-out doctors and a strained healthcare system. But what if AI could handle the busy work, so that physicians can focus on medicine, not messages? That question became the starting point of our solution.",
+          "ko": "낭비되는 것은 시간만이 아닙니다. 진료는 늦어지고, 의사는 지치고, 의료 시스템은 부담을 떠안습니다. 그렇다면 AI가 잡무를 맡아 의사가 메시지가 아닌 진료에 집중할 수 있다면 어떨까요? 이 질문이 저희 팀 솔루션의 출발점이 되었습니다."
+        },
+        {
+          "figure": {
+            "src": "assets/img/blog/EMRaId/brochure.webp",
+            "w": 1200,
+            "h": 800,
+            "alt": {
+              "en": "Event brochures fanned out on a table, reading “The Healthcare Innovation Challenge: Redefining Primary Care in Canada.”",
+              "ko": "탁자 위에 펼쳐진 행사 안내 책자. ‘The Healthcare Innovation Challenge: Redefining Primary Care in Canada’라고 적혀 있다."
+            }
+          },
+          "caption": {
+            "en": "This year’s theme: redefining primary care in Canada.",
+            "ko": "올해의 주제: 캐나다 일차 의료의 재정의."
+          }
+        },
+        {
+          "en": "## Our solution: EMRaId",
+          "ko": "## 솔루션: EMRaId"
+        },
+        {
+          "en": "EMRaId is an AI overlay tool that manages the EMR inbox. It sits on top of the electronic medical record a clinic already uses and takes on the inbox work that piles up before patient care even begins.",
+          "ko": "EMRaId는 EMR 인박스를 관리하는 AI 오버레이 도구입니다. 병원이 이미 사용 중인 전자의무기록(EMR) 위에서 작동하며, 진료를 시작하기도 전에 쌓이는 인박스 업무를 대신 처리합니다."
+        },
+        {
+          "figure": {
+            "src": "assets/img/blog/EMRaId/brandDesign.webp",
+            "w": 1200,
+            "h": 675,
+            "alt": {
+              "en": "Title slide of the pitch deck: the EMRaId wordmark with the line “The Valuable AI Tool for a Clear Inbox,” beside a green gem made of faceted pieces.",
+              "ko": "피치 덱의 표지 슬라이드. EMRaId 워드마크와 ‘The Valuable AI Tool for a Clear Inbox’ 문구 옆에 여러 조각으로 이루어진 초록색 보석이 놓여 있다."
+            }
+          },
+          "caption": {
+            "en": "The name and logo: EMR and AI, cut like an emerald.",
+            "ko": "이름과 로고: EMR과 AI를 에메랄드처럼 깎아 담았습니다."
+          }
+        },
+        {
+          "en": "## My contribution",
+          "ko": "## 나의 역할"
+        },
+        {
+          "en": "- Developed the brand story, including the name and logo, to convey our identity clearly and put the solution first.",
+          "ko": "- 팀의 정체성을 분명히 전하고 솔루션을 강조할 수 있도록 이름과 로고를 포함한 브랜드 스토리를 개발했습니다."
+        },
+        {
+          "en": "- Designed a user persona: a family physician who already feels overwhelmed by administrative tasks and a full inbox before patient care begins.",
+          "ko": "- 진료를 시작하기도 전에 행정 업무와 가득 찬 인박스로 이미 지쳐 있는 가정의를 사용자 페르소나로 설계했습니다."
+        },
+        {
+          "en": "- Improved the visual communication of the final deliverables.",
+          "ko": "- 최종 결과물의 시각적 커뮤니케이션을 다듬었습니다."
+        },
+        {
+          "gallery": [
+            {
+              "src": "assets/img/blog/EMRaId/duringPitch.webp",
+              "w": 600,
+              "h": 800,
+              "alt": {
+                "en": "A presenter with a microphone beside a slide titled “01. Problem” showing 18.5 million hours, 7,502 physicians and 55.6 million patient visits.",
+                "ko": "마이크를 든 발표자 옆으로 ‘01. Problem’ 슬라이드가 보이고, 1,850만 시간, 의사 7,502명, 환자 진료 5,560만 건이라는 수치가 적혀 있다."
+              },
+              "cap": {
+                "en": "The pitch opens with the problem, through our persona, Dr. Ben.",
+                "ko": "페르소나 ‘Dr. Ben’의 이야기로 문제를 제시하며 시작한 발표."
+              }
+            },
+            {
+              "src": "assets/img/blog/EMRaId/award.webp",
+              "w": 600,
+              "h": 797,
+              "alt": {
+                "en": "A blue University of Toronto folder held over a folded sweatshirt throw, with a name badge reading “Team 37 Finalist.”",
+                "ko": "접힌 스웨트셔츠 담요 위로 든 파란색 토론토 대학교 폴더와 ‘Team 37 Finalist’라고 적힌 이름표."
+              },
+              "cap": {
+                "en": "First place, Team 37.",
+                "ko": "1위, Team 37."
+              }
+            }
+          ]
+        },
+        {
+          "en": "## Reflection",
+          "ko": "## 돌아보며"
+        },
+        {
+          "en": "It was a great honour to collaborate with my team members, each of whom brought a unique perspective, from clinical research to business.",
+          "ko": "임상 연구부터 비즈니스까지, 저마다 다른 시각을 가진 팀원들과 함께할 수 있어 큰 영광이었습니다."
+        },
+        {
+          "en": "Presenting our pitch as if launching a startup was a unique and valuable experience. It reinforced the power of visual storytelling in communicating ideas to an audience. This was my first competitive pitch at IMS, and I was pleasantly surprised that many attendees recognized me and my program through my ongoing magazine design work.",
+          "ko": "스타트업을 출범하듯 발표한 경험은 특별하고 값졌습니다. 아이디어를 청중에게 전달하는 데 비주얼 스토리텔링이 얼마나 큰 힘을 갖는지 다시 한번 느꼈습니다. IMS에서 경쟁 피치에 참여한 것은 이번이 처음이었는데, 꾸준히 해 온 매거진 디자인 작업 덕분에 많은 참석자들이 저와 제 전공을 알아봐 주셔서 반갑고 놀라웠습니다."
+        },
+        {
+          "en": "This experience has deepened my interest in the intersection of AI and medicine. AI is often viewed with caution, particularly around patient data ethics, but I have come to realize how eager healthcare professionals are for innovation. I have seen how AI can create opportunities for more efficient care, and I now see it as a powerful tool that could transform healthcare delivery and, eventually, improve patient outcomes.",
+          "ko": "이번 경험으로 AI와 의료의 접점에 대한 관심이 더욱 깊어졌습니다. AI는 특히 환자 데이터 윤리 문제로 조심스러운 시선을 받곤 하지만, 의료 전문가들이 혁신을 얼마나 간절히 바라는지 알게 되었습니다. AI가 더 효율적인 진료의 기회를 만들 수 있다는 것을 직접 보았고, 이제는 AI가 의료 전달 방식을 바꾸고 궁극적으로 환자의 치료 결과를 개선할 수 있는 강력한 도구라고 생각합니다."
+        }
+      ]
     }
   ]
 }
